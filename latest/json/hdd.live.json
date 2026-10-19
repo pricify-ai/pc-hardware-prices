@@ -1,0 +1,7535 @@
+{
+ "dataset": "Pricify weekly PC hardware prices",
+ "site": "hdd.live",
+ "week": "2026-W41",
+ "from": "2026-10-05",
+ "to": "2026-10-11",
+ "timezone": "America/New_York",
+ "currency": "USD",
+ "license": "CC BY 4.0",
+ "attribution": "Pricify (pricify.ai)",
+ "generated": "2026-10-19T00:30:02Z",
+ "products": [
+  {
+   "rank": 1,
+   "product_id": 3537,
+   "name": "Western Digital Elements 20TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": "Elements",
+   "category": "hdd",
+   "part_number": "WDBWLG0200HBK-NESN",
+   "upc": "718037894546",
+   "launch_price": null,
+   "week_low": 549.99,
+   "week_high": 879.99,
+   "week_open": 879.99,
+   "week_close": 849.99,
+   "typical_price_end": 879.99,
+   "prev_week_close": 849.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-elements-20tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 879.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-06",
+     "low": 549.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 549.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-08",
+     "low": 800.22,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 849.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 849.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 849.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "product_id": 7096,
+   "name": "Seagate One Touch 16TB External Hard Drive",
+   "maker": "Seagate",
+   "model": "One Touch",
+   "category": "hdd",
+   "part_number": "STNB16000400",
+   "upc": "763649185377",
+   "launch_price": null,
+   "week_low": 509.99,
+   "week_high": 509.99,
+   "week_open": 509.99,
+   "week_close": 509.99,
+   "typical_price_end": 534.99,
+   "prev_week_close": 509.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/seagate-one-touch-16tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 509.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-06",
+     "low": 509.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-07",
+     "low": 509.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-08",
+     "low": 509.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-09",
+     "low": 509.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-10",
+     "low": 509.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-11",
+     "low": 509.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "product_id": 7097,
+   "name": "Seagate One Touch 20TB External Hard Drive",
+   "maker": "Seagate",
+   "model": "One Touch",
+   "category": "hdd",
+   "part_number": "STNB20000400",
+   "upc": "763649185391",
+   "launch_price": null,
+   "week_low": 649.99,
+   "week_high": 649.99,
+   "week_open": 649.99,
+   "week_close": 649.99,
+   "typical_price_end": 649.99,
+   "prev_week_close": 649.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 4,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/seagate-one-touch-20tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 649.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-06",
+     "low": 649.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-07",
+     "low": 649.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-08",
+     "low": 649.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-09",
+     "low": 649.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-10",
+     "low": 649.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-11",
+     "low": 649.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 4
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "product_id": 2179,
+   "name": "Western Digital WD Gold 24TB 3.5\" 7200 RPM SATA",
+   "maker": "Western Digital",
+   "model": "WD Gold",
+   "category": "hdd",
+   "part_number": "WD242KRYZ",
+   "upc": "718037904931",
+   "launch_price": null,
+   "week_low": 1059.99,
+   "week_high": 1059.99,
+   "week_open": 1059.99,
+   "week_close": 1059.99,
+   "typical_price_end": 1059.99,
+   "prev_week_close": 1039.99,
+   "change_vs_prev_week_pct": 1.9,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-gold-24tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-06",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-08",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-10",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-11",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "product_id": 3584,
+   "name": "Western Digital My Passport 4TB External Hard Drive Black (WDBPKJ0040BBK-WESN)",
+   "maker": "Western Digital",
+   "model": "My Passport",
+   "category": "hdd",
+   "part_number": "WDBPKJ0040BBK-WESN",
+   "upc": "718037869438",
+   "launch_price": null,
+   "week_low": 184.5,
+   "week_high": 249.99,
+   "week_open": 249.99,
+   "week_close": 249.99,
+   "typical_price_end": 249.99,
+   "prev_week_close": 249.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 21,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-my-passport-4tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-06",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-07",
+     "low": 184.5,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-08",
+     "low": 184.5,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-09",
+     "low": 184.5,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-10",
+     "low": 184.5,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-11",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 21
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "product_id": 1928,
+   "name": "Seagate IronWolf 8TB 3.5\" 7200 RPM SATA (ST8000VN004)",
+   "maker": "Seagate",
+   "model": "IronWolf",
+   "category": "hdd",
+   "part_number": "ST8000VN004",
+   "upc": "763649125069",
+   "launch_price": null,
+   "week_low": 329.99,
+   "week_high": 329.99,
+   "week_open": 329.99,
+   "week_close": 329.99,
+   "typical_price_end": 329.99,
+   "prev_week_close": 329.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 17,
+   "lowest_store_end": "Newegg",
+   "url": "https://hdd.live/drives/seagate-ironwolf-8tb-35-7200-rpm-sata-2",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 329.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-06",
+     "low": 329.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-07",
+     "low": 329.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-08",
+     "low": 329.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-09",
+     "low": 329.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-10",
+     "low": 329.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 18
+    },
+    {
+     "date": "2026-10-11",
+     "low": 329.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 17
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "product_id": 1687,
+   "name": "Western Digital WD Red Plus 4TB 3.5\" 5400 RPM SATA (WD40EFZZ)",
+   "maker": "Western Digital",
+   "model": "WD Red Plus",
+   "category": "hdd",
+   "part_number": "WD40EFZZ",
+   "upc": "718037905754",
+   "launch_price": null,
+   "week_low": 194.99,
+   "week_high": 194.99,
+   "week_open": 194.99,
+   "week_close": 194.99,
+   "typical_price_end": 194.99,
+   "prev_week_close": 194.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 23,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-red-plus-4tb-35-5400-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 194.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-06",
+     "low": 194.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-07",
+     "low": 194.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 18
+    },
+    {
+     "date": "2026-10-08",
+     "low": 194.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-09",
+     "low": 194.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-10",
+     "low": 194.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-11",
+     "low": 194.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 23
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "product_id": 1714,
+   "name": "Western Digital WD Red Pro 4TB 3.5\" 7200 RPM SATA",
+   "maker": "Western Digital",
+   "model": "WD Red Pro",
+   "category": "hdd",
+   "part_number": "WD4005FFBX",
+   "upc": "718037902814",
+   "launch_price": null,
+   "week_low": 244.99,
+   "week_high": 244.99,
+   "week_open": 244.99,
+   "week_close": 244.99,
+   "typical_price_end": 249.585,
+   "prev_week_close": 244.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 19,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-red-pro-4tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 244.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-06",
+     "low": 244.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-07",
+     "low": 244.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-08",
+     "low": 244.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-09",
+     "low": 244.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-10",
+     "low": 244.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-11",
+     "low": 244.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 19
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "product_id": 1720,
+   "name": "Seagate IronWolf 4TB 3.5\" 5400 RPM SATA",
+   "maker": "Seagate",
+   "model": "IronWolf",
+   "category": "hdd",
+   "part_number": "ST4000VN006",
+   "upc": "763649090985",
+   "launch_price": null,
+   "week_low": 189.99,
+   "week_high": 189.99,
+   "week_open": 189.99,
+   "week_close": 189.99,
+   "typical_price_end": 189.99,
+   "prev_week_close": 189.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 8,
+   "lowest_store_end": "Newegg",
+   "url": "https://hdd.live/drives/seagate-ironwolf-4tb-35-5400-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 189.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-06",
+     "low": 189.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-07",
+     "low": 189.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-08",
+     "low": 189.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-09",
+     "low": 189.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 13
+    },
+    {
+     "date": "2026-10-10",
+     "low": 189.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 10
+    },
+    {
+     "date": "2026-10-11",
+     "low": 189.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 8
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "product_id": 1745,
+   "name": "Seagate BarraCuda 4TB 3.5\" 5400 RPM SATA",
+   "maker": "Seagate",
+   "model": "BarraCuda",
+   "category": "hdd",
+   "part_number": "ST4000DM004",
+   "upc": "763649094402",
+   "launch_price": null,
+   "week_low": 149.99,
+   "week_high": 149.99,
+   "week_open": 149.99,
+   "week_close": 149.99,
+   "typical_price_end": 159.99,
+   "prev_week_close": 149.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 27,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/seagate-barracuda-4tb-35-5400-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-06",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-08",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-10",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-11",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 27
+    }
+   ]
+  },
+  {
+   "rank": 11,
+   "product_id": 1856,
+   "name": "Western Digital WD Gold 4TB 3.5\" 7200 RPM SATA (WD4004FRYZ)",
+   "maker": "Western Digital",
+   "model": "WD Gold",
+   "category": "hdd",
+   "part_number": "WD4004FRYZ",
+   "upc": "718037899909",
+   "launch_price": null,
+   "week_low": 244.99,
+   "week_high": 244.99,
+   "week_open": 244.99,
+   "week_close": 244.99,
+   "typical_price_end": 259.99,
+   "prev_week_close": 244.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-wd-gold-4tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 244.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-06",
+     "low": 244.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-07",
+     "low": 244.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-08",
+     "low": 244.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-09",
+     "low": 244.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-10",
+     "low": 244.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-11",
+     "low": 244.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    }
+   ]
+  },
+  {
+   "rank": 12,
+   "product_id": 1865,
+   "name": "Western Digital WD Red Plus 8TB 3.5\" 5640 RPM SATA (WD80EFPX)",
+   "maker": "Western Digital",
+   "model": "WD Red Plus",
+   "category": "hdd",
+   "part_number": "WD80EFPX",
+   "upc": "718037899817",
+   "launch_price": null,
+   "week_low": 340.96,
+   "week_high": 354.99,
+   "week_open": 340.96,
+   "week_close": 354.99,
+   "typical_price_end": 355.0,
+   "prev_week_close": 346.94,
+   "change_vs_prev_week_pct": 2.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 9,
+   "shops_in_stock_end": 33,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-red-plus-8tb-35-5640-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 340.96,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-06",
+     "low": 354.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-07",
+     "low": 354.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-08",
+     "low": 354.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-09",
+     "low": 354.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-10",
+     "low": 354.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-11",
+     "low": 354.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 9,
+     "shops_in_stock": 33
+    }
+   ]
+  },
+  {
+   "rank": 13,
+   "product_id": 1911,
+   "name": "Seagate BarraCuda 8TB 3.5\" 5400 RPM SATA",
+   "maker": "Seagate",
+   "model": "BarraCuda",
+   "category": "hdd",
+   "part_number": "ST8000DM004",
+   "upc": "763649094419",
+   "launch_price": null,
+   "week_low": 269.99,
+   "week_high": 269.99,
+   "week_open": 269.99,
+   "week_close": 269.99,
+   "typical_price_end": 279.99,
+   "prev_week_close": 249.99,
+   "change_vs_prev_week_pct": 8.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 34,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://hdd.live/drives/seagate-barracuda-8tb-35-5400-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 269.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-06",
+     "low": 269.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-07",
+     "low": 269.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-08",
+     "low": 269.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-09",
+     "low": 269.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-10",
+     "low": 269.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-11",
+     "low": 269.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    }
+   ]
+  },
+  {
+   "rank": 14,
+   "product_id": 1936,
+   "name": "Western Digital WD Gold 8TB 3.5\" 7200 RPM SATA",
+   "maker": "Western Digital",
+   "model": "WD Gold",
+   "category": "hdd",
+   "part_number": "WD8005FRYZ",
+   "upc": "718037899947",
+   "launch_price": null,
+   "week_low": 387.99,
+   "week_high": 387.99,
+   "week_open": 387.99,
+   "week_close": 387.99,
+   "typical_price_end": 387.99,
+   "prev_week_close": 379.99,
+   "change_vs_prev_week_pct": 2.1,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://hdd.live/drives/western-digital-wd-gold-8tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 387.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-06",
+     "low": 387.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 387.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-08",
+     "low": 387.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 387.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 387.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 387.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 15,
+   "product_id": 1944,
+   "name": "Western Digital WD Black 8TB 3.5\" 7200 RPM SATA",
+   "maker": "Western Digital",
+   "model": "WD_BLACK",
+   "category": "hdd",
+   "part_number": "WD8002FZBX",
+   "upc": "718037858470",
+   "launch_price": null,
+   "week_low": 329.99,
+   "week_high": 329.99,
+   "week_open": 329.99,
+   "week_close": 329.99,
+   "typical_price_end": 379.99,
+   "prev_week_close": 329.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 34,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-black-8tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 329.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-06",
+     "low": 329.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-07",
+     "low": 329.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-08",
+     "low": 329.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-09",
+     "low": 329.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-10",
+     "low": 329.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-11",
+     "low": 329.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 34
+    }
+   ]
+  },
+  {
+   "rank": 16,
+   "product_id": 1953,
+   "name": "Western Digital WD Black 10TB 3.5\" 7200 RPM SATA",
+   "maker": "Western Digital",
+   "model": "WD_BLACK",
+   "category": "hdd",
+   "part_number": "WD102FZBX",
+   "upc": "718037901268",
+   "launch_price": null,
+   "week_low": 439.99,
+   "week_high": 459.99,
+   "week_open": 439.99,
+   "week_close": 459.99,
+   "typical_price_end": 509.99,
+   "prev_week_close": 439.99,
+   "change_vs_prev_week_pct": 4.5,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-black-10tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 439.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-06",
+     "low": 439.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-07",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-08",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-09",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 17,
+   "product_id": 2000,
+   "name": "Western Digital WD Blue 10TB 3.5\" 7200 RPM SATA",
+   "maker": "Western Digital",
+   "model": "WD Blue",
+   "category": "hdd",
+   "part_number": "WD100EAGZ",
+   "upc": "718037907871",
+   "launch_price": null,
+   "week_low": 329.99,
+   "week_high": 329.99,
+   "week_open": 329.99,
+   "week_close": 329.99,
+   "typical_price_end": 394.99,
+   "prev_week_close": 329.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-blue-10tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 329.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-06",
+     "low": 329.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-07",
+     "low": 329.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-08",
+     "low": 329.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-09",
+     "low": 329.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-10",
+     "low": 329.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-11",
+     "low": 329.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 18,
+   "product_id": 2022,
+   "name": "Western Digital WD Purple Pro 8TB 3.5\" 7200 RPM SATA",
+   "maker": "Western Digital",
+   "model": "WD Purple Pro",
+   "category": "hdd",
+   "part_number": "WD8002PURP",
+   "upc": "718037896748",
+   "launch_price": null,
+   "week_low": 379.99,
+   "week_high": 399.99,
+   "week_open": 399.99,
+   "week_close": 379.99,
+   "typical_price_end": 444.99,
+   "prev_week_close": 444.99,
+   "change_vs_prev_week_pct": -14.6,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 9,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-purple-pro-8tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 399.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-06",
+     "low": 379.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-07",
+     "low": 379.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-08",
+     "low": 379.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-09",
+     "low": 379.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 11
+    },
+    {
+     "date": "2026-10-10",
+     "low": 379.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-11",
+     "low": 379.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 9
+    }
+   ]
+  },
+  {
+   "rank": 19,
+   "product_id": 2032,
+   "name": "Western Digital WD Gold 10TB 3.5\" 7200 RPM SATA (WD103KRYZ)",
+   "maker": "Western Digital",
+   "model": "WD Gold",
+   "category": "hdd",
+   "part_number": "WD103KRYZ",
+   "upc": "718037901428",
+   "launch_price": null,
+   "week_low": 459.99,
+   "week_high": 459.99,
+   "week_open": 459.99,
+   "week_close": 459.99,
+   "typical_price_end": 501.98,
+   "prev_week_close": 459.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 33,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-gold-10tb-35-7200-rpm-sata-2",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-06",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-07",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-08",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-09",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-10",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-11",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 33
+    }
+   ]
+  },
+  {
+   "rank": 20,
+   "product_id": 2095,
+   "name": "Western Digital WD Gold 12TB 3.5\" 7200 RPM SATA (WD122KRYZ)",
+   "maker": "Western Digital",
+   "model": "WD Gold",
+   "category": "hdd",
+   "part_number": "WD122KRYZ",
+   "upc": "718037901442",
+   "launch_price": null,
+   "week_low": 529.99,
+   "week_high": 529.99,
+   "week_open": 529.99,
+   "week_close": 529.99,
+   "typical_price_end": 594.99,
+   "prev_week_close": 529.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 33,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-gold-12tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-06",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-08",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-09",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-10",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-11",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 33
+    }
+   ]
+  },
+  {
+   "rank": 21,
+   "product_id": 2127,
+   "name": "Western Digital WD Red Pro 16TB 3.5\" 7200 RPM SATA",
+   "maker": "Western Digital",
+   "model": "WD Red Pro",
+   "category": "hdd",
+   "part_number": "WD161KFGX",
+   "upc": "718037877662",
+   "launch_price": null,
+   "week_low": 704.99,
+   "week_high": 704.99,
+   "week_open": 704.99,
+   "week_close": 704.99,
+   "typical_price_end": 722.49,
+   "prev_week_close": 699.5,
+   "change_vs_prev_week_pct": 0.8,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-red-pro-16tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 704.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-06",
+     "low": 704.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 704.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-08",
+     "low": 704.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-09",
+     "low": 704.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-10",
+     "low": 704.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-11",
+     "low": 704.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 22,
+   "product_id": 2137,
+   "name": "Western Digital WD Blue 12TB 3.5\" 7200 RPM SATA",
+   "maker": "Western Digital",
+   "model": "WD Blue",
+   "category": "hdd",
+   "part_number": "WD120EAGZ",
+   "upc": "718037907888",
+   "launch_price": null,
+   "week_low": 441.75,
+   "week_high": 504.99,
+   "week_open": 504.99,
+   "week_close": 441.75,
+   "typical_price_end": 504.99,
+   "prev_week_close": 449.99,
+   "change_vs_prev_week_pct": -1.8,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-wd-blue-12tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 504.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-06",
+     "low": 504.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 504.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-08",
+     "low": 504.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 504.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 441.75,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 441.75,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 23,
+   "product_id": 2158,
+   "name": "Western Digital WD Red Pro 12TB 3.5\" 7200 RPM SATA (WD122KFBX)",
+   "maker": "Western Digital",
+   "model": "WD Red Pro",
+   "category": "hdd",
+   "part_number": "WD122KFBX",
+   "upc": "718037901282",
+   "launch_price": null,
+   "week_low": 529.99,
+   "week_high": 529.99,
+   "week_open": 529.99,
+   "week_close": 529.99,
+   "typical_price_end": 545.54,
+   "prev_week_close": 529.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-red-pro-12tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-06",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-07",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-08",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 24,
+   "product_id": 2188,
+   "name": "Western Digital WD Red Pro 22TB 3.5\" 7200 RPM SATA",
+   "maker": "Western Digital",
+   "model": "WD Red Pro",
+   "category": "hdd",
+   "part_number": "WD221KFGX",
+   "upc": "718037893501",
+   "launch_price": null,
+   "week_low": 958.88,
+   "week_high": 958.9,
+   "week_open": 958.9,
+   "week_close": 958.88,
+   "typical_price_end": 969.99,
+   "prev_week_close": 961.0,
+   "change_vs_prev_week_pct": -0.2,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-wd-red-pro-22tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 958.9,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-06",
+     "low": 958.9,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-07",
+     "low": 958.9,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-08",
+     "low": 958.9,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 958.88,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 958.9,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 958.88,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 25,
+   "product_id": 2255,
+   "name": "Western Digital WD Red Pro 24TB 3.5\" 7200 RPM SATA",
+   "maker": "Western Digital",
+   "model": "WD Red Pro",
+   "category": "hdd",
+   "part_number": "WD241KFGX",
+   "upc": "718037905464",
+   "launch_price": null,
+   "week_low": 1059.99,
+   "week_high": 1059.99,
+   "week_open": 1059.99,
+   "week_close": 1059.99,
+   "typical_price_end": 1059.99,
+   "prev_week_close": 1059.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 24,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-red-pro-24tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-06",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-07",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-08",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-09",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-10",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-11",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 24
+    }
+   ]
+  },
+  {
+   "rank": 26,
+   "product_id": 2316,
+   "name": "Western Digital WD Gold 26TB 3.5\" 7200 RPM SATA",
+   "maker": "Western Digital",
+   "model": "WD Gold",
+   "category": "hdd",
+   "part_number": "WD261KRYZ",
+   "upc": "718037904948",
+   "launch_price": null,
+   "week_low": 1240.99,
+   "week_high": 1240.99,
+   "week_open": 1240.99,
+   "week_close": 1240.99,
+   "typical_price_end": 1429.99,
+   "prev_week_close": 1144.99,
+   "change_vs_prev_week_pct": 8.4,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://hdd.live/drives/western-digital-wd-gold-26tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 1240.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-06",
+     "low": 1240.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-07",
+     "low": 1240.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-08",
+     "low": 1240.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-09",
+     "low": 1240.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-10",
+     "low": 1240.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-11",
+     "low": 1240.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 27,
+   "product_id": 2430,
+   "name": "Western Digital Blue 4TB 3.5\" 5400 RPM SATA",
+   "maker": "Western Digital",
+   "model": "WD Blue",
+   "category": "hdd",
+   "part_number": "WD40EZZX-SPCPBB0",
+   "upc": "718037905761",
+   "launch_price": null,
+   "week_low": 179.99,
+   "week_high": 179.99,
+   "week_open": 179.99,
+   "week_close": 179.99,
+   "typical_price_end": 189.99,
+   "prev_week_close": 179.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 34,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-blue-4tb-35-5400-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 179.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-06",
+     "low": 179.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-07",
+     "low": 179.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-08",
+     "low": 179.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-09",
+     "low": 179.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-10",
+     "low": 179.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-11",
+     "low": 179.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 34
+    }
+   ]
+  },
+  {
+   "rank": 28,
+   "product_id": 3528,
+   "name": "Western Digital Elements 1TB External Hard Drive (WDBDTV0010BBK-WESN)",
+   "maker": "Western Digital",
+   "model": "Elements",
+   "category": "hdd",
+   "part_number": "WDBDTV0010BBK-WESN",
+   "upc": "718037912738",
+   "launch_price": null,
+   "week_low": 89.99,
+   "week_high": 149.99,
+   "week_open": 89.99,
+   "week_close": 147.5,
+   "typical_price_end": 149.99,
+   "prev_week_close": 149.99,
+   "change_vs_prev_week_pct": -1.7,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 28,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-elements-1tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 89.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-06",
+     "low": 89.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-07",
+     "low": 89.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-08",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-09",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-10",
+     "low": 149.72,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-11",
+     "low": 147.5,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 28
+    }
+   ]
+  },
+  {
+   "rank": 29,
+   "product_id": 3539,
+   "name": "Seagate Portable 5TB External Hard Drive",
+   "maker": "Seagate",
+   "model": null,
+   "category": "hdd",
+   "part_number": "STGX5000400",
+   "upc": "763649138168",
+   "launch_price": null,
+   "week_low": 199.99,
+   "week_high": 199.99,
+   "week_open": 199.99,
+   "week_close": 199.99,
+   "typical_price_end": 219.99,
+   "prev_week_close": 199.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 15,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://hdd.live/drives/seagate-portable-5tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 16
+    },
+    {
+     "date": "2026-10-06",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 16
+    },
+    {
+     "date": "2026-10-07",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 16
+    },
+    {
+     "date": "2026-10-08",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-09",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-10",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-11",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 15
+    }
+   ]
+  },
+  {
+   "rank": 30,
+   "product_id": 3540,
+   "name": "Western Digital ELEMENTS PORT 2TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": "Elements",
+   "category": "hdd",
+   "part_number": "WDBDTV0020BBK-WESN",
+   "upc": "718037912769",
+   "launch_price": null,
+   "week_low": 169.99,
+   "week_high": 169.99,
+   "week_open": 169.99,
+   "week_close": 169.99,
+   "typical_price_end": 189.99,
+   "prev_week_close": 169.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://hdd.live/drives/western-digital-elements-port-2tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-06",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-07",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-08",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 31,
+   "product_id": 3557,
+   "name": "Western Digital Elements 6TB External Hard Drive Black (WDBWLG0060HBK-NESN)",
+   "maker": "Western Digital",
+   "model": "Elements",
+   "category": "hdd",
+   "part_number": "WDBWLG0060HBK-NESN",
+   "upc": "718037861524",
+   "launch_price": null,
+   "week_low": 309.99,
+   "week_high": 314.99,
+   "week_open": 314.99,
+   "week_close": 314.99,
+   "typical_price_end": 314.99,
+   "prev_week_close": 314.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 17,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-elements-6tb-external-hard-drive-4",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 314.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-06",
+     "low": 314.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-07",
+     "low": 314.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-08",
+     "low": 314.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-09",
+     "low": 309.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-10",
+     "low": 309.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 18
+    },
+    {
+     "date": "2026-10-11",
+     "low": 314.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 17
+    }
+   ]
+  },
+  {
+   "rank": 32,
+   "product_id": 3564,
+   "name": "Western Digital My Passport with Type-C 5TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": "My Passport with Type-C",
+   "category": "hdd",
+   "part_number": "WDBRMD5BGYWES",
+   "upc": "718037902890",
+   "launch_price": null,
+   "week_low": 249.99,
+   "week_high": 249.99,
+   "week_open": 249.99,
+   "week_close": 249.99,
+   "typical_price_end": 289.99,
+   "prev_week_close": 249.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 32,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://hdd.live/drives/western-digital-my-passport-with-type-c-5tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-06",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-07",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-08",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-09",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-10",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-11",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 32
+    }
+   ]
+  },
+  {
+   "rank": 33,
+   "product_id": 3580,
+   "name": "Western Digital Elements 12TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": "Elements",
+   "category": "hdd",
+   "part_number": "WDBWLG0120HBK-NESN",
+   "upc": "718037872070",
+   "launch_price": null,
+   "week_low": 529.99,
+   "week_high": 529.99,
+   "week_open": 529.99,
+   "week_close": 529.99,
+   "typical_price_end": 594.99,
+   "prev_week_close": 529.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-elements-12tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-06",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-08",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 34,
+   "product_id": 3613,
+   "name": "Western Digital Elements 14TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": "Elements",
+   "category": "hdd",
+   "part_number": "WDBWLG0140HBK-NESN",
+   "upc": "718037873022",
+   "launch_price": null,
+   "week_low": 548.67,
+   "week_high": 619.99,
+   "week_open": 619.99,
+   "week_close": 548.67,
+   "typical_price_end": 619.99,
+   "prev_week_close": 619.99,
+   "change_vs_prev_week_pct": -11.5,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 28,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-elements-14tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 619.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-06",
+     "low": 619.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-07",
+     "low": 619.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-08",
+     "low": 619.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-09",
+     "low": 619.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-10",
+     "low": 619.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-11",
+     "low": 548.67,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 28
+    }
+   ]
+  },
+  {
+   "rank": 35,
+   "product_id": 4682,
+   "name": "Western Digital My Passport 4TB External Hard Drive Blue",
+   "maker": "Western Digital",
+   "model": "My Passport",
+   "category": "hdd",
+   "part_number": "WDBPKJ0040BBL-WESN",
+   "upc": "718037870212",
+   "launch_price": null,
+   "week_low": 236.71,
+   "week_high": 249.99,
+   "week_open": 238.01,
+   "week_close": 238.4,
+   "typical_price_end": 249.99,
+   "prev_week_close": 237.71,
+   "change_vs_prev_week_pct": 0.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 24,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-my-passport-4tb-external-hard-drive-3",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 238.01,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-06",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-07",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-08",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-09",
+     "low": 236.71,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-10",
+     "low": 245.1,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-11",
+     "low": 238.4,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 24
+    }
+   ]
+  },
+  {
+   "rank": 36,
+   "product_id": 4693,
+   "name": "Western Digital Elements 18TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": "Elements",
+   "category": "hdd",
+   "part_number": "WDBWLG0180HBK-NESN",
+   "upc": "718037878782",
+   "launch_price": null,
+   "week_low": 758.88,
+   "week_high": 761.88,
+   "week_open": 761.88,
+   "week_close": 759.01,
+   "typical_price_end": 794.99,
+   "prev_week_close": 762.89,
+   "change_vs_prev_week_pct": -0.5,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-elements-18tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 761.88,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-06",
+     "low": 758.88,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-07",
+     "low": 761.88,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-08",
+     "low": 761.88,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-09",
+     "low": 761.53,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-10",
+     "low": 761.53,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 759.01,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 37,
+   "product_id": 4699,
+   "name": "Western Digital Elements 24TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": "Elements",
+   "category": "hdd",
+   "part_number": "WDBWLG0240HBK",
+   "upc": "718037904542",
+   "launch_price": null,
+   "week_low": 559.99,
+   "week_high": 559.99,
+   "week_open": 559.99,
+   "week_close": 559.99,
+   "typical_price_end": 1185.125,
+   "prev_week_close": 559.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 24,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-elements-24tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 559.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-06",
+     "low": 559.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-07",
+     "low": 559.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-08",
+     "low": 559.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-09",
+     "low": 559.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-10",
+     "low": 559.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-11",
+     "low": 559.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 24
+    }
+   ]
+  },
+  {
+   "rank": 38,
+   "product_id": 4750,
+   "name": "Western Digital My Passport 2TB External Hard Drive Red (WDBYVG0020BRD-WESN)",
+   "maker": "Western Digital",
+   "model": "My Passport",
+   "category": "hdd",
+   "part_number": "WDBYVG0020BRD-WESN",
+   "upc": "718037870168",
+   "launch_price": null,
+   "week_low": 165.62,
+   "week_high": 169.99,
+   "week_open": 169.99,
+   "week_close": 165.62,
+   "typical_price_end": 169.99,
+   "prev_week_close": 167.62,
+   "change_vs_prev_week_pct": -1.2,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 7,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-my-passport-2tb-external-hard-drive-6",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 169.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-06",
+     "low": 169.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-07",
+     "low": 169.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-08",
+     "low": 169.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-10-09",
+     "low": 165.62,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-10-10",
+     "low": 165.62,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 7
+    },
+    {
+     "date": "2026-10-11",
+     "low": 165.62,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 7
+    }
+   ]
+  },
+  {
+   "rank": 39,
+   "product_id": 5437,
+   "name": "Western Digital WD Purple Pro 10TB 3.5\" 7200 RPM SATA",
+   "maker": "Western Digital",
+   "model": "WD Purple Pro",
+   "category": "hdd",
+   "part_number": "WD102PURP",
+   "upc": "718037901275",
+   "launch_price": null,
+   "week_low": 459.99,
+   "week_high": 459.99,
+   "week_open": 459.99,
+   "week_close": 459.99,
+   "typical_price_end": 489.99,
+   "prev_week_close": 459.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 23,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-purple-pro-10tb-35",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-06",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-07",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-08",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-10-09",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 14
+    },
+    {
+     "date": "2026-10-10",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-11",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 23
+    }
+   ]
+  },
+  {
+   "rank": 40,
+   "product_id": 5971,
+   "name": "Western Digital WD Gold 16TB 3.5\" 7200 RPM SATA",
+   "maker": "Western Digital",
+   "model": "WD Gold",
+   "category": "hdd",
+   "part_number": "WD161KRYZ",
+   "upc": "718037872957",
+   "launch_price": null,
+   "week_low": 729.99,
+   "week_high": 729.99,
+   "week_open": 729.99,
+   "week_close": 729.99,
+   "typical_price_end": 749.0,
+   "prev_week_close": 729.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-gold-16tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 729.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-06",
+     "low": 729.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-07",
+     "low": 729.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-08",
+     "low": 729.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-09",
+     "low": 729.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-10",
+     "low": 729.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-11",
+     "low": 729.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    }
+   ]
+  },
+  {
+   "rank": 41,
+   "product_id": 6637,
+   "name": "Western Digital WD Blue 2TB 3.5\" 7200 RPM SATA",
+   "maker": "Western Digital",
+   "model": "WD Blue",
+   "category": "hdd",
+   "part_number": "WD20EZBX",
+   "upc": "718037877501",
+   "launch_price": null,
+   "week_low": 159.99,
+   "week_high": 159.99,
+   "week_open": 159.99,
+   "week_close": 159.99,
+   "typical_price_end": 180.49,
+   "prev_week_close": 159.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 26,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-blue-2tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 159.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-06",
+     "low": 159.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-07",
+     "low": 159.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-08",
+     "low": 159.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-09",
+     "low": 159.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-10",
+     "low": 159.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-11",
+     "low": 159.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    }
+   ]
+  },
+  {
+   "rank": 42,
+   "product_id": 6660,
+   "name": "Western Digital WD Purple Surveillance 2TB 3.5\" 5400 RPM SATA (WD23PURZ)",
+   "maker": "Western Digital",
+   "model": "WD Purple",
+   "category": "hdd",
+   "part_number": "WD23PURZ",
+   "upc": "718037887975",
+   "launch_price": null,
+   "week_low": 154.99,
+   "week_high": 154.99,
+   "week_open": 154.99,
+   "week_close": 154.99,
+   "typical_price_end": 178.3,
+   "prev_week_close": 154.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 24,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-purple-surveillance-2tb-35-5400-rpm-sata-2",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 154.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 2
+    },
+    {
+     "date": "2026-10-06",
+     "low": 154.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-07",
+     "low": 154.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 6
+    },
+    {
+     "date": "2026-10-08",
+     "low": 154.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 18
+    },
+    {
+     "date": "2026-10-09",
+     "low": 154.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-10",
+     "low": 154.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-11",
+     "low": 154.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 24
+    }
+   ]
+  },
+  {
+   "rank": 43,
+   "product_id": 6663,
+   "name": "Western Digital WD Purple Surveillance 4TB 3.5\" 5400 RPM SATA (WD44PURZ)",
+   "maker": "Western Digital",
+   "model": "WD Purple",
+   "category": "hdd",
+   "part_number": "WD44PURZ",
+   "upc": "718037905778",
+   "launch_price": null,
+   "week_low": 194.99,
+   "week_high": 194.99,
+   "week_open": 194.99,
+   "week_close": 194.99,
+   "typical_price_end": 209.99,
+   "prev_week_close": 194.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 1,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-wd-purple-surveillance-4tb-35-5400-rpm-sata-2",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 194.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-06",
+     "low": 194.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-07",
+     "low": 194.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-08",
+     "low": 194.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-09",
+     "low": 194.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-10",
+     "low": 194.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-11",
+     "low": 194.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 1
+    }
+   ]
+  },
+  {
+   "rank": 44,
+   "product_id": 7094,
+   "name": "Seagate Expansion 8TB External Hard Drive (STNP8000400)",
+   "maker": "Seagate",
+   "model": "Expansion",
+   "category": "hdd",
+   "part_number": "STNP8000400",
+   "upc": "763649188934",
+   "launch_price": null,
+   "week_low": 279.0,
+   "week_high": 279.99,
+   "week_open": 279.99,
+   "week_close": 279.99,
+   "typical_price_end": 289.99,
+   "prev_week_close": 279.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 25,
+   "lowest_store_end": "Seagate Store",
+   "url": "https://hdd.live/drives/seagate-expansion-8tb-external-hard-drive-2",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 279.99,
+     "low_store": "Seagate Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-06",
+     "low": 279.99,
+     "low_store": "Seagate Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-07",
+     "low": 279.99,
+     "low_store": "Seagate Store",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-08",
+     "low": 279.0,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-09",
+     "low": 279.0,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-10",
+     "low": 279.0,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-11",
+     "low": 279.99,
+     "low_store": "Seagate Store",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 25
+    }
+   ]
+  },
+  {
+   "rank": 45,
+   "product_id": 26377,
+   "name": "Western Digital My Passport 4TB External Hard Drive Red (WDBPKJ0040BRD-WESN)",
+   "maker": "Western Digital",
+   "model": "My Passport",
+   "category": "hdd",
+   "part_number": "WDBPKJ0040BRD-WESN",
+   "upc": "718037870236",
+   "launch_price": null,
+   "week_low": 245.32,
+   "week_high": 249.99,
+   "week_open": 249.99,
+   "week_close": 245.32,
+   "typical_price_end": 249.99,
+   "prev_week_close": 249.99,
+   "change_vs_prev_week_pct": -1.9,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 21,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-my-passport-4tb-external-hard-drive-4",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-06",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-07",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-08",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-09",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-10",
+     "low": 247.02,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-11",
+     "low": 245.32,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 21
+    }
+   ]
+  },
+  {
+   "rank": 46,
+   "product_id": 26402,
+   "name": "Western Digital Elements 8TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": "Elements",
+   "category": "hdd",
+   "part_number": "WDBWLG0080HBK-NESN",
+   "upc": "718037863658",
+   "launch_price": null,
+   "week_low": 379.15,
+   "week_high": 379.99,
+   "week_open": 379.15,
+   "week_close": 379.99,
+   "typical_price_end": 379.99,
+   "prev_week_close": 379.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-elements-8tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 379.15,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-06",
+     "low": 379.15,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-07",
+     "low": 379.15,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-08",
+     "low": 379.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 16
+    },
+    {
+     "date": "2026-10-09",
+     "low": 379.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-10",
+     "low": 379.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-11",
+     "low": 379.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 47,
+   "product_id": 1772,
+   "name": "Western Digital WD Red Plus 2TB 3.5\" 5400 RPM SATA (WD20EFPX)",
+   "maker": "Western Digital",
+   "model": "WD Red Plus",
+   "category": "hdd",
+   "part_number": "WD20EFPX",
+   "upc": "718037899770",
+   "launch_price": null,
+   "week_low": 154.99,
+   "week_high": 154.99,
+   "week_open": 154.99,
+   "week_close": 154.99,
+   "typical_price_end": 154.99,
+   "prev_week_close": 154.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 27,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-red-plus-2tb-35-5400-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 154.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-06",
+     "low": 154.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 154.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-08",
+     "low": 154.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-09",
+     "low": 154.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-10",
+     "low": 154.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-11",
+     "low": 154.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 27
+    }
+   ]
+  },
+  {
+   "rank": 48,
+   "product_id": 2148,
+   "name": "Synology HAT3310 Plus 16TB 3.5\" 7200 RPM SATA",
+   "maker": "Synology",
+   "model": "HAT3310 Plus",
+   "category": "hdd",
+   "part_number": "HAT3310-16T",
+   "upc": "846504005598",
+   "launch_price": null,
+   "week_low": 629.99,
+   "week_high": 649.99,
+   "week_open": 629.99,
+   "week_close": 649.99,
+   "typical_price_end": 664.99,
+   "prev_week_close": 629.99,
+   "change_vs_prev_week_pct": 3.2,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 34,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://hdd.live/drives/synology-inc-hat3310-plus-16tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 629.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-06",
+     "low": 629.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-07",
+     "low": 649.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-08",
+     "low": 649.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-09",
+     "low": 649.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-10",
+     "low": 649.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-11",
+     "low": 649.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    }
+   ]
+  },
+  {
+   "rank": 49,
+   "product_id": 3553,
+   "name": "Seagate One Touch 8TB External Hard Drive",
+   "maker": "Seagate",
+   "model": "One Touch",
+   "category": "hdd",
+   "part_number": "STNB8000400",
+   "upc": "763649185339",
+   "launch_price": null,
+   "week_low": 289.99,
+   "week_high": 289.99,
+   "week_open": 289.99,
+   "week_close": 289.99,
+   "typical_price_end": 289.99,
+   "prev_week_close": 289.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 11,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/seagate-one-touch-8tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 289.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 16
+    },
+    {
+     "date": "2026-10-06",
+     "low": 289.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-07",
+     "low": 289.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-08",
+     "low": 289.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 12
+    },
+    {
+     "date": "2026-10-09",
+     "low": 289.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 12
+    },
+    {
+     "date": "2026-10-10",
+     "low": 289.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 12
+    },
+    {
+     "date": "2026-10-11",
+     "low": 289.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 11
+    }
+   ]
+  },
+  {
+   "rank": 50,
+   "product_id": 6873,
+   "name": "Western Digital Elements 6TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": "Elements",
+   "category": "hdd",
+   "part_number": "WDBLSS0060BBK-WESN",
+   "upc": "718037912851",
+   "launch_price": null,
+   "week_low": 329.99,
+   "week_high": 404.99,
+   "week_open": 404.99,
+   "week_close": 329.99,
+   "typical_price_end": 358.49,
+   "prev_week_close": 404.99,
+   "change_vs_prev_week_pct": -18.5,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 15,
+   "lowest_store_end": "Adorama",
+   "url": "https://hdd.live/drives/western-digital-elements-6tb-external-hard-drive-2",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 404.99,
+     "low_store": "Western Digital Store",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-06",
+     "low": 404.99,
+     "low_store": "Western Digital Store",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-07",
+     "low": 329.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-08",
+     "low": 329.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-09",
+     "low": 329.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-10-10",
+     "low": 329.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-11",
+     "low": 329.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 15
+    }
+   ]
+  },
+  {
+   "rank": 51,
+   "product_id": 1962,
+   "name": "Western Digital WD Gold 6TB 3.5\" 7200 RPM SATA (WD6004FRYZ)",
+   "maker": "Western Digital",
+   "model": "WD Gold",
+   "category": "hdd",
+   "part_number": "WD6004FRYZ",
+   "upc": "718037899923",
+   "launch_price": null,
+   "week_low": 314.99,
+   "week_high": 314.99,
+   "week_open": 314.99,
+   "week_close": 314.99,
+   "typical_price_end": 314.99,
+   "prev_week_close": 314.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Newegg",
+   "url": "https://hdd.live/drives/western-digital-wd-gold-6tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 314.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-06",
+     "low": 314.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-07",
+     "low": 314.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-08",
+     "low": 314.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-09",
+     "low": 314.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-10",
+     "low": 314.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-11",
+     "low": 314.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    }
+   ]
+  },
+  {
+   "rank": 52,
+   "product_id": 2064,
+   "name": "Western Digital WD Gold 14TB 3.5\" 7200 RPM SATA",
+   "maker": "Western Digital",
+   "model": "WD Gold",
+   "category": "hdd",
+   "part_number": "WD142KRYZ",
+   "upc": "718037899886",
+   "launch_price": null,
+   "week_low": 629.99,
+   "week_high": 629.99,
+   "week_open": 629.99,
+   "week_close": 629.99,
+   "typical_price_end": 702.49,
+   "prev_week_close": 619.99,
+   "change_vs_prev_week_pct": 1.6,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 31,
+   "lowest_store_end": "Newegg",
+   "url": "https://hdd.live/drives/western-digital-wd-gold-14tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 629.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-06",
+     "low": 629.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-10-07",
+     "low": 629.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 10
+    },
+    {
+     "date": "2026-10-08",
+     "low": 629.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-09",
+     "low": 629.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-10",
+     "low": 629.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 629.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 31
+    }
+   ]
+  },
+  {
+   "rank": 53,
+   "product_id": 3545,
+   "name": "Seagate Portable 4TB External Hard Drive",
+   "maker": "Seagate",
+   "model": null,
+   "category": "hdd",
+   "part_number": "STGX4000400",
+   "upc": "763649127315",
+   "launch_price": null,
+   "week_low": 157.73,
+   "week_high": 159.99,
+   "week_open": 159.99,
+   "week_close": 157.73,
+   "typical_price_end": 189.99,
+   "prev_week_close": 159.99,
+   "change_vs_prev_week_pct": -1.4,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 17,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/seagate-portable-4tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-06",
+     "low": 157.73,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-07",
+     "low": 157.73,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-08",
+     "low": 157.73,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-09",
+     "low": 157.73,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-10",
+     "low": 157.73,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 17
+    },
+    {
+     "date": "2026-10-11",
+     "low": 157.73,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 17
+    }
+   ]
+  },
+  {
+   "rank": 54,
+   "product_id": 3555,
+   "name": "Western Digital My Passport 2TB External Hard Drive Blue (WDBYVG0020BBL-WESN)",
+   "maker": "Western Digital",
+   "model": "My Passport",
+   "category": "hdd",
+   "part_number": "WDBYVG0020BBL-WESN",
+   "upc": "718037870281",
+   "launch_price": null,
+   "week_low": 163.74,
+   "week_high": 169.99,
+   "week_open": 169.99,
+   "week_close": 169.99,
+   "typical_price_end": 169.99,
+   "prev_week_close": 167.95,
+   "change_vs_prev_week_pct": 1.2,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 11,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-my-passport-2tb-external-hard-drive-2",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 169.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 12
+    },
+    {
+     "date": "2026-10-06",
+     "low": 169.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 12
+    },
+    {
+     "date": "2026-10-07",
+     "low": 169.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 12
+    },
+    {
+     "date": "2026-10-08",
+     "low": 169.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 11
+    },
+    {
+     "date": "2026-10-09",
+     "low": 169.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 11
+    },
+    {
+     "date": "2026-10-10",
+     "low": 163.74,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 11
+    },
+    {
+     "date": "2026-10-11",
+     "low": 169.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 11
+    }
+   ]
+  },
+  {
+   "rank": 55,
+   "product_id": 3560,
+   "name": "Western Digital BLACK P10 Game Drive 6TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": "WD_BLACK P10 Game Drive",
+   "category": "hdd",
+   "part_number": "WDBZ7D0060BBK-WESN",
+   "upc": "718037904108",
+   "launch_price": null,
+   "week_low": 334.99,
+   "week_high": 334.99,
+   "week_open": 334.99,
+   "week_close": 334.99,
+   "typical_price_end": 372.49,
+   "prev_week_close": 334.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://hdd.live/drives/western-digital-black-p10-game-drive-6tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 334.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-06",
+     "low": 334.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 334.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-08",
+     "low": 334.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 334.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 334.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 334.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 56,
+   "product_id": 3594,
+   "name": "Western Digital BLACK D10 Game Drive 8TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": null,
+   "category": "hdd",
+   "part_number": "WDBA3P0080HBK-NESN",
+   "upc": "718037870946",
+   "launch_price": null,
+   "week_low": 399.57,
+   "week_high": 399.99,
+   "week_open": 399.99,
+   "week_close": 399.99,
+   "typical_price_end": 417.49,
+   "prev_week_close": 399.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-black-d10-game-drive-8tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-06",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-08",
+     "low": 399.57,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 399.57,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 57,
+   "product_id": 3598,
+   "name": "Western Digital Elements 5TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": "Elements",
+   "category": "hdd",
+   "part_number": "WDBU6Y0050BBK-WESN",
+   "upc": "718037871899",
+   "launch_price": null,
+   "week_low": 274.99,
+   "week_high": 274.99,
+   "week_open": 274.99,
+   "week_close": 274.99,
+   "typical_price_end": 287.49,
+   "prev_week_close": 274.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-elements-5tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 274.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-06",
+     "low": 274.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 274.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-08",
+     "low": 274.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 274.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 274.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 274.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 58,
+   "product_id": 3599,
+   "name": "Western Digital My Passport 5TB External Hard Drive Black",
+   "maker": "Western Digital",
+   "model": "My Passport",
+   "category": "hdd",
+   "part_number": "WDBGES0050BBK-WESN",
+   "upc": "718037913377",
+   "launch_price": null,
+   "week_low": 289.99,
+   "week_high": 354.99,
+   "week_open": 349.99,
+   "week_close": 289.99,
+   "typical_price_end": 322.49,
+   "prev_week_close": 349.99,
+   "change_vs_prev_week_pct": -17.1,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://hdd.live/drives/western-digital-my-passport-5tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 349.99,
+     "low_store": "Western Digital Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-06",
+     "low": 354.99,
+     "low_store": "Western Digital Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-07",
+     "low": 354.99,
+     "low_store": "Western Digital Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-08",
+     "low": 289.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-09",
+     "low": 289.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-10",
+     "low": 289.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-11",
+     "low": 289.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 59,
+   "product_id": 3610,
+   "name": "Toshiba Canvio Advance 2TB External Hard Drive Red",
+   "maker": "Toshiba",
+   "model": "Canvio Advance",
+   "category": "hdd",
+   "part_number": "HDTCA20XR3AA",
+   "upc": "723844000745",
+   "launch_price": null,
+   "week_low": 139.0,
+   "week_high": 139.99,
+   "week_open": 139.0,
+   "week_close": 139.93,
+   "typical_price_end": 152.49,
+   "prev_week_close": 139.99,
+   "change_vs_prev_week_pct": -0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 18,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/toshiba-canvio-advance-2tb-external-hard-drive-3",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 139.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-06",
+     "low": 139.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-07",
+     "low": 139.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-08",
+     "low": 139.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-09",
+     "low": 139.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-10",
+     "low": 139.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 18
+    },
+    {
+     "date": "2026-10-11",
+     "low": 139.93,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 18
+    }
+   ]
+  },
+  {
+   "rank": 60,
+   "product_id": 4688,
+   "name": "Western Digital MYPSPT 2TB External Hard Drive Black",
+   "maker": "Western Digital",
+   "model": "My Passport",
+   "category": "hdd",
+   "part_number": "WDBG6U0020BBK-WESN",
+   "upc": "718037913193",
+   "launch_price": null,
+   "week_low": 174.99,
+   "week_high": 214.99,
+   "week_open": 209.99,
+   "week_close": 174.99,
+   "typical_price_end": 194.99,
+   "prev_week_close": 209.99,
+   "change_vs_prev_week_pct": -16.7,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://hdd.live/drives/western-digital-mypspt-2tb-external-hard-drive-2",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 209.99,
+     "low_store": "Western Digital Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-06",
+     "low": 214.99,
+     "low_store": "Western Digital Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 214.99,
+     "low_store": "Western Digital Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-08",
+     "low": 174.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 174.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 174.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 174.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 61,
+   "product_id": 4743,
+   "name": "Western Digital My Passport Ultra 2TB External Hard Drive Blue",
+   "maker": "Western Digital",
+   "model": "My Passport Ultra",
+   "category": "hdd",
+   "part_number": "WDBC3CBBLWESN",
+   "upc": "718037864099",
+   "launch_price": null,
+   "week_low": 178.45,
+   "week_high": 195.32,
+   "week_open": 178.6,
+   "week_close": 178.45,
+   "typical_price_end": 199.99,
+   "prev_week_close": 179.12,
+   "change_vs_prev_week_pct": -0.4,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 17,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-my-passport-ultra-2tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 178.6,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 17
+    },
+    {
+     "date": "2026-10-06",
+     "low": 179.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 17
+    },
+    {
+     "date": "2026-10-07",
+     "low": 179.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 17
+    },
+    {
+     "date": "2026-10-08",
+     "low": 178.45,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 17
+    },
+    {
+     "date": "2026-10-09",
+     "low": 195.32,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 17
+    },
+    {
+     "date": "2026-10-10",
+     "low": 192.8,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 17
+    },
+    {
+     "date": "2026-10-11",
+     "low": 178.45,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 17
+    }
+   ]
+  },
+  {
+   "rank": 62,
+   "product_id": 5769,
+   "name": "Western Digital WD Purple Pro 24TB 3.5\" 7200 RPM SATA",
+   "maker": "Western Digital",
+   "model": "WD Purple Pro",
+   "category": "hdd",
+   "part_number": "WD241PURP",
+   "upc": "718037905488",
+   "launch_price": null,
+   "week_low": 1059.99,
+   "week_high": 1059.99,
+   "week_open": 1059.99,
+   "week_close": 1059.99,
+   "typical_price_end": 1146.99,
+   "prev_week_close": 1059.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 17,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-purple-pro-24tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-06",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-07",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-08",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 18
+    },
+    {
+     "date": "2026-10-09",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 17
+    },
+    {
+     "date": "2026-10-10",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 17
+    },
+    {
+     "date": "2026-10-11",
+     "low": 1059.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 17
+    }
+   ]
+  },
+  {
+   "rank": 63,
+   "product_id": 6113,
+   "name": "Western Digital Purple 8TB 3.5\" 5640 RPM SATA",
+   "maker": "Western Digital",
+   "model": null,
+   "category": "hdd",
+   "part_number": "WD85PURZ",
+   "upc": "718037889245",
+   "launch_price": null,
+   "week_low": 354.99,
+   "week_high": 354.99,
+   "week_open": 354.99,
+   "week_close": 354.99,
+   "typical_price_end": 379.99,
+   "prev_week_close": 354.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 6,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-purple-8tb-35-5640-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 354.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-06",
+     "low": 354.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-07",
+     "low": 354.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-08",
+     "low": 354.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-09",
+     "low": 354.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-10",
+     "low": 354.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-11",
+     "low": 354.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 6
+    }
+   ]
+  },
+  {
+   "rank": 64,
+   "product_id": 6699,
+   "name": "Western Digital My Book 8TB External Hard Drive (WDBBGB0080HBK-NESN)",
+   "maker": "Western Digital",
+   "model": "My Book",
+   "category": "hdd",
+   "part_number": "WDBBGB0080HBK-NESN",
+   "upc": "718037850764",
+   "launch_price": null,
+   "week_low": 329.99,
+   "week_high": 329.99,
+   "week_open": 329.99,
+   "week_close": 329.99,
+   "typical_price_end": 398.99,
+   "prev_week_close": 329.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-my-book-8tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 329.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-06",
+     "low": 329.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-07",
+     "low": 329.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-08",
+     "low": 329.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-09",
+     "low": 329.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-10",
+     "low": 329.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-11",
+     "low": 329.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 65,
+   "product_id": 6859,
+   "name": "G-DRIVE ArmorATD 4TB External Hard Drive",
+   "maker": "G-DRIVE",
+   "model": "ArmorATD",
+   "category": "hdd",
+   "part_number": "SDPH81G-004T-GBA1D",
+   "upc": "718037902661",
+   "launch_price": null,
+   "week_low": 312.63,
+   "week_high": 319.97,
+   "week_open": 317.99,
+   "week_close": 312.63,
+   "typical_price_end": 319.99,
+   "prev_week_close": 317.99,
+   "change_vs_prev_week_pct": -1.7,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/g-drive-armoratd-4tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 317.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-06",
+     "low": 317.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-07",
+     "low": 319.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-08",
+     "low": 319.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-09",
+     "low": 312.63,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-10",
+     "low": 312.63,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-11",
+     "low": 312.63,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 66,
+   "product_id": 1992,
+   "name": "Western Digital WD Purple 6TB 3.5\" 5400 RPM SATA",
+   "maker": "Western Digital",
+   "model": "WD Purple",
+   "category": "hdd",
+   "part_number": "WD64PURZ",
+   "upc": "718037898339",
+   "launch_price": null,
+   "week_low": 289.99,
+   "week_high": 289.99,
+   "week_open": 289.99,
+   "week_close": 289.99,
+   "typical_price_end": 296.985,
+   "prev_week_close": 289.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 2,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-purple-6tb-35-5400-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 289.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-06",
+     "low": 289.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-07",
+     "low": 289.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-08",
+     "low": 289.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-09",
+     "low": 289.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 2
+    },
+    {
+     "date": "2026-10-10",
+     "low": 289.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 2
+    },
+    {
+     "date": "2026-10-11",
+     "low": 289.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 2
+    }
+   ]
+  },
+  {
+   "rank": 67,
+   "product_id": 4674,
+   "name": "Toshiba Canvio Advance 4TB External Hard Drive Black",
+   "maker": "Toshiba",
+   "model": "Canvio Advance",
+   "category": "hdd",
+   "part_number": "HDTCA40XK3CA",
+   "upc": "723844000691",
+   "launch_price": null,
+   "week_low": 184.99,
+   "week_high": 209.99,
+   "week_open": 199.99,
+   "week_close": 209.99,
+   "typical_price_end": 214.495,
+   "prev_week_close": 199.99,
+   "change_vs_prev_week_pct": 5.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 27,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/toshiba-canvio-advance-4tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 199.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-06",
+     "low": 199.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-07",
+     "low": 184.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-08",
+     "low": 184.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-09",
+     "low": 199.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-10",
+     "low": 199.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-11",
+     "low": 209.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 27
+    }
+   ]
+  },
+  {
+   "rank": 68,
+   "product_id": 4734,
+   "name": "Western Digital My Passport Ultra 6TB External Hard Drive Blue",
+   "maker": "Western Digital",
+   "model": "My Passport Ultra",
+   "category": "hdd",
+   "part_number": "WDBEJA6BBLWESN",
+   "upc": "718037904184",
+   "launch_price": null,
+   "week_low": 339.0,
+   "week_high": 339.99,
+   "week_open": 339.99,
+   "week_close": 339.0,
+   "typical_price_end": 344.99,
+   "prev_week_close": 339.99,
+   "change_vs_prev_week_pct": -0.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 24,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-my-passport-ultra-6tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 339.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-06",
+     "low": 339.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-07",
+     "low": 339.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-08",
+     "low": 339.57,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-09",
+     "low": 339.57,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-10",
+     "low": 339.57,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-11",
+     "low": 339.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 24
+    }
+   ]
+  },
+  {
+   "rank": 69,
+   "product_id": 26379,
+   "name": "Western Digital My Passport 5TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": "My Passport",
+   "category": "hdd",
+   "part_number": "WDBPKJ0050BBK-WESN",
+   "upc": "718037868448",
+   "launch_price": null,
+   "week_low": 219.99,
+   "week_high": 219.99,
+   "week_open": 219.99,
+   "week_close": 219.99,
+   "typical_price_end": 284.99,
+   "prev_week_close": 219.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 34,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://hdd.live/drives/western-digital-my-passport-5tb-external-hard-drive-2",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 219.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-06",
+     "low": 219.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-07",
+     "low": 219.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-08",
+     "low": 219.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-09",
+     "low": 219.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-10",
+     "low": 219.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-11",
+     "low": 219.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    }
+   ]
+  },
+  {
+   "rank": 70,
+   "product_id": 3548,
+   "name": "Toshiba Canvio Advance 2TB External Hard Drive Black",
+   "maker": "Toshiba",
+   "model": "Canvio Advance",
+   "category": "hdd",
+   "part_number": "HDTCA20XK3AA",
+   "upc": "723844000684",
+   "launch_price": null,
+   "week_low": 139.99,
+   "week_high": 139.99,
+   "week_open": 139.99,
+   "week_close": 139.99,
+   "typical_price_end": 149.0,
+   "prev_week_close": 139.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 23,
+   "lowest_store_end": "Adorama",
+   "url": "https://hdd.live/drives/toshiba-canvio-advance-2tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 139.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-06",
+     "low": 139.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-07",
+     "low": 139.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-08",
+     "low": 139.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-09",
+     "low": 139.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-10",
+     "low": 139.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-11",
+     "low": 139.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 23
+    }
+   ]
+  },
+  {
+   "rank": 71,
+   "product_id": 3550,
+   "name": "Toshiba Canvio Advance 1TB External Hard Drive Red",
+   "maker": "Toshiba",
+   "model": "Canvio Advance",
+   "category": "hdd",
+   "part_number": "HDTCA10XR3AA",
+   "upc": "723844000738",
+   "launch_price": null,
+   "week_low": 109.99,
+   "week_high": 109.99,
+   "week_open": 109.99,
+   "week_close": 109.99,
+   "typical_price_end": 119.0,
+   "prev_week_close": 109.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 18,
+   "lowest_store_end": "Adorama",
+   "url": "https://hdd.live/drives/toshiba-canvio-advance-1tb-external-hard-drive-4",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 109.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-06",
+     "low": 109.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-07",
+     "low": 109.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-08",
+     "low": 109.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 18
+    },
+    {
+     "date": "2026-10-09",
+     "low": 109.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 18
+    },
+    {
+     "date": "2026-10-10",
+     "low": 109.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 18
+    },
+    {
+     "date": "2026-10-11",
+     "low": 109.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 18
+    }
+   ]
+  },
+  {
+   "rank": 72,
+   "product_id": 3569,
+   "name": "Western Digital Elements 2TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": "Elements",
+   "category": "hdd",
+   "part_number": "WDBU6Y0020BBK-WESN",
+   "upc": "718037855363",
+   "launch_price": null,
+   "week_low": 131.95,
+   "week_high": 139.99,
+   "week_open": 133.99,
+   "week_close": 139.99,
+   "typical_price_end": 164.99,
+   "prev_week_close": 133.99,
+   "change_vs_prev_week_pct": 4.5,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://hdd.live/drives/western-digital-elements-2tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 133.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-06",
+     "low": 132.9,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 131.95,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-08",
+     "low": 139.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 139.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 139.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 139.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 73,
+   "product_id": 3585,
+   "name": "Western Digital MYPSPT 4TB External Hard Drive Blue",
+   "maker": "Western Digital",
+   "model": "My Passport",
+   "category": "hdd",
+   "part_number": "WDBGES0040BBL-WESN",
+   "upc": "718037910529",
+   "launch_price": null,
+   "week_low": 254.99,
+   "week_high": 314.99,
+   "week_open": 314.99,
+   "week_close": 254.99,
+   "typical_price_end": 314.99,
+   "prev_week_close": 314.99,
+   "change_vs_prev_week_pct": -19.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://hdd.live/drives/western-digital-mypspt-4tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 314.99,
+     "low_store": "Western Digital Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-06",
+     "low": 314.99,
+     "low_store": "Western Digital Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 314.99,
+     "low_store": "Western Digital Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-08",
+     "low": 254.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 254.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 254.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 254.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 74,
+   "product_id": 3587,
+   "name": "Western Digital My Passport 4TB External Hard Drive Black (WDBGES0040BBK-WESN)",
+   "maker": "Western Digital",
+   "model": "My Passport",
+   "category": "hdd",
+   "part_number": "WDBGES0040BBK-WESN",
+   "upc": "718037913285",
+   "launch_price": null,
+   "week_low": 254.99,
+   "week_high": 314.99,
+   "week_open": 304.99,
+   "week_close": 254.99,
+   "typical_price_end": 314.99,
+   "prev_week_close": 304.99,
+   "change_vs_prev_week_pct": -16.4,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://hdd.live/drives/western-digital-my-passport-4tb-external-hard-drive-2",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 304.99,
+     "low_store": "Western Digital Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-06",
+     "low": 314.99,
+     "low_store": "Western Digital Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 314.99,
+     "low_store": "Western Digital Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-08",
+     "low": 254.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 254.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 254.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 254.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 75,
+   "product_id": 3592,
+   "name": "Western Digital Elements 4TB External Hard Drive Black (WDBU6Y0040BBK-WESN)",
+   "maker": "Western Digital",
+   "model": "Elements",
+   "category": "hdd",
+   "part_number": "WDBU6Y0040BBK-WESN",
+   "upc": "718037855981",
+   "launch_price": null,
+   "week_low": 166.14,
+   "week_high": 239.99,
+   "week_open": 166.14,
+   "week_close": 166.14,
+   "typical_price_end": 239.99,
+   "prev_week_close": 166.14,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 25,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-elements-4tb-external-hard-drive-2",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 166.14,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-06",
+     "low": 166.14,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-07",
+     "low": 239.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-08",
+     "low": 166.14,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-09",
+     "low": 166.14,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-10",
+     "low": 166.14,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-11",
+     "low": 166.14,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 25
+    }
+   ]
+  },
+  {
+   "rank": 76,
+   "product_id": 3596,
+   "name": "Western Digital MYPSPT 5TB External Hard Drive Blue",
+   "maker": "Western Digital",
+   "model": "My Passport",
+   "category": "hdd",
+   "part_number": "WDBGES0050BBL-WESN",
+   "upc": "718037910567",
+   "launch_price": null,
+   "week_low": 289.99,
+   "week_high": 354.99,
+   "week_open": 354.99,
+   "week_close": 289.99,
+   "typical_price_end": 354.99,
+   "prev_week_close": 354.99,
+   "change_vs_prev_week_pct": -18.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://hdd.live/drives/western-digital-mypspt-5tb-external-hard-drive-2",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 354.99,
+     "low_store": "Western Digital Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-06",
+     "low": 354.99,
+     "low_store": "Western Digital Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 354.99,
+     "low_store": "Western Digital Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-08",
+     "low": 289.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 289.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 289.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 289.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 77,
+   "product_id": 4708,
+   "name": "Toshiba Canvio Flex 2TB External Hard Drive",
+   "maker": "Toshiba",
+   "model": "Canvio Flex",
+   "category": "hdd",
+   "part_number": "HDTX120XSCAA",
+   "upc": "723844000806",
+   "launch_price": null,
+   "week_low": 147.26,
+   "week_high": 149.99,
+   "week_open": 147.26,
+   "week_close": 149.99,
+   "typical_price_end": 164.495,
+   "prev_week_close": 147.26,
+   "change_vs_prev_week_pct": 1.9,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Adorama",
+   "url": "https://hdd.live/drives/toshiba-canvio-flex-2tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 147.26,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-06",
+     "low": 147.26,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 149.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-08",
+     "low": 149.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 149.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 149.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 149.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 78,
+   "product_id": 6657,
+   "name": "Western Digital My Passport for Mac 6TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": "My Passport for Mac",
+   "category": "hdd",
+   "part_number": "WDBK6C0060BBL-WESN",
+   "upc": "718037903835",
+   "launch_price": null,
+   "week_low": 327.09,
+   "week_high": 334.99,
+   "week_open": 330.06,
+   "week_close": 327.09,
+   "typical_price_end": 334.99,
+   "prev_week_close": 330.06,
+   "change_vs_prev_week_pct": -0.9,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-my-passport-for-mac-6tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 330.06,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-06",
+     "low": 334.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-07",
+     "low": 334.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-08",
+     "low": 332.58,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-09",
+     "low": 332.58,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-10",
+     "low": 332.58,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-11",
+     "low": 327.09,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 79,
+   "product_id": 6698,
+   "name": "Western Digital My Book 6TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": "My Book",
+   "category": "hdd",
+   "part_number": "WDBBGB0060HBK-NESN",
+   "upc": "718037850955",
+   "launch_price": null,
+   "week_low": 314.36,
+   "week_high": 380.99,
+   "week_open": 323.96,
+   "week_close": 380.99,
+   "typical_price_end": 380.99,
+   "prev_week_close": 315.56,
+   "change_vs_prev_week_pct": 20.7,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-my-book-6tb-external-hard-drive-2",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 323.96,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-06",
+     "low": 380.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-07",
+     "low": 380.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-08",
+     "low": 380.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-09",
+     "low": 314.36,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-10",
+     "low": 314.36,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-11",
+     "low": 380.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 80,
+   "product_id": 6700,
+   "name": "Western Digital My Book 12TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": "My Book",
+   "category": "hdd",
+   "part_number": "WDBBGB0120HBK-NESN",
+   "upc": "718037872247",
+   "launch_price": null,
+   "week_low": 499.99,
+   "week_high": 499.99,
+   "week_open": 499.99,
+   "week_close": 499.99,
+   "typical_price_end": 629.49,
+   "prev_week_close": 499.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 5,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://hdd.live/drives/western-digital-my-book-12tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 499.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-06",
+     "low": 499.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-07",
+     "low": 499.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-08",
+     "low": 499.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-09",
+     "low": 499.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-10",
+     "low": 499.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-11",
+     "low": 499.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 5
+    }
+   ]
+  },
+  {
+   "rank": 81,
+   "product_id": 6880,
+   "name": "Western Digital My Passport 6TB External Hard Drive Blue",
+   "maker": "Western Digital",
+   "model": "My Passport",
+   "category": "hdd",
+   "part_number": "WDBTBU0060BBL-WESN",
+   "upc": "718037910123",
+   "launch_price": null,
+   "week_low": 334.99,
+   "week_high": 409.99,
+   "week_open": 409.99,
+   "week_close": 334.99,
+   "typical_price_end": 409.99,
+   "prev_week_close": 409.99,
+   "change_vs_prev_week_pct": -18.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://hdd.live/drives/western-digital-my-passport-6tb-external-hard-drive-4",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 409.99,
+     "low_store": "Western Digital Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-06",
+     "low": 409.99,
+     "low_store": "Western Digital Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-10-07",
+     "low": 409.99,
+     "low_store": "Western Digital Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 16
+    },
+    {
+     "date": "2026-10-08",
+     "low": 334.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-09",
+     "low": 334.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-10",
+     "low": 334.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-11",
+     "low": 334.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 82,
+   "product_id": 7106,
+   "name": "LaCie Rugged 2TB",
+   "maker": "LaCie",
+   "model": "Rugged",
+   "category": "hdd",
+   "part_number": "STFR2000800",
+   "upc": "763649111680",
+   "launch_price": null,
+   "week_low": 149.99,
+   "week_high": 149.99,
+   "week_open": 149.99,
+   "week_close": 149.99,
+   "typical_price_end": 149.99,
+   "prev_week_close": 149.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Best Buy",
+   "url": "https://hdd.live/drives/seagate-rugged-2tb",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 149.99,
+     "low_store": "Seagate Store",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-06",
+     "low": 149.99,
+     "low_store": "Seagate Store",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-07",
+     "low": 149.99,
+     "low_store": "Seagate Store",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-08",
+     "low": 149.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-09",
+     "low": 149.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-10",
+     "low": 149.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-11",
+     "low": 149.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 83,
+   "product_id": 3533,
+   "name": "Western Digital Elements 4TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": "Elements",
+   "category": "hdd",
+   "part_number": "WDBLSS0040BBK-WESN",
+   "upc": "718037912790",
+   "launch_price": null,
+   "week_low": 249.99,
+   "week_high": 249.99,
+   "week_open": 249.99,
+   "week_close": 249.99,
+   "typical_price_end": 249.99,
+   "prev_week_close": 249.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-elements-4tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-06",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-07",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-08",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-09",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-10",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-11",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 84,
+   "product_id": 6667,
+   "name": "Western Digital My Passport Ultra for Mac 4TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": "My Passport Ultra for Mac",
+   "category": "hdd",
+   "part_number": "WDBPMV0040BSL-WESN",
+   "upc": "718037864136",
+   "launch_price": null,
+   "week_low": 245.08,
+   "week_high": 259.99,
+   "week_open": 248.3,
+   "week_close": 245.08,
+   "typical_price_end": 259.99,
+   "prev_week_close": 243.0,
+   "change_vs_prev_week_pct": 0.9,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-my-passport-ultra-for-4tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 248.3,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-06",
+     "low": 259.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-07",
+     "low": 259.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-08",
+     "low": 253.57,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-09",
+     "low": 259.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-10",
+     "low": 259.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-11",
+     "low": 245.08,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 85,
+   "product_id": 6672,
+   "name": "Western Digital WD_BLACK 6TB 3.5\" 7200 RPM SATA (WD6004FZBX)",
+   "maker": "Western Digital",
+   "model": "WD_BLACK",
+   "category": "hdd",
+   "part_number": "WD6004FZBX",
+   "upc": "718037896731",
+   "launch_price": null,
+   "week_low": 251.99,
+   "week_high": 251.99,
+   "week_open": 251.99,
+   "week_close": 251.99,
+   "typical_price_end": 368.99,
+   "prev_week_close": 251.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 7,
+   "lowest_store_end": "Best Buy",
+   "url": "https://hdd.live/drives/western-digital-wd_black-6tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 251.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-10-06",
+     "low": 251.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-10-07",
+     "low": 251.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-10-08",
+     "low": 251.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-10-09",
+     "low": 251.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-10-10",
+     "low": 251.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-10-11",
+     "low": 251.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 7
+    }
+   ]
+  },
+  {
+   "rank": 86,
+   "product_id": 6702,
+   "name": "Western Digital My Book 16TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": "My Book",
+   "category": "hdd",
+   "part_number": "WDBBGB0160HBK-NESN",
+   "upc": "718037879109",
+   "launch_price": null,
+   "week_low": 549.99,
+   "week_high": 549.99,
+   "week_open": 549.99,
+   "week_close": 549.99,
+   "typical_price_end": 734.99,
+   "prev_week_close": 549.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 5,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://hdd.live/drives/western-digital-my-book-16tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 549.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-06",
+     "low": 549.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-07",
+     "low": 549.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-08",
+     "low": 549.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-09",
+     "low": 549.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-10",
+     "low": 549.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-11",
+     "low": 549.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 5
+    }
+   ]
+  },
+  {
+   "rank": 87,
+   "product_id": 4736,
+   "name": "Western Digital Elements 6TB External Hard Drive Black",
+   "maker": "Western Digital",
+   "model": "Elements",
+   "category": "hdd",
+   "part_number": "WDBHJSBBKWESN",
+   "upc": "718037904313",
+   "launch_price": null,
+   "week_low": 299.99,
+   "week_high": 299.99,
+   "week_open": 299.99,
+   "week_close": 299.99,
+   "typical_price_end": 309.99,
+   "prev_week_close": 294.99,
+   "change_vs_prev_week_pct": 1.7,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 20,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-elements-6tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 299.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-06",
+     "low": 299.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-07",
+     "low": 299.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-08",
+     "low": 299.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-09",
+     "low": 299.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-10",
+     "low": 299.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-11",
+     "low": 299.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 20
+    }
+   ]
+  },
+  {
+   "rank": 88,
+   "product_id": 2075,
+   "name": "Western Digital WD Purple Pro 12TB 3.5\" 7200 RPM SATA (WD122PURP)",
+   "maker": "Western Digital",
+   "model": "WD Purple Pro",
+   "category": "hdd",
+   "part_number": "WD122PURP",
+   "upc": "718037901299",
+   "launch_price": null,
+   "week_low": 529.0,
+   "week_high": 529.99,
+   "week_open": 529.99,
+   "week_close": 529.0,
+   "typical_price_end": 562.49,
+   "prev_week_close": 529.99,
+   "change_vs_prev_week_pct": -0.2,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 26,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/western-digital-wd-purple-pro-12tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 7
+    },
+    {
+     "date": "2026-10-06",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-10-07",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 10
+    },
+    {
+     "date": "2026-10-08",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-09",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-10",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-11",
+     "low": 529.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    }
+   ]
+  },
+  {
+   "rank": 89,
+   "product_id": 2106,
+   "name": "Seagate IronWolf Pro 16TB 3.5\" 7200 RPM SATA",
+   "maker": "Seagate",
+   "model": "IronWolf Pro",
+   "category": "hdd",
+   "part_number": "ST16000NT001",
+   "upc": "763649176276",
+   "launch_price": null,
+   "week_low": 579.99,
+   "week_high": 639.99,
+   "week_open": 579.99,
+   "week_close": 639.99,
+   "typical_price_end": 639.99,
+   "prev_week_close": 579.99,
+   "change_vs_prev_week_pct": 10.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Adorama",
+   "url": "https://hdd.live/drives/seagate-ironwolf-pro-16tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 579.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-06",
+     "low": 579.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-07",
+     "low": 579.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 2
+    },
+    {
+     "date": "2026-10-08",
+     "low": 579.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 2
+    },
+    {
+     "date": "2026-10-09",
+     "low": 579.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-10",
+     "low": 629.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-11",
+     "low": 639.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 90,
+   "product_id": 3535,
+   "name": "Western Digital ELEMENTS PORT 5TB External Hard Drive",
+   "maker": "Western Digital",
+   "model": "Elements",
+   "category": "hdd",
+   "part_number": "WDBLSS0050BBK-WESN",
+   "upc": "718037912820",
+   "launch_price": null,
+   "week_low": 284.99,
+   "week_high": 284.99,
+   "week_open": 284.99,
+   "week_close": 284.99,
+   "typical_price_end": 284.99,
+   "prev_week_close": 284.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/western-digital-elements-port-5tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 284.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-06",
+     "low": 284.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-07",
+     "low": 284.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-08",
+     "low": 284.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-09",
+     "low": 284.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-10",
+     "low": 284.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-11",
+     "low": 284.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 91,
+   "product_id": 3577,
+   "name": "Toshiba Canvio Advance 2TB External Hard Drive White",
+   "maker": "Toshiba",
+   "model": "Canvio Advance",
+   "category": "hdd",
+   "part_number": "HDTCA20XW3AA",
+   "upc": "723844000776",
+   "launch_price": null,
+   "week_low": 139.99,
+   "week_high": 139.99,
+   "week_open": 139.99,
+   "week_close": 139.99,
+   "typical_price_end": 152.49,
+   "prev_week_close": 139.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Adorama",
+   "url": "https://hdd.live/drives/toshiba-canvio-advance-2tb-external-hard-drive-2",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 139.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-06",
+     "low": 139.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 139.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-08",
+     "low": 139.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 139.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 139.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 139.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 92,
+   "product_id": 3604,
+   "name": "Buffalo MiniStation 1TB External Hard Drive",
+   "maker": "Buffalo",
+   "model": "MiniStation",
+   "category": "hdd",
+   "part_number": "HD-PGF1.0U3B",
+   "upc": "747464135540",
+   "launch_price": null,
+   "week_low": 125.99,
+   "week_high": 127.99,
+   "week_open": 127.99,
+   "week_close": 125.99,
+   "typical_price_end": 143.99,
+   "prev_week_close": 127.99,
+   "change_vs_prev_week_pct": -1.6,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://hdd.live/drives/buffalo-ministation-1tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 127.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-06",
+     "low": 127.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-07",
+     "low": 127.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-08",
+     "low": 125.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-09",
+     "low": 125.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-10",
+     "low": 125.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-11",
+     "low": 125.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 93,
+   "product_id": 3607,
+   "name": "Buffalo MiniStation 2TB External Hard Drive",
+   "maker": "Buffalo",
+   "model": "MiniStation",
+   "category": "hdd",
+   "part_number": "HD-PGF2.0U3BB",
+   "upc": "747464135557",
+   "launch_price": null,
+   "week_low": 153.99,
+   "week_high": 156.99,
+   "week_open": 156.99,
+   "week_close": 153.99,
+   "typical_price_end": 175.99,
+   "prev_week_close": 156.99,
+   "change_vs_prev_week_pct": -1.9,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://hdd.live/drives/buffalo-ministation-2tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 156.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-06",
+     "low": 156.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-07",
+     "low": 156.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-08",
+     "low": 153.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 153.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 153.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 153.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 94,
+   "product_id": 4683,
+   "name": "Toshiba Canvio 2TB External Hard Drive",
+   "maker": "Toshiba",
+   "model": "Canvio",
+   "category": "hdd",
+   "part_number": "HDTX120XK3AA",
+   "upc": "723844000837",
+   "launch_price": null,
+   "week_low": 153.41,
+   "week_high": 153.41,
+   "week_open": 153.41,
+   "week_close": 153.41,
+   "typical_price_end": 169.2,
+   "prev_week_close": 153.41,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Adorama",
+   "url": "https://hdd.live/drives/toshiba-canvio-2tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 153.41,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-06",
+     "low": 153.41,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 153.41,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-08",
+     "low": 153.41,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 153.41,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 153.41,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-11",
+     "low": 153.41,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 95,
+   "product_id": 4758,
+   "name": "Seagate Expansion 8TB External Hard Drive (STKP8000400)",
+   "maker": "Seagate",
+   "model": "Expansion",
+   "category": "hdd",
+   "part_number": "STKP8000400",
+   "upc": "763649160657",
+   "launch_price": null,
+   "week_low": 279.99,
+   "week_high": 279.99,
+   "week_open": 279.99,
+   "week_close": 279.99,
+   "typical_price_end": 279.99,
+   "prev_week_close": 279.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 6,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://hdd.live/drives/seagate-expansion-8tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 279.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-06",
+     "low": 279.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-10-07",
+     "low": 279.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-10-08",
+     "low": 279.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-10-09",
+     "low": 279.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 7
+    },
+    {
+     "date": "2026-10-10",
+     "low": 279.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 6
+    },
+    {
+     "date": "2026-10-11",
+     "low": 279.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 6
+    }
+   ]
+  },
+  {
+   "rank": 96,
+   "product_id": 6109,
+   "name": "Seagate SkyHawk AI 8TB 3.5\" 7200 RPM SATA (ST8000VE001)",
+   "maker": "Seagate",
+   "model": "SkyHawk AI",
+   "category": "hdd",
+   "part_number": "ST8000VE001",
+   "upc": "763649142028",
+   "launch_price": null,
+   "week_low": 329.99,
+   "week_high": 329.99,
+   "week_open": 329.99,
+   "week_close": 329.99,
+   "typical_price_end": 354.99,
+   "prev_week_close": 329.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 3,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/seagate-skyhawk-ai-8tb-35-7200-rpm-sata",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 329.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 6
+    },
+    {
+     "date": "2026-10-06",
+     "low": 329.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 6
+    },
+    {
+     "date": "2026-10-07",
+     "low": 329.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-08",
+     "low": 329.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-09",
+     "low": 329.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-10",
+     "low": 329.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-11",
+     "low": 329.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 3
+    }
+   ]
+  },
+  {
+   "rank": 97,
+   "product_id": 6831,
+   "name": "G-DRIVE 8TB External Hard Drive (SDPHF1A-008T-NBAAD)",
+   "maker": "G-DRIVE",
+   "model": null,
+   "category": "hdd",
+   "part_number": "SDPHF1A-008T-NBAAD",
+   "upc": "718037901763",
+   "launch_price": null,
+   "week_low": 529.99,
+   "week_high": 534.99,
+   "week_open": 534.99,
+   "week_close": 529.99,
+   "typical_price_end": 534.99,
+   "prev_week_close": 534.99,
+   "change_vs_prev_week_pct": -0.9,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://hdd.live/drives/g-drive-8tb-external-hard-drive-sdphf1a-008t-nbaad",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 534.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-06",
+     "low": 529.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-07",
+     "low": 529.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-08",
+     "low": 529.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-09",
+     "low": 529.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-10",
+     "low": 529.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-11",
+     "low": 529.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 98,
+   "product_id": 7092,
+   "name": "Seagate Expansion 24TB External Hard Drive",
+   "maker": "Seagate",
+   "model": "Expansion",
+   "category": "hdd",
+   "part_number": "STNP24000400",
+   "upc": "763649188668",
+   "launch_price": null,
+   "week_low": 689.99,
+   "week_high": 689.99,
+   "week_open": 689.99,
+   "week_close": 689.99,
+   "typical_price_end": 724.99,
+   "prev_week_close": 689.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 28,
+   "lowest_store_end": "Seagate Store",
+   "url": "https://hdd.live/drives/seagate-expansion-24tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 689.99,
+     "low_store": "Seagate Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-06",
+     "low": 689.99,
+     "low_store": "Seagate Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-07",
+     "low": 689.99,
+     "low_store": "Seagate Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-08",
+     "low": 689.99,
+     "low_store": "Seagate Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-09",
+     "low": 689.99,
+     "low_store": "Seagate Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-10",
+     "low": 689.99,
+     "low_store": "Seagate Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-11",
+     "low": 689.99,
+     "low_store": "Seagate Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    }
+   ]
+  },
+  {
+   "rank": 99,
+   "product_id": 7123,
+   "name": "Seagate One Touch With Password 1TB External Hard Drive",
+   "maker": "Seagate",
+   "model": "One Touch",
+   "category": "hdd",
+   "part_number": "STKY1000400",
+   "upc": "763649167649",
+   "launch_price": null,
+   "week_low": 99.99,
+   "week_high": 99.99,
+   "week_open": 99.99,
+   "week_close": 99.99,
+   "typical_price_end": 109.99,
+   "prev_week_close": 99.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 1,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://hdd.live/drives/seagate-one-touch-with-password-1tb-external-hard-drive",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-06",
+     "low": 99.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-07",
+     "low": 99.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-08",
+     "low": 99.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-09",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-10",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-11",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 1
+    }
+   ]
+  },
+  {
+   "rank": 100,
+   "product_id": 27734,
+   "name": "Western Digital WD My Passport Ultra 4TB External Hard Drive Silver",
+   "maker": "Western Digital",
+   "model": "WD My Passport Ultra",
+   "category": "hdd",
+   "part_number": "WDBFTM0040BSL-WESN",
+   "upc": null,
+   "launch_price": null,
+   "week_low": 219.99,
+   "week_high": 249.99,
+   "week_open": 219.99,
+   "week_close": 249.99,
+   "typical_price_end": 259.99,
+   "prev_week_close": 219.99,
+   "change_vs_prev_week_pct": 13.6,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 4,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://hdd.live/drives/western-digital-wd-my-passport-ultra-4tb-external-hard-drive-2",
+   "daily": [
+    {
+     "date": "2026-10-05",
+     "low": 219.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-06",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-07",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-08",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-09",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-10",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-11",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 4
+    }
+   ]
+  }
+ ],
+ "sizes": [
+  {
+   "name": "Lowest per TB",
+   "launch_price": null,
+   "products_tracked": 1571,
+   "products_in_stock_end": 209,
+   "week_low": 99.99,
+   "week_high": 99.99,
+   "week_open": 99.99,
+   "week_close": 99.99,
+   "typical_price_end": 149.99,
+   "prev_week_close": 99.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 10,
+   "shops_in_stock_end": 36,
+   "lowest_store_end": "Central Computers (in store)"
+  },
+  {
+   "name": "NAS",
+   "launch_price": null,
+   "products_tracked": 121,
+   "products_in_stock_end": 57,
+   "week_low": 99.99,
+   "week_high": 99.99,
+   "week_open": 99.99,
+   "week_close": 99.99,
+   "typical_price_end": 155.985,
+   "prev_week_close": 99.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 10,
+   "shops_in_stock_end": 36,
+   "lowest_store_end": "Central Computers (in store)"
+  },
+  {
+   "name": "4TB External",
+   "launch_price": null,
+   "products_tracked": 69,
+   "products_in_stock_end": 42,
+   "week_low": 157.73,
+   "week_high": 159.99,
+   "week_open": 159.99,
+   "week_close": 157.73,
+   "typical_price_end": 189.99,
+   "prev_week_close": 135.0,
+   "change_vs_prev_week_pct": 16.8,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 10,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Amazon"
+  },
+  {
+   "name": "8TB",
+   "launch_price": null,
+   "products_tracked": 175,
+   "products_in_stock_end": 25,
+   "week_low": 269.99,
+   "week_high": 269.99,
+   "week_open": 269.99,
+   "week_close": 269.99,
+   "typical_price_end": 324.99,
+   "prev_week_close": 249.99,
+   "change_vs_prev_week_pct": 8.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 10,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Central Computers (in store)"
+  },
+  {
+   "name": "12TB",
+   "launch_price": null,
+   "products_tracked": 82,
+   "products_in_stock_end": 21,
+   "week_low": 429.99,
+   "week_high": 429.99,
+   "week_open": 429.99,
+   "week_close": 429.99,
+   "typical_price_end": 466.54,
+   "prev_week_close": 429.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 9,
+   "shops_in_stock_end": 36,
+   "lowest_store_end": "Central Computers (in store)"
+  },
+  {
+   "name": "4TB",
+   "launch_price": null,
+   "products_tracked": 213,
+   "products_in_stock_end": 21,
+   "week_low": 149.99,
+   "week_high": 149.99,
+   "week_open": 149.99,
+   "week_close": 149.99,
+   "typical_price_end": 179.99,
+   "prev_week_close": 149.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 10,
+   "shops_in_stock_end": 36,
+   "lowest_store_end": "Micro Center (in store)"
+  },
+  {
+   "name": "16TB",
+   "launch_price": null,
+   "products_tracked": 74,
+   "products_in_stock_end": 17,
+   "week_low": 529.99,
+   "week_high": 559.99,
+   "week_open": 529.99,
+   "week_close": 559.99,
+   "typical_price_end": 639.99,
+   "prev_week_close": 529.99,
+   "change_vs_prev_week_pct": 5.7,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 8,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Micro Center (in store)"
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+# never published: rows the release checks hold back, for a person to look at
+held/
+# secrets: never commit
+*token*.txt
+*.pat
+.env

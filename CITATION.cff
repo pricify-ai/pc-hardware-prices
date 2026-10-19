@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please credit Pricify (pricify.ai) and cite it as below."
+title: "PC hardware prices: weekly open data"
+type: dataset
+authors:
+  - name: "Pricify"
+    website: "https://pricify.ai"
+url: "https://github.com/pricify-ai/pc-hardware-prices"
+repository: "https://github.com/pricify-ai/pc-hardware-prices"
+license: CC-BY-4.0
+version: "2026-W41"
+date-released: "2026-10-19"
+abstract: >-
+  Weekly prices and stock of the most popular PC components (graphics cards, processors, SSDs, hard drives,
+  memory and power supplies) at US retailers, from the Pricify price trackers. Stores' own prices only.
+keywords: [prices, pc hardware, graphics cards, gpu prices, cpu prices, ssd, retail, dataset]
