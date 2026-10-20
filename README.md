@@ -2,19 +2,19 @@
 
 Weekly prices and stock of the most popular PC components at US retailers, from the [Pricify](https://pricify.ai) price trackers: graphics cards, processors, SSDs, hard drives, memory and power supplies. One release every week, in Excel and JSON, free to use with credit.
 
-**Latest: 2026-W41** (2026-10-05 to 2026-10-11, US Eastern) · [Excel](latest/pricify-latest.xlsx) · [JSON](latest/json/) · [all weeks](data/)
+**Latest: 2026-W42** (2026-10-12 to 2026-10-18, US Eastern) · [Excel](latest/pricify-latest.xlsx) · [JSON](latest/json/) · [all weeks](data/)
 
 ## This week
 
 | Site | Tracks | Products | Biggest drop vs last week | Biggest rise | In stock at the most stores |
 |---|---|---:|---|---|---|
-| [rtx.live](https://rtx.live) | NVIDIA RTX cards | 100 | NVIDIA RTX Pro 4500 Blackwell Single-...: $4,499.99 (-10.0%) | Gigabyte GeForce RTX 5060 WINDFORCE O...: $429.99 (+16.2%) | Gigabyte GeForce RTX 5060 WINDFORCE O...: 7 retailers, 25 shops |
-| [vga.live](https://vga.live) | Graphics cards | 100 | Sparkle Intel Arc Pro B70 Blower Sing...: $1,499.99 (-16.7%) | Gigabyte GeForce RTX 5060 WINDFORCE O...: $429.99 (+16.2%) | Gigabyte GeForce RTX 5060 WINDFORCE O...: 7 retailers, 25 shops |
-| [cpu.live](https://cpu.live) | Processors | 100 | Intel Core i7-14700K: $279.99 (-22.2%) | AMD Ryzen Threadripper 9970X: $2,299.99 (+21.1%) | AMD Ryzen 7 9850X3D: 7 retailers, 35 shops |
-| [ssd.live](https://ssd.live) | SSDs | 100 | Samsung 990 1TB M.2 2280 NVMe PCIe 4.0: $189.99 (-17.0%) | Lexar SL500 2TB Portable SSD (LSL500M...: $469.99 (+23.7%) | SanDisk 500GB Portable SSD (SDSSDE31-...: 8 retailers, 35 shops |
-| [hdd.live](https://hdd.live) | Hard drives | 100 | Western Digital MYPSPT 4TB External H...: $254.99 (-19.0%) | Western Digital My Book 6TB External...: $380.99 (+20.7%) | Western Digital WD Red Plus 8TB 3.5"...: 9 retailers, 33 shops |
-| [rams.live](https://rams.live) | Memory kits | 100 | TEAMGROUP T-Create Master 128GB (8x16...: $4,039.99 (-19.8%) | Kingston Fury Renegade RGB 32GB (2x16...: $723.32 (+16.4%) | Corsair Vengeance LPX 32GB (2x16GB) D...: 6 retailers, 27 shops |
-| [psu.live](https://psu.live) | Power supplies | 100 | Cooler Master V750 750W 80+ Gold Full...: $124.98 (-23.4%) | ASUS ROG Thor 1000W 80+ Platinum ATX 3.1: $469.99 (+11.9%) | Corsair RMx 1000W 80+ Gold Fully Modu...: 7 retailers, 35 shops |
+| [rtx.live](https://rtx.live) | NVIDIA RTX cards | 100 | Zotac GeForce RTX 5060 GAMING AMP COR...: $389.99 (-17.0%) | PNY GeForce RTX 5080 Slim Overclocked...: $1,699.99 (+13.3%) | Gigabyte GeForce RTX 5060 WINDFORCE O...: 7 retailers, 21 shops |
+| [vga.live](https://vga.live) | Graphics cards | 100 | Zotac GeForce RTX 5060 GAMING AMP COR...: $389.99 (-17.0%) | PNY GeForce RTX 5080 Slim Overclocked...: $1,699.99 (+13.3%) | Gigabyte GeForce RTX 5060 WINDFORCE O...: 7 retailers, 21 shops |
+| [cpu.live](https://cpu.live) | Processors | 100 | Intel Core Ultra 5 225: $159.99 (-10.4%) | AMD Ryzen 9 9900X3D: $529.99 (+10.4%) | AMD Ryzen 7 9850X3D: 7 retailers, 35 shops |
+| [ssd.live](https://ssd.live) | SSDs | 100 | Lexar Professional Workflow 4TB Porta...: $649.99 (-20.7%) | Lexar JumpDrive D500 512GB Portable SSD: $121.00 (+21.0%) | Samsung T7 1TB Portable SSD Gray: 8 retailers, 34 shops |
+| [hdd.live](https://hdd.live) | Hard drives | 100 | Western Digital WD My Passport 2TB Ex...: $132.10 (-22.3%) | Western Digital WD Red Pro 24TB 3.5"...: $1,311.83 (+23.8%) | Western Digital WD Red Plus 8TB 3.5"...: 9 retailers, 30 shops |
+| [rams.live](https://rams.live) | Memory kits | 100 | Patriot Viper Steel 16GB (2x8GB) DDR4...: $129.99 (-18.8%) | TEAMGROUP T-Create Master 128GB (8x16...: $5,039.99 (+24.8%) | Corsair Vengeance LPX 32GB (2x16GB) D...: 6 retailers, 24 shops |
+| [psu.live](https://psu.live) | Power supplies | 100 | SilverStone 550W 80+ Bronze Fully Mod...: $67.71 (-24.2%) | Corsair RM850e 850W 80+ Gold Fully Mo...: $123.99 (+24.0%) | Corsair RMx 1000W 80+ Gold Fully Modu...: 7 retailers, 35 shops |
 
 Prices are the ones stores ask themselves for new products; marketplace sellers are never counted. Each site also has a table of every model (graphics cards, processors) or size class (drives, memory, power supplies).
 

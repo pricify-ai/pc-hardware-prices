@@ -8,7 +8,7 @@ authors:
 url: "https://github.com/pricify-ai/pc-hardware-prices"
 repository: "https://github.com/pricify-ai/pc-hardware-prices"
 license: CC-BY-4.0
-version: "2026-W41"
+version: "2026-W42"
 date-released: "2026-10-19"
 abstract: >-
   Weekly prices and stock of the most popular PC components (graphics cards, processors, SSDs, hard drives,

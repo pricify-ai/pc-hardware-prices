@@ -1,0 +1,7535 @@
+{
+ "dataset": "Pricify weekly PC hardware prices",
+ "site": "psu.live",
+ "week": "2026-W42",
+ "from": "2026-10-12",
+ "to": "2026-10-18",
+ "timezone": "America/New_York",
+ "currency": "USD",
+ "license": "CC BY 4.0",
+ "attribution": "Pricify (pricify.ai)",
+ "generated": "2026-10-19T06:08:02Z",
+ "products": [
+  {
+   "rank": 1,
+   "product_id": 22325,
+   "name": "Corsair RMx 1000W 80+ Gold Fully Modular ATX 3.1",
+   "maker": "Corsair",
+   "model": "RMx",
+   "category": "psu",
+   "part_number": "CP-9020271-NA",
+   "upc": "840006667698",
+   "launch_price": null,
+   "week_low": 169.99,
+   "week_high": 169.99,
+   "week_open": 169.99,
+   "week_close": 169.99,
+   "typical_price_end": 169.99,
+   "prev_week_close": 179.99,
+   "change_vs_prev_week_pct": -5.6,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/corsair-rmx-1000w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-13",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-14",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-15",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-16",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-17",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-18",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "product_id": 22229,
+   "name": "Corsair HX1500i 1500W 80+ Platinum Fully Modular ATX 3.1",
+   "maker": "Corsair",
+   "model": "HXi",
+   "category": "psu",
+   "part_number": "CP-9020309-NA",
+   "upc": "840440495949",
+   "launch_price": null,
+   "week_low": 349.99,
+   "week_high": 349.99,
+   "week_open": 349.99,
+   "week_close": 349.99,
+   "typical_price_end": 349.99,
+   "prev_week_close": 349.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 26,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/corsair-hx1500i-1500w-80-platinum-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 349.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-13",
+     "low": 349.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-14",
+     "low": 349.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-15",
+     "low": 349.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-16",
+     "low": 349.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-17",
+     "low": 349.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-18",
+     "low": 349.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 26
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "product_id": 22230,
+   "name": "Corsair SF 1000W 80+ Platinum Fully Modular SFX",
+   "maker": "Corsair",
+   "model": "SF",
+   "category": "psu",
+   "part_number": "CP-9020257-NA",
+   "upc": "840006663409",
+   "launch_price": null,
+   "week_low": 239.97,
+   "week_high": 239.97,
+   "week_open": 239.97,
+   "week_close": 239.97,
+   "typical_price_end": 239.98,
+   "prev_week_close": 239.99,
+   "change_vs_prev_week_pct": -0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 34,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/corsair-sf-1000w-80-platinum-fully-modular-sfx",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 239.97,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-13",
+     "low": 239.97,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-14",
+     "low": 239.97,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-15",
+     "low": 239.97,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-16",
+     "low": 239.97,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-17",
+     "low": 239.97,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-18",
+     "low": 239.97,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "product_id": 22232,
+   "name": "Corsair HX1200i 1200W 80+ Platinum Fully Modular ATX 3.1",
+   "maker": "Corsair",
+   "model": "HXi",
+   "category": "psu",
+   "part_number": "CP-9020307-NA",
+   "upc": "840440495208",
+   "launch_price": null,
+   "week_low": 287.68,
+   "week_high": 287.68,
+   "week_open": 287.68,
+   "week_close": 287.68,
+   "typical_price_end": 287.68,
+   "prev_week_close": 287.68,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 27,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/corsair-hx1200i-1200w-80-platinum-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 287.68,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-13",
+     "low": 287.68,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-14",
+     "low": 287.68,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-15",
+     "low": 287.68,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-16",
+     "low": 287.68,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-17",
+     "low": 287.68,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-18",
+     "low": 287.68,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 27
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "product_id": 22233,
+   "name": "Corsair HX1000i 1000W 80+ Platinum Fully Modular ATX 3.1",
+   "maker": "Corsair",
+   "model": "HXi",
+   "category": "psu",
+   "part_number": "CP-9020259-NA",
+   "upc": "840006697350",
+   "launch_price": null,
+   "week_low": 231.99,
+   "week_high": 239.99,
+   "week_open": 234.99,
+   "week_close": 231.99,
+   "typical_price_end": 239.99,
+   "prev_week_close": 234.99,
+   "change_vs_prev_week_pct": -1.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 34,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/corsair-hx1000i-fully-modular-ultra-low-1000w-80-platinum-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 234.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-13",
+     "low": 234.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-14",
+     "low": 234.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-15",
+     "low": 239.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-16",
+     "low": 231.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-17",
+     "low": 231.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-18",
+     "low": 231.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 34
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "product_id": 22235,
+   "name": "Corsair SF 850W 80+ Platinum Fully Modular SFX",
+   "maker": "Corsair",
+   "model": "SF",
+   "category": "psu",
+   "part_number": "CP-9020256-NA",
+   "upc": "840006663317",
+   "launch_price": null,
+   "week_low": 174.34,
+   "week_high": 199.99,
+   "week_open": 199.99,
+   "week_close": 174.34,
+   "typical_price_end": 199.99,
+   "prev_week_close": 199.99,
+   "change_vs_prev_week_pct": -12.8,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 25,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/corsair-sf-850w-80-platinum-fully-modular-sfx",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 199.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-13",
+     "low": 199.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-14",
+     "low": 199.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-15",
+     "low": 199.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-16",
+     "low": 199.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-17",
+     "low": 184.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-18",
+     "low": 174.34,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 25
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "product_id": 22245,
+   "name": "Corsair SF 750W 80+ Platinum Fully Modular SFX",
+   "maker": "Corsair",
+   "model": "SF",
+   "category": "psu",
+   "part_number": "CP-9020284-NA",
+   "upc": "840006676331",
+   "launch_price": null,
+   "week_low": 174.99,
+   "week_high": 174.99,
+   "week_open": 174.99,
+   "week_close": 174.99,
+   "typical_price_end": 174.99,
+   "prev_week_close": 174.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/corsair-sf-750w-80-platinum-fully-modular-sfx",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 174.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-13",
+     "low": 174.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-14",
+     "low": 174.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-15",
+     "low": 174.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-16",
+     "low": 174.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-17",
+     "low": 174.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-18",
+     "low": 174.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "product_id": 22246,
+   "name": "Corsair CX650M 650W Semi-Modular ATX 3.1",
+   "maker": "Corsair",
+   "model": null,
+   "category": "psu",
+   "part_number": "CP-9020310-NA",
+   "upc": "840440496953",
+   "launch_price": null,
+   "week_low": 71.99,
+   "week_high": 79.49,
+   "week_open": 79.0,
+   "week_close": 71.99,
+   "typical_price_end": 79.49,
+   "prev_week_close": 79.0,
+   "change_vs_prev_week_pct": -8.9,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/corsair-cx650m-650w-80-bronze-semi-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 79.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-13",
+     "low": 79.49,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-14",
+     "low": 79.49,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-15",
+     "low": 79.49,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-16",
+     "low": 71.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-17",
+     "low": 71.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-18",
+     "low": 71.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "product_id": 22247,
+   "name": "Corsair CX750M 750W Semi-Modular ATX 3.1",
+   "maker": "Corsair",
+   "model": null,
+   "category": "psu",
+   "part_number": "CP-9020311-NA",
+   "upc": "840440496977",
+   "launch_price": null,
+   "week_low": 79.95,
+   "week_high": 79.95,
+   "week_open": 79.95,
+   "week_close": 79.95,
+   "typical_price_end": 84.99,
+   "prev_week_close": 79.95,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/corsair-cx750m-750w-80-bronze-semi-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 79.95,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-13",
+     "low": 79.95,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-14",
+     "low": 79.95,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-15",
+     "low": 79.95,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-16",
+     "low": 79.95,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-17",
+     "low": 79.95,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-18",
+     "low": 79.95,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "product_id": 22443,
+   "name": "MSI MAG A650GLS 650W 80+ Gold Fully Modular ATX 3.1",
+   "maker": "MSI",
+   "model": null,
+   "category": "psu",
+   "part_number": "MAG A650GLS PCIE5",
+   "upc": "824142395837",
+   "launch_price": null,
+   "week_low": 79.99,
+   "week_high": 79.99,
+   "week_open": 79.99,
+   "week_close": 79.99,
+   "typical_price_end": 79.99,
+   "prev_week_close": 79.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 31,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/msi-mag-a650gls-650w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 79.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-13",
+     "low": 79.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-14",
+     "low": 79.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-15",
+     "low": 79.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-16",
+     "low": 79.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-17",
+     "low": 79.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-18",
+     "low": 79.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 31
+    }
+   ]
+  },
+  {
+   "rank": 11,
+   "product_id": 22323,
+   "name": "Corsair RMe 1000W 80+ Gold Fully Modular",
+   "maker": "Corsair",
+   "model": "RMe",
+   "category": "psu",
+   "part_number": "CP-9020297-NA",
+   "upc": "840006691365",
+   "launch_price": null,
+   "week_low": 132.99,
+   "week_high": 151.99,
+   "week_open": 151.99,
+   "week_close": 132.99,
+   "typical_price_end": 151.99,
+   "prev_week_close": 132.98,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 23,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/corsair-rme-1000w-80-gold-fully-modular",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 151.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-13",
+     "low": 132.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-14",
+     "low": 132.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-15",
+     "low": 132.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-16",
+     "low": 132.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-17",
+     "low": 132.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-18",
+     "low": 132.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 23
+    }
+   ]
+  },
+  {
+   "rank": 12,
+   "product_id": 22458,
+   "name": "MSI MAG A850GL 850W 80+ Gold ATX 3.1",
+   "maker": "MSI",
+   "model": "MAG A850GL",
+   "category": "psu",
+   "part_number": "MAG A850GL PCIE5",
+   "upc": "824142319222",
+   "launch_price": null,
+   "week_low": 94.99,
+   "week_high": 109.99,
+   "week_open": 109.99,
+   "week_close": 94.99,
+   "typical_price_end": 109.99,
+   "prev_week_close": 109.99,
+   "change_vs_prev_week_pct": -13.6,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 32,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://psu.live/psus/msi-mag-a850gl-850w-80-gold-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 109.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-13",
+     "low": 109.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-14",
+     "low": 109.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-15",
+     "low": 109.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-16",
+     "low": 109.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-17",
+     "low": 109.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-18",
+     "low": 94.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 32
+    }
+   ]
+  },
+  {
+   "rank": 13,
+   "product_id": 22228,
+   "name": "Corsair WS3000 3000W 80+ Platinum Fully Modular ATX 3.1",
+   "maker": "Corsair",
+   "model": null,
+   "category": "psu",
+   "part_number": "CP-9020312-NA",
+   "upc": "840440497462",
+   "launch_price": null,
+   "week_low": 559.99,
+   "week_high": 629.99,
+   "week_open": 559.99,
+   "week_close": 629.99,
+   "typical_price_end": 629.99,
+   "prev_week_close": 559.99,
+   "change_vs_prev_week_pct": 12.5,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/corsair-ws3000-atx-31-fully-3000w-80-platinum-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 559.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-13",
+     "low": 559.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-14",
+     "low": 569.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-15",
+     "low": 629.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-16",
+     "low": 629.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-17",
+     "low": 629.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-18",
+     "low": 629.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    }
+   ]
+  },
+  {
+   "rank": 14,
+   "product_id": 22241,
+   "name": "Corsair RM1000e 1000W 80+ Gold Fully Modular ATX 3.1 (CP-9020294-NA)",
+   "maker": "Corsair",
+   "model": "RMe",
+   "category": "psu",
+   "part_number": "CP-9020294-NA",
+   "upc": "840006687337",
+   "launch_price": null,
+   "week_low": 139.99,
+   "week_high": 139.99,
+   "week_open": 139.99,
+   "week_close": 139.99,
+   "typical_price_end": 155.99,
+   "prev_week_close": 139.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/corsair-rm1000e-fully-modular-low-noise-1000w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 139.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-13",
+     "low": 139.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-14",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-15",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-16",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-17",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-18",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    }
+   ]
+  },
+  {
+   "rank": 15,
+   "product_id": 22242,
+   "name": "Corsair RMx shift 850W 80+ Gold Fully Modular ATX 3.1",
+   "maker": "Corsair",
+   "model": "RMx shift",
+   "category": "psu",
+   "part_number": "CP-9020299-NA",
+   "upc": "840440484981",
+   "launch_price": null,
+   "week_low": 129.52,
+   "week_high": 139.99,
+   "week_open": 139.99,
+   "week_close": 129.52,
+   "typical_price_end": 139.99,
+   "prev_week_close": 151.99,
+   "change_vs_prev_week_pct": -14.8,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/corsair-rmx-shift-850w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-13",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-14",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-15",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-16",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-17",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-18",
+     "low": 129.52,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 16,
+   "product_id": 22243,
+   "name": "Corsair RMx shift 1000W 80+ Gold Fully Modular ATX 3.1 (CP-9020300-NA)",
+   "maker": "Corsair",
+   "model": "RMx shift",
+   "category": "psu",
+   "part_number": "CP-9020300-NA",
+   "upc": "840440483007",
+   "launch_price": null,
+   "week_low": 169.99,
+   "week_high": 169.99,
+   "week_open": 169.99,
+   "week_close": 169.99,
+   "typical_price_end": 169.99,
+   "prev_week_close": 169.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/corsair-rmx-shift-1000w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-13",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-14",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-15",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-16",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-17",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-18",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 17,
+   "product_id": 22244,
+   "name": "Corsair RM850e 850W 80+ Gold Fully Modular ATX 3.1",
+   "maker": "Corsair",
+   "model": "RMe",
+   "category": "psu",
+   "part_number": "CP-9020293-NA",
+   "upc": "840006687139",
+   "launch_price": null,
+   "week_low": 123.99,
+   "week_high": 123.99,
+   "week_open": 123.99,
+   "week_close": 123.99,
+   "typical_price_end": 124.99,
+   "prev_week_close": 99.99,
+   "change_vs_prev_week_pct": 24.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 28,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/corsair-rm850e-850w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 123.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-13",
+     "low": 123.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-14",
+     "low": 123.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-15",
+     "low": 123.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-16",
+     "low": 123.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-17",
+     "low": 123.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-18",
+     "low": 123.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 28
+    }
+   ]
+  },
+  {
+   "rank": 18,
+   "product_id": 22610,
+   "name": "Thermaltake Smart 600W 80+",
+   "maker": "Thermaltake",
+   "model": "Smart",
+   "category": "psu",
+   "part_number": "PS-SPD-0600NPCWUS-W",
+   "upc": "841163062241",
+   "launch_price": null,
+   "week_low": 42.99,
+   "week_high": 42.99,
+   "week_open": 42.99,
+   "week_close": 42.99,
+   "typical_price_end": 42.99,
+   "prev_week_close": 42.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 24,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/thermaltake-smart-600w-80",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 42.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-13",
+     "low": 42.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-14",
+     "low": 42.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-15",
+     "low": 42.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-16",
+     "low": 42.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-17",
+     "low": 42.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-18",
+     "low": 42.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 24
+    }
+   ]
+  },
+  {
+   "rank": 19,
+   "product_id": 22642,
+   "name": "MSI MEG Ai1600T 1600W 80+ Titanium Fully Modular ATX 3.1",
+   "maker": "MSI",
+   "model": null,
+   "category": "psu",
+   "part_number": "MEG Ai1600T PCIE5",
+   "upc": "824142374818",
+   "launch_price": null,
+   "week_low": 619.59,
+   "week_high": 679.99,
+   "week_open": 679.99,
+   "week_close": 619.59,
+   "typical_price_end": 652.49,
+   "prev_week_close": 679.99,
+   "change_vs_prev_week_pct": -8.9,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/msi-meg-ai1600t-1600w-80-titanium-fully-modular-server",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 679.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-13",
+     "low": 676.33,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-14",
+     "low": 676.33,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-15",
+     "low": 624.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-16",
+     "low": 624.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-17",
+     "low": 624.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-18",
+     "low": 619.59,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 20,
+   "product_id": 23197,
+   "name": "Lian Li SP 1000W 80+ Platinum Fully Modular SFX",
+   "maker": "Lian Li",
+   "model": "SP",
+   "category": "psu",
+   "part_number": "SP1000P.B",
+   "upc": "840353050570",
+   "launch_price": null,
+   "week_low": 179.99,
+   "week_high": 179.99,
+   "week_open": 179.99,
+   "week_close": 179.99,
+   "typical_price_end": 184.99,
+   "prev_week_close": 179.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 15,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://psu.live/psus/lian-li-sp-850w-80-platinum-fully-modular-sfx",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 179.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 16
+    },
+    {
+     "date": "2026-10-13",
+     "low": 179.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-14",
+     "low": 179.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 16
+    },
+    {
+     "date": "2026-10-15",
+     "low": 179.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-16",
+     "low": 179.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-17",
+     "low": 179.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-18",
+     "low": 179.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 15
+    }
+   ]
+  },
+  {
+   "rank": 21,
+   "product_id": 23281,
+   "name": "Lian Li RB 550W 80+ Bronze ATX 3.1",
+   "maker": "Lian Li",
+   "model": "RB",
+   "category": "psu",
+   "part_number": "RB0550B",
+   "upc": "840353050075",
+   "launch_price": null,
+   "week_low": 49.99,
+   "week_high": 49.99,
+   "week_open": 49.99,
+   "week_close": 49.99,
+   "typical_price_end": 51.99,
+   "prev_week_close": 49.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 31,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://psu.live/psus/lian-li-rb-550w-80-bronze-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 49.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-13",
+     "low": 49.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-14",
+     "low": 49.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-15",
+     "low": 49.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-16",
+     "low": 49.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-17",
+     "low": 49.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-18",
+     "low": 49.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 31
+    }
+   ]
+  },
+  {
+   "rank": 22,
+   "product_id": 22525,
+   "name": "MSI A850GLS MLG EDITION 850W 80+ Gold Fully Modular ATX 3.1",
+   "maker": "MSI",
+   "model": null,
+   "category": "psu",
+   "part_number": "A850GLS MLG EDITION",
+   "upc": "824142432693",
+   "launch_price": null,
+   "week_low": 99.99,
+   "week_high": 102.39,
+   "week_open": 99.99,
+   "week_close": 102.39,
+   "typical_price_end": 111.67,
+   "prev_week_close": 102.39,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 19,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://psu.live/psus/msi-a850gls-mlg-edition-850w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 99.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-13",
+     "low": 102.39,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-14",
+     "low": 102.39,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-15",
+     "low": 102.39,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-16",
+     "low": 102.39,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-17",
+     "low": 102.39,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-18",
+     "low": 102.39,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 19
+    }
+   ]
+  },
+  {
+   "rank": 23,
+   "product_id": 22579,
+   "name": "Thermaltake Toughpower GT 750W 80+ Gold Fully Modular ATX 3.1",
+   "maker": "Thermaltake",
+   "model": "Toughpower GT",
+   "category": "psu",
+   "part_number": "PS-TPT-0750FNFAGU-W",
+   "upc": "841163098165",
+   "launch_price": null,
+   "week_low": 89.99,
+   "week_high": 89.99,
+   "week_open": 89.99,
+   "week_close": 89.99,
+   "typical_price_end": 93.56,
+   "prev_week_close": 89.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 28,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://psu.live/psus/thermaltake-toughpower-gt-750w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 89.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-13",
+     "low": 89.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-14",
+     "low": 89.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-15",
+     "low": 89.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-16",
+     "low": 89.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-17",
+     "low": 89.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-18",
+     "low": 89.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    }
+   ]
+  },
+  {
+   "rank": 24,
+   "product_id": 22835,
+   "name": "Seasonic VERTEX PX-1000 1000W 80+ Platinum Fully Modular ATX 3.0",
+   "maker": "Seasonic",
+   "model": "VERTEX PX",
+   "category": "psu",
+   "part_number": "VERTEX PX-1000",
+   "upc": "4711173877752",
+   "launch_price": null,
+   "week_low": 259.99,
+   "week_high": 259.99,
+   "week_open": 259.99,
+   "week_close": 259.99,
+   "typical_price_end": 269.99,
+   "prev_week_close": 259.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 31,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://psu.live/psus/seasonic-vertex-px-1000-1000w-80-platinum-fully-modular-atx-30",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 259.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-13",
+     "low": 259.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-14",
+     "low": 259.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-15",
+     "low": 259.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-16",
+     "low": 259.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-17",
+     "low": 259.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-18",
+     "low": 259.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 31
+    }
+   ]
+  },
+  {
+   "rank": 25,
+   "product_id": 22251,
+   "name": "Corsair CX 750W 80+ Bronze",
+   "maker": "Corsair",
+   "model": "CX",
+   "category": "psu",
+   "part_number": "CP-9020279-NA",
+   "upc": "840006671053",
+   "launch_price": null,
+   "week_low": 59.99,
+   "week_high": 79.49,
+   "week_open": 59.99,
+   "week_close": 79.49,
+   "typical_price_end": 79.99,
+   "prev_week_close": 79.99,
+   "change_vs_prev_week_pct": -0.6,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 5,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/corsair-cx-750w-80-bronze",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 59.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-13",
+     "low": 59.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-14",
+     "low": 79.49,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-15",
+     "low": 79.49,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-16",
+     "low": 79.49,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-17",
+     "low": 79.49,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-18",
+     "low": 79.49,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 5
+    }
+   ]
+  },
+  {
+   "rank": 26,
+   "product_id": 22491,
+   "name": "MSI MAG A1000GLS 1000W 80+ Gold Fully Modular ATX 3.1",
+   "maker": "MSI",
+   "model": null,
+   "category": "psu",
+   "part_number": "MAG A1000GLS PCIE5",
+   "upc": "824142398074",
+   "launch_price": null,
+   "week_low": 129.99,
+   "week_high": 129.99,
+   "week_open": 129.99,
+   "week_close": 129.99,
+   "typical_price_end": 134.99,
+   "prev_week_close": 139.99,
+   "change_vs_prev_week_pct": -7.1,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/msi-mag-a1000gls-1000w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-13",
+     "low": 129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-14",
+     "low": 129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-15",
+     "low": 129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-16",
+     "low": 129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-17",
+     "low": 129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-18",
+     "low": 129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 27,
+   "product_id": 22571,
+   "name": "MSI MAG A650GL 650W 80+ Gold Fully Modular",
+   "maker": "MSI",
+   "model": null,
+   "category": "psu",
+   "part_number": "MAG A650GL",
+   "upc": "824142319246",
+   "launch_price": null,
+   "week_low": 74.99,
+   "week_high": 74.99,
+   "week_open": 74.99,
+   "week_close": 74.99,
+   "typical_price_end": 99.99,
+   "prev_week_close": 74.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 2,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://psu.live/psus/msi-mag-a650gl-650w-80-gold-fully-modular",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 74.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 2
+    },
+    {
+     "date": "2026-10-13",
+     "low": 74.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 2
+    },
+    {
+     "date": "2026-10-14",
+     "low": 74.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 2
+    },
+    {
+     "date": "2026-10-15",
+     "low": 74.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 2
+    },
+    {
+     "date": "2026-10-16",
+     "low": 74.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 2
+    },
+    {
+     "date": "2026-10-17",
+     "low": 74.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 2
+    },
+    {
+     "date": "2026-10-18",
+     "low": 74.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 2
+    }
+   ]
+  },
+  {
+   "rank": 28,
+   "product_id": 22831,
+   "name": "ASUS ROG Loki 1000W 80+ Platinum Fully Modular SFX-L",
+   "maker": "ASUS",
+   "model": "ROG Loki",
+   "category": "psu",
+   "part_number": "ROG-LOKI-1000P-SFX-L-GAMING",
+   "upc": "195553722049",
+   "launch_price": null,
+   "week_low": 264.99,
+   "week_high": 279.99,
+   "week_open": 279.99,
+   "week_close": 264.99,
+   "typical_price_end": 272.49,
+   "prev_week_close": 279.99,
+   "change_vs_prev_week_pct": -5.4,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 34,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/asus-rog-loki-1000w-80-platinum-fully-modular-sfx-l",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 279.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-13",
+     "low": 279.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-14",
+     "low": 264.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-15",
+     "low": 264.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-16",
+     "low": 264.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-17",
+     "low": 264.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-18",
+     "low": 264.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    }
+   ]
+  },
+  {
+   "rank": 29,
+   "product_id": 22879,
+   "name": "Lian Li Edge 1000W 80+ Gold Fully Modular ATX 3.0",
+   "maker": "Lian Li",
+   "model": "Edge",
+   "category": "psu",
+   "part_number": "EG1000G.BH",
+   "upc": "840353046825",
+   "launch_price": null,
+   "week_low": 147.62,
+   "week_high": 149.99,
+   "week_open": 149.99,
+   "week_close": 149.99,
+   "typical_price_end": 155.74,
+   "prev_week_close": 147.62,
+   "change_vs_prev_week_pct": 1.6,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 33,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://psu.live/psus/lian-li-edge-1000w-80-gold-fully-modular-atx-30",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-13",
+     "low": 147.62,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-14",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-15",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-16",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-17",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-18",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 33
+    }
+   ]
+  },
+  {
+   "rank": 30,
+   "product_id": 23230,
+   "name": "Thermaltake Toughpower GT 1000W 80+ Gold Fully Modular ATX 3.1 Black",
+   "maker": "Thermaltake",
+   "model": "Toughpower GT",
+   "category": "psu",
+   "part_number": "PS-TPT-1000FNFAGU-3",
+   "upc": "840480304034",
+   "launch_price": null,
+   "week_low": 149.99,
+   "week_high": 159.99,
+   "week_open": 159.99,
+   "week_close": 149.99,
+   "typical_price_end": 159.99,
+   "prev_week_close": 149.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/thermaltake-toughpower-gt-1000w-80-gold-fully-modular-atx-31-2",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-13",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-14",
+     "low": 149.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-15",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-16",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-17",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-18",
+     "low": 149.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 31,
+   "product_id": 23285,
+   "name": "Seasonic PRIME PX-1600 1600W 80+ Platinum Fully Modular ATX 3.1",
+   "maker": "Seasonic",
+   "model": "PRIME PX",
+   "category": "psu",
+   "part_number": "SSR-1600PD2",
+   "upc": "4711173878032",
+   "launch_price": null,
+   "week_low": 469.99,
+   "week_high": 469.99,
+   "week_open": 469.99,
+   "week_close": 469.99,
+   "typical_price_end": 499.99,
+   "prev_week_close": 469.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 10,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://psu.live/psus/seasonic-prime-px-1600-1600w-80-titanium-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 469.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 14
+    },
+    {
+     "date": "2026-10-13",
+     "low": 469.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 14
+    },
+    {
+     "date": "2026-10-14",
+     "low": 469.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 12
+    },
+    {
+     "date": "2026-10-15",
+     "low": 469.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 12
+    },
+    {
+     "date": "2026-10-16",
+     "low": 469.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 12
+    },
+    {
+     "date": "2026-10-17",
+     "low": 469.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 11
+    },
+    {
+     "date": "2026-10-18",
+     "low": 469.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 10
+    }
+   ]
+  },
+  {
+   "rank": 32,
+   "product_id": 23633,
+   "name": "Lian Li SP1000P 1000W 80+ Platinum Fully Modular SFX",
+   "maker": "Lian Li",
+   "model": null,
+   "category": "psu",
+   "part_number": "SP1000P.W000.US",
+   "upc": "840353051003",
+   "launch_price": null,
+   "week_low": 179.99,
+   "week_high": 179.99,
+   "week_open": 179.99,
+   "week_close": 179.99,
+   "typical_price_end": 184.99,
+   "prev_week_close": 179.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 24,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://psu.live/psus/lian-li-sp1000p-1000w-80-platinum-fully-modular-sfx",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 179.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-13",
+     "low": 179.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-14",
+     "low": 179.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-15",
+     "low": 179.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-16",
+     "low": 179.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-17",
+     "low": 179.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-18",
+     "low": 179.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 24
+    }
+   ]
+  },
+  {
+   "rank": 33,
+   "product_id": 22533,
+   "name": "ASUS TUF 1000W 80+ Gold Fully Modular ATX 3.0",
+   "maker": "ASUS",
+   "model": "TUF",
+   "category": "psu",
+   "part_number": "TUF-GAMING-1000G",
+   "upc": "195553786485",
+   "launch_price": null,
+   "week_low": 164.99,
+   "week_high": 179.99,
+   "week_open": 166.99,
+   "week_close": 179.99,
+   "typical_price_end": 184.99,
+   "prev_week_close": 166.99,
+   "change_vs_prev_week_pct": 7.8,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 31,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://psu.live/psus/asus-tuf-1000w-80-gold-fully-modular-atx-30",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 166.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-13",
+     "low": 166.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-14",
+     "low": 164.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-15",
+     "low": 166.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-16",
+     "low": 179.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-17",
+     "low": 179.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-18",
+     "low": 179.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 31
+    }
+   ]
+  },
+  {
+   "rank": 34,
+   "product_id": 22582,
+   "name": "Thermaltake GF1 850W 80+ Gold Fully Modular",
+   "maker": "Thermaltake",
+   "model": "Toughpower GF1",
+   "category": "psu",
+   "part_number": "PS-TPD-0850FNFAGU-P",
+   "upc": "841163090848",
+   "launch_price": null,
+   "week_low": 75.9,
+   "week_high": 81.99,
+   "week_open": 81.99,
+   "week_close": 75.9,
+   "typical_price_end": 79.99,
+   "prev_week_close": 84.99,
+   "change_vs_prev_week_pct": -10.7,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/thermaltake-gf1-850w-80-gold-fully-modular",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 81.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 75.9,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 75.9,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 75.9,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 75.9,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 75.9,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 75.9,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 35,
+   "product_id": 22345,
+   "name": "MSI MPG Ai1300TS 1300W 80+ Titanium Fully Modular ATX 3.1",
+   "maker": "MSI",
+   "model": null,
+   "category": "psu",
+   "part_number": "MPG Ai1300TS PCIE5",
+   "upc": "824142448533",
+   "launch_price": null,
+   "week_low": 376.99,
+   "week_high": 399.99,
+   "week_open": 393.64,
+   "week_close": 399.99,
+   "typical_price_end": 399.99,
+   "prev_week_close": 398.99,
+   "change_vs_prev_week_pct": 0.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 27,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://psu.live/psus/msi-mpg-ai1300ts-1300w-80-titanium-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 393.64,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-13",
+     "low": 398.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-14",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-15",
+     "low": 376.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-16",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-17",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-18",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 27
+    }
+   ]
+  },
+  {
+   "rank": 36,
+   "product_id": 22362,
+   "name": "SilverStone HELA 1200R Platinum Cybenetics 1200W 80+ Platinum Fully Modular",
+   "maker": "SilverStone",
+   "model": null,
+   "category": "psu",
+   "part_number": "HA1200R-PM",
+   "upc": "844761025564",
+   "launch_price": null,
+   "week_low": 274.64,
+   "week_high": 286.42,
+   "week_open": 283.55,
+   "week_close": 274.64,
+   "typical_price_end": 283.815,
+   "prev_week_close": 283.41,
+   "change_vs_prev_week_pct": -3.1,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/silverstone-technology-hela-1200r-platinum-cybenetics-1200w-80-platinum-fully-modular",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 283.55,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 282.92,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 282.93,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 278.86,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 286.42,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 283.42,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 274.64,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 37,
+   "product_id": 22510,
+   "name": "Thermaltake Toughpower GT 1000W 80+ Gold Fully Modular ATX 3.1 White",
+   "maker": "Thermaltake",
+   "model": "Toughpower GT",
+   "category": "psu",
+   "part_number": "PS-TPT-1000FNFAGU-W",
+   "upc": "840480304232",
+   "launch_price": null,
+   "week_low": 99.99,
+   "week_high": 109.99,
+   "week_open": 99.99,
+   "week_close": 109.99,
+   "typical_price_end": 109.99,
+   "prev_week_close": 99.99,
+   "change_vs_prev_week_pct": 10.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/thermaltake-toughpower-gt-1000w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 99.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 99.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 99.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 108.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 108.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 108.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 109.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 38,
+   "product_id": 22549,
+   "name": "Montech CENTURY II 850W 80+ Gold Fully Modular",
+   "maker": "Montech",
+   "model": "CENTURY II",
+   "category": "psu",
+   "part_number": "Century II 850",
+   "upc": "4710562747263",
+   "launch_price": null,
+   "week_low": 89.9,
+   "week_high": 89.9,
+   "week_open": 89.9,
+   "week_close": 89.9,
+   "typical_price_end": 94.945,
+   "prev_week_close": 89.9,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 26,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/montech-century-ii-850w-80-platinum-fully-modular",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 89.9,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-13",
+     "low": 89.9,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-14",
+     "low": 89.9,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-15",
+     "low": 89.9,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-16",
+     "low": 89.9,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-17",
+     "low": 89.9,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-18",
+     "low": 89.9,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 26
+    }
+   ]
+  },
+  {
+   "rank": 39,
+   "product_id": 22675,
+   "name": "SilverStone 1000W 80+ Platinum Fully Modular SFX (SST-EX1000R-PM)",
+   "maker": "SilverStone",
+   "model": null,
+   "category": "psu",
+   "part_number": "SST-EX1000R-PM",
+   "upc": "844761028855",
+   "launch_price": null,
+   "week_low": 269.99,
+   "week_high": 269.99,
+   "week_open": 269.99,
+   "week_close": 269.99,
+   "typical_price_end": 277.735,
+   "prev_week_close": 269.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 3,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://psu.live/psus/silverstone-1000w-80-platinum-fully-modular-sfx-sst-ex1000r-pm",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 269.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-13",
+     "low": 269.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-14",
+     "low": 269.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-15",
+     "low": 269.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-16",
+     "low": 269.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-17",
+     "low": 269.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-18",
+     "low": 269.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 3
+    }
+   ]
+  },
+  {
+   "rank": 40,
+   "product_id": 23052,
+   "name": "Thermaltake Toughpower GF3 1650W 80+ Gold Fully Modular ATX 3.0",
+   "maker": "Thermaltake",
+   "model": "Toughpower GF3",
+   "category": "psu",
+   "part_number": "PSTPD1650FNFAGU",
+   "upc": "841163084533",
+   "launch_price": null,
+   "week_low": 299.99,
+   "week_high": 299.99,
+   "week_open": 299.99,
+   "week_close": 299.99,
+   "typical_price_end": 299.99,
+   "prev_week_close": 299.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 13,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://psu.live/psus/thermaltake-toughpower-gf3-1650w-80-gold-fully-modular-atx-30",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 299.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 14
+    },
+    {
+     "date": "2026-10-13",
+     "low": 299.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 14
+    },
+    {
+     "date": "2026-10-14",
+     "low": 299.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 14
+    },
+    {
+     "date": "2026-10-15",
+     "low": 299.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 13
+    },
+    {
+     "date": "2026-10-16",
+     "low": 299.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 14
+    },
+    {
+     "date": "2026-10-17",
+     "low": 299.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 14
+    },
+    {
+     "date": "2026-10-18",
+     "low": 299.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 13
+    }
+   ]
+  },
+  {
+   "rank": 41,
+   "product_id": 22238,
+   "name": "Corsair RMx 850W 80+ Gold Fully Modular ATX 3.1",
+   "maker": "Corsair",
+   "model": "RMx",
+   "category": "psu",
+   "part_number": "CP-9020270-NA",
+   "upc": "840006667506",
+   "launch_price": null,
+   "week_low": 139.95,
+   "week_high": 139.99,
+   "week_open": 139.99,
+   "week_close": 139.95,
+   "typical_price_end": 139.99,
+   "prev_week_close": 139.99,
+   "change_vs_prev_week_pct": -0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 34,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/corsair-rmx-850w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-13",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-14",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-15",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-16",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-17",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-18",
+     "low": 139.95,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    }
+   ]
+  },
+  {
+   "rank": 42,
+   "product_id": 22334,
+   "name": "ASUS Pro WS 2200W 80+ Platinum Fully Modular ATX 3.1",
+   "maker": "ASUS",
+   "model": "Pro WS",
+   "category": "psu",
+   "part_number": "PRO-WS-2200P",
+   "upc": "197105972964",
+   "launch_price": null,
+   "week_low": 559.99,
+   "week_high": 569.99,
+   "week_open": 569.99,
+   "week_close": 559.99,
+   "typical_price_end": 572.99,
+   "prev_week_close": 569.99,
+   "change_vs_prev_week_pct": -1.8,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 32,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://psu.live/psus/asus-pro-ws-2200w-platinum-2200w-80-platinum-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 569.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-13",
+     "low": 569.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-14",
+     "low": 569.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-15",
+     "low": 569.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-16",
+     "low": 569.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-17",
+     "low": 559.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-18",
+     "low": 559.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 32
+    }
+   ]
+  },
+  {
+   "rank": 43,
+   "product_id": 22434,
+   "name": "NZXT 850W 80+ Gold Fully Modular ATX 3.1 Black (PA-8G2BB-US)",
+   "maker": "NZXT",
+   "model": null,
+   "category": "psu",
+   "part_number": "PA-8G2BB-US",
+   "upc": "810074844857",
+   "launch_price": null,
+   "week_low": 119.99,
+   "week_high": 119.99,
+   "week_open": 119.99,
+   "week_close": 119.99,
+   "typical_price_end": 119.99,
+   "prev_week_close": 119.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/nzxt-atx-31-850w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 119.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-13",
+     "low": 119.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-14",
+     "low": 119.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-15",
+     "low": 119.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-16",
+     "low": 119.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-17",
+     "low": 119.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-18",
+     "low": 119.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 44,
+   "product_id": 22445,
+   "name": "Seasonic CORE GX-750 ATX3 750W 80+ Gold Fully Modular",
+   "maker": "Seasonic",
+   "model": "CORE GX",
+   "category": "psu",
+   "part_number": "CORE GX-750 ATX3",
+   "upc": "4711173878469",
+   "launch_price": null,
+   "week_low": 99.99,
+   "week_high": 99.99,
+   "week_open": 99.99,
+   "week_close": 99.99,
+   "typical_price_end": 109.99,
+   "prev_week_close": 99.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://psu.live/psus/seasonic-core-gx-750-atx3-750w-80-gold-fully-modular",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-13",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-14",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-15",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-16",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-17",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-18",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 45,
+   "product_id": 22516,
+   "name": "Thermaltake Toughpower GT 1200W 80+ Gold Fully Modular ATX 3.1 Black",
+   "maker": "Thermaltake",
+   "model": "Toughpower GT",
+   "category": "psu",
+   "part_number": "PS-TPT-1200FNFAGU-3",
+   "upc": "840480304133",
+   "launch_price": null,
+   "week_low": 129.99,
+   "week_high": 129.99,
+   "week_open": 129.99,
+   "week_close": 129.99,
+   "typical_price_end": 129.99,
+   "prev_week_close": 129.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 27,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/thermaltake-toughpower-gt-1200w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-13",
+     "low": 129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-14",
+     "low": 129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-15",
+     "low": 129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-16",
+     "low": 129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-17",
+     "low": 129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-18",
+     "low": 129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 27
+    }
+   ]
+  },
+  {
+   "rank": 46,
+   "product_id": 22564,
+   "name": "Thermaltake Toughpower GT 850W 80+ Gold ATX 3.1",
+   "maker": "Thermaltake",
+   "model": "Toughpower GT",
+   "category": "psu",
+   "part_number": "PS-TPT-0850FNFAGU-3",
+   "upc": "841163097465",
+   "launch_price": null,
+   "week_low": 89.99,
+   "week_high": 89.99,
+   "week_open": 89.99,
+   "week_close": 89.99,
+   "typical_price_end": 89.99,
+   "prev_week_close": 89.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 10,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/thermaltake-toughpower-gt-850w-80-gold-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 89.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 17
+    },
+    {
+     "date": "2026-10-13",
+     "low": 89.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-14",
+     "low": 89.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 18
+    },
+    {
+     "date": "2026-10-15",
+     "low": 89.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 17
+    },
+    {
+     "date": "2026-10-16",
+     "low": 89.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 14
+    },
+    {
+     "date": "2026-10-17",
+     "low": 89.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 14
+    },
+    {
+     "date": "2026-10-18",
+     "low": 89.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 10
+    }
+   ]
+  },
+  {
+   "rank": 47,
+   "product_id": 23181,
+   "name": "Lian Li Edge 1200W 80+ Gold Fully Modular ATX 3.1",
+   "maker": "Lian Li",
+   "model": "Edge",
+   "category": "psu",
+   "part_number": "EG1200G.BH",
+   "upc": "840353047853",
+   "launch_price": null,
+   "week_low": 174.99,
+   "week_high": 179.99,
+   "week_open": 179.99,
+   "week_close": 174.99,
+   "typical_price_end": 180.385,
+   "prev_week_close": 179.99,
+   "change_vs_prev_week_pct": -2.8,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 34,
+   "lowest_store_end": "Adorama",
+   "url": "https://psu.live/psus/lian-li-edge-serie-1200w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 179.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-13",
+     "low": 179.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-14",
+     "low": 179.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-15",
+     "low": 179.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-16",
+     "low": 179.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-17",
+     "low": 174.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-18",
+     "low": 174.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    }
+   ]
+  },
+  {
+   "rank": 48,
+   "product_id": 23294,
+   "name": "MSI MAG A850GLS 850W 80+ Gold Fully Modular ATX 3.1",
+   "maker": "MSI",
+   "model": null,
+   "category": "psu",
+   "part_number": "MAG A850GLS PCIE5",
+   "upc": "824142398081",
+   "launch_price": null,
+   "week_low": 99.99,
+   "week_high": 109.99,
+   "week_open": 99.99,
+   "week_close": 109.99,
+   "typical_price_end": 109.99,
+   "prev_week_close": 99.99,
+   "change_vs_prev_week_pct": 10.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 4,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/msi-mag-a850gls-850w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 99.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-13",
+     "low": 103.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-14",
+     "low": 109.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-15",
+     "low": 109.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-16",
+     "low": 109.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-17",
+     "low": 109.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-18",
+     "low": 109.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 4
+    }
+   ]
+  },
+  {
+   "rank": 49,
+   "product_id": 22454,
+   "name": "NZXT 1000W 80+ Gold Fully Modular ATX 3.1 (PA-0G2BB-US)",
+   "maker": "NZXT",
+   "model": null,
+   "category": "psu",
+   "part_number": "PA-0G2BB-US",
+   "upc": "810074844772",
+   "launch_price": null,
+   "week_low": 124.99,
+   "week_high": 124.99,
+   "week_open": 124.99,
+   "week_close": 124.99,
+   "typical_price_end": 124.99,
+   "prev_week_close": 124.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/nzxt-atx-31-1000w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 124.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-13",
+     "low": 124.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-14",
+     "low": 124.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-15",
+     "low": 124.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-16",
+     "low": 124.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-17",
+     "low": 124.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-18",
+     "low": 124.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 50,
+   "product_id": 22422,
+   "name": "Thermaltake Dockpower FI 750W 80+ Gold Fully Modular ATX 3.1 Black",
+   "maker": "Thermaltake",
+   "model": "Dockpower FI",
+   "category": "psu",
+   "part_number": "PS-DCP-0750FNFAGU-2",
+   "upc": "840480310967",
+   "launch_price": null,
+   "week_low": 119.81,
+   "week_high": 119.99,
+   "week_open": 119.99,
+   "week_close": 119.93,
+   "typical_price_end": 119.99,
+   "prev_week_close": 119.99,
+   "change_vs_prev_week_pct": -0.1,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/thermaltake-dockpower-fi-750w-atx-750w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 119.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-13",
+     "low": 119.81,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-14",
+     "low": 119.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-15",
+     "low": 119.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-16",
+     "low": 119.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-17",
+     "low": 119.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-18",
+     "low": 119.93,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 51,
+   "product_id": 22456,
+   "name": "Thermaltake Toughpower GF A3 ATX 1200W 80+ Gold Fully Modular ATX 3.0",
+   "maker": "Thermaltake",
+   "model": "Toughpower GF A3",
+   "category": "psu",
+   "part_number": "PS-TPD-1200FNFAGU-L",
+   "upc": "841163088258",
+   "launch_price": null,
+   "week_low": 149.99,
+   "week_high": 149.99,
+   "week_open": 149.99,
+   "week_close": 149.99,
+   "typical_price_end": 149.99,
+   "prev_week_close": 149.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/thermaltake-toughpower-gf-a3-atx-1200w-80-gold-fully-modular-atx-30",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 149.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 149.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 149.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 149.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 149.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 149.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 149.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 52,
+   "product_id": 22484,
+   "name": "NZXT C850 SFX Gold 850W 80+ Gold Fully Modular SFX",
+   "maker": "NZXT",
+   "model": "C850",
+   "category": "psu",
+   "part_number": "PS-8G1BB-US",
+   "upc": "810074847414",
+   "launch_price": null,
+   "week_low": 149.99,
+   "week_high": 149.99,
+   "week_open": 149.99,
+   "week_close": 149.99,
+   "typical_price_end": 149.99,
+   "prev_week_close": 149.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/nzxt-c850-sfx-gold-850w-80-platinum-fully-modular-sfx",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 149.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 149.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 149.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 149.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 149.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 149.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 149.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 53,
+   "product_id": 22725,
+   "name": "SilverStone HELA 850R 850W 80+ Platinum ATX 3.1",
+   "maker": "SilverStone",
+   "model": "Technology HELA 850R",
+   "category": "psu",
+   "part_number": "PS-HA850R-PM-V",
+   "upc": "844761027612",
+   "launch_price": null,
+   "week_low": 230.09,
+   "week_high": 244.26,
+   "week_open": 232.61,
+   "week_close": 234.17,
+   "typical_price_end": 234.17,
+   "prev_week_close": 234.18,
+   "change_vs_prev_week_pct": -0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/silverstone-technology-hela-850r-850w-80-platinum-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 232.61,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 230.09,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 236.7,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 239.22,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 236.7,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 244.26,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 234.17,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 54,
+   "product_id": 23160,
+   "name": "Silverstone 850W 80+ Gold Fully Modular (DA850R-GMA)",
+   "maker": "SilverStone",
+   "model": null,
+   "category": "psu",
+   "part_number": "DA850R-GMA",
+   "upc": "844761026844",
+   "launch_price": null,
+   "week_low": 133.3,
+   "week_high": 146.44,
+   "week_open": 137.09,
+   "week_close": 137.08,
+   "typical_price_end": 137.08,
+   "prev_week_close": 141.89,
+   "change_vs_prev_week_pct": -3.4,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/silverstone-850-w-power-850w-80-gold-fully-modular",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 137.09,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 137.09,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 141.28,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 140.52,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 146.44,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 133.3,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 137.08,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 55,
+   "product_id": 22240,
+   "name": "Corsair RMx 750W 80+ Gold Fully Modular ATX 3.1",
+   "maker": "Corsair",
+   "model": "RMx",
+   "category": "psu",
+   "part_number": "CP-9020285-NA",
+   "upc": "840006676898",
+   "launch_price": null,
+   "week_low": 122.99,
+   "week_high": 134.99,
+   "week_open": 122.99,
+   "week_close": 134.99,
+   "typical_price_end": 134.99,
+   "prev_week_close": 122.99,
+   "change_vs_prev_week_pct": 9.8,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 34,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/corsair-rmx-750w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 122.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-13",
+     "low": 122.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-14",
+     "low": 134.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-15",
+     "low": 134.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-16",
+     "low": 134.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-17",
+     "low": 134.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-18",
+     "low": 134.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    }
+   ]
+  },
+  {
+   "rank": 56,
+   "product_id": 22353,
+   "name": "MSI MAG A1200PLS 1200W 80+ Platinum Fully Modular ATX 3.1",
+   "maker": "MSI",
+   "model": null,
+   "category": "psu",
+   "part_number": "MAG A1200PLS PCIE5",
+   "upc": "824142446171",
+   "launch_price": null,
+   "week_low": 189.99,
+   "week_high": 189.99,
+   "week_open": 189.99,
+   "week_close": 189.99,
+   "typical_price_end": 219.99,
+   "prev_week_close": 189.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 21,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://psu.live/psus/msi-mag-a1200pls-1200w-80-platinum-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 189.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 16
+    },
+    {
+     "date": "2026-10-13",
+     "low": 189.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-14",
+     "low": 189.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 16
+    },
+    {
+     "date": "2026-10-15",
+     "low": 189.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 16
+    },
+    {
+     "date": "2026-10-16",
+     "low": 189.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-17",
+     "low": 189.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-18",
+     "low": 189.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 21
+    }
+   ]
+  },
+  {
+   "rank": 57,
+   "product_id": 22365,
+   "name": "ASUS ROG Strix 1000W 80+ Platinum Fully Modular ATX 3.1 (ROG-STRIX-1000P-GAMING)",
+   "maker": "ASUS",
+   "model": "ROG Strix",
+   "category": "psu",
+   "part_number": "ROG-STRIX-1000P-GAMING",
+   "upc": "197105594456",
+   "launch_price": null,
+   "week_low": 214.95,
+   "week_high": 214.95,
+   "week_open": 214.95,
+   "week_close": 214.95,
+   "typical_price_end": 227.47,
+   "prev_week_close": 214.95,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 33,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/asus-rog-strix-1000w-platinum-1000w-80-platinum-fully-modular-atx-31-2",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 214.95,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-13",
+     "low": 214.95,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-14",
+     "low": 214.95,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-15",
+     "low": 214.95,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-16",
+     "low": 214.95,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-17",
+     "low": 214.95,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-18",
+     "low": 214.95,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    }
+   ]
+  },
+  {
+   "rank": 58,
+   "product_id": 22483,
+   "name": "NZXT 1200W 80+ Gold Fully Modular ATX 3.1 (PA-2G2BB-US)",
+   "maker": "NZXT",
+   "model": null,
+   "category": "psu",
+   "part_number": "PA-2G2BB-US",
+   "upc": "810074844697",
+   "launch_price": null,
+   "week_low": 124.99,
+   "week_high": 124.99,
+   "week_open": 124.99,
+   "week_close": 124.99,
+   "typical_price_end": 124.99,
+   "prev_week_close": 124.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 16,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/nzxt-atx-31-1200w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 124.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-13",
+     "low": 124.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-14",
+     "low": 124.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-15",
+     "low": 124.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-16",
+     "low": 124.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-17",
+     "low": 124.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 18
+    },
+    {
+     "date": "2026-10-18",
+     "low": 124.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 16
+    }
+   ]
+  },
+  {
+   "rank": 59,
+   "product_id": 22517,
+   "name": "MSI MAG A1000PLS 1000W 80+ Platinum Fully Modular ATX 3.1",
+   "maker": "MSI",
+   "model": null,
+   "category": "psu",
+   "part_number": "MAG A1000PLS PCIE5",
+   "upc": "824142446195",
+   "launch_price": null,
+   "week_low": 159.99,
+   "week_high": 159.99,
+   "week_open": 159.99,
+   "week_close": 159.99,
+   "typical_price_end": 167.99,
+   "prev_week_close": 159.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 25,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://psu.live/psus/msi-mag-a1000pls-1000w-80-platinum-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-13",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-14",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 14
+    },
+    {
+     "date": "2026-10-15",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 13
+    },
+    {
+     "date": "2026-10-16",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 18
+    },
+    {
+     "date": "2026-10-17",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-18",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 25
+    }
+   ]
+  },
+  {
+   "rank": 60,
+   "product_id": 23039,
+   "name": "SilverStone Extreme 550Rz Gold 550W 80+ Gold Fully Modular SFX",
+   "maker": "SilverStone",
+   "model": null,
+   "category": "psu",
+   "part_number": "PS-EX550R-GM",
+   "upc": "844761028251",
+   "launch_price": null,
+   "week_low": 159.21,
+   "week_high": 164.87,
+   "week_open": 164.87,
+   "week_close": 159.21,
+   "typical_price_end": 159.21,
+   "prev_week_close": 164.87,
+   "change_vs_prev_week_pct": -3.4,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/silverstone-technology-extreme-550rz-gold-550w-80-gold-fully-modular-sfx",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 164.87,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 164.87,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 159.21,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 159.21,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 159.21,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 159.21,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 159.21,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 61,
+   "product_id": 23201,
+   "name": "Cooler Master MWE Gold 850W 80+ Gold Fully Modular ATX 3.1",
+   "maker": "Cooler Master",
+   "model": "MWE Gold",
+   "category": "psu",
+   "part_number": "MPX-8503-AFAG-2BUV",
+   "upc": "884102119255",
+   "launch_price": null,
+   "week_low": 120.0,
+   "week_high": 144.99,
+   "week_open": 144.99,
+   "week_close": 120.0,
+   "typical_price_end": 132.495,
+   "prev_week_close": 144.99,
+   "change_vs_prev_week_pct": -17.2,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/cooler-master-mwe-gold-850w-80-platinum-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 144.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 144.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 144.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 141.85,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 120.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 120.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 120.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 62,
+   "product_id": 23228,
+   "name": "Lian Li SP V2 Gold 850W 80+ Gold Fully Modular SFX Black",
+   "maker": "Lian Li",
+   "model": "SP V2 Gold",
+   "category": "psu",
+   "part_number": "SP850G.B",
+   "upc": "840353048904",
+   "launch_price": null,
+   "week_low": 139.99,
+   "week_high": 139.99,
+   "week_open": 139.99,
+   "week_close": 139.99,
+   "typical_price_end": 144.495,
+   "prev_week_close": 139.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 19,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://psu.live/psus/lian-li-sp-v2-gold-850w-80-gold-fully-modular-sfx-2",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 139.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 17
+    },
+    {
+     "date": "2026-10-13",
+     "low": 139.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-14",
+     "low": 139.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 12
+    },
+    {
+     "date": "2026-10-15",
+     "low": 139.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 13
+    },
+    {
+     "date": "2026-10-16",
+     "low": 139.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-17",
+     "low": 139.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-18",
+     "low": 139.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 19
+    }
+   ]
+  },
+  {
+   "rank": 63,
+   "product_id": 23276,
+   "name": "Thermaltake Smart 500W 80+",
+   "maker": "Thermaltake",
+   "model": "Smart",
+   "category": "psu",
+   "part_number": "PS-SPD-0500NPCWUS-W",
+   "upc": "841163062234",
+   "launch_price": null,
+   "week_low": 39.99,
+   "week_high": 39.99,
+   "week_open": 39.99,
+   "week_close": 39.99,
+   "typical_price_end": 40.99,
+   "prev_week_close": 39.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 28,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/thermaltake-smart-500w-80",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 39.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-13",
+     "low": 39.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-14",
+     "low": 39.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-15",
+     "low": 39.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-16",
+     "low": 39.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-17",
+     "low": 39.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-18",
+     "low": 39.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    }
+   ]
+  },
+  {
+   "rank": 64,
+   "product_id": 22249,
+   "name": "Corsair CX 650W 80+ Bronze",
+   "maker": "Corsair",
+   "model": "CX",
+   "category": "psu",
+   "part_number": "CP-9020278-NA",
+   "upc": "840006670933",
+   "launch_price": null,
+   "week_low": 71.19,
+   "week_high": 71.19,
+   "week_open": 71.19,
+   "week_close": 71.19,
+   "typical_price_end": 74.09,
+   "prev_week_close": 71.19,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/corsair-cx-650w-80-bronze",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 71.19,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 71.19,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 71.19,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 71.19,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 71.19,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 71.19,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 71.19,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 65,
+   "product_id": 22354,
+   "name": "ASUS TUF 1200W 80+ Gold Fully Modular ATX 3.0",
+   "maker": "ASUS",
+   "model": "TUF",
+   "category": "psu",
+   "part_number": "TUF-GAMING-1200G",
+   "upc": "195553786324",
+   "launch_price": null,
+   "week_low": 191.99,
+   "week_high": 191.99,
+   "week_open": 191.99,
+   "week_close": 191.99,
+   "typical_price_end": 226.99,
+   "prev_week_close": 191.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 11,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://psu.live/psus/asus-tuf-1200w-80-gold-fully-modular-atx-30",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 191.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 12
+    },
+    {
+     "date": "2026-10-13",
+     "low": 191.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 12
+    },
+    {
+     "date": "2026-10-14",
+     "low": 191.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 11
+    },
+    {
+     "date": "2026-10-15",
+     "low": 191.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 11
+    },
+    {
+     "date": "2026-10-16",
+     "low": 191.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 11
+    },
+    {
+     "date": "2026-10-17",
+     "low": 191.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 11
+    },
+    {
+     "date": "2026-10-18",
+     "low": 191.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 11
+    }
+   ]
+  },
+  {
+   "rank": 66,
+   "product_id": 22556,
+   "name": "Thermaltake Smart BM3 850W 80+ Bronze Semi-Modular ATX 3.0",
+   "maker": "Thermaltake",
+   "model": "Smart BM3",
+   "category": "psu",
+   "part_number": "PS-SPD-0850MNFABU-3",
+   "upc": "841163089910",
+   "launch_price": null,
+   "week_low": 90.99,
+   "week_high": 92.99,
+   "week_open": 92.99,
+   "week_close": 90.99,
+   "typical_price_end": 90.99,
+   "prev_week_close": 92.99,
+   "change_vs_prev_week_pct": -2.2,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/thermaltake-smart-bm3-850w-80-bronze-semi-modular-atx-30",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 92.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 92.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 92.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 90.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 90.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 90.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 90.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 67,
+   "product_id": 22648,
+   "name": "SilverStone 2050W Fully Modular (HA2050R-PM)",
+   "maker": "SilverStone",
+   "model": null,
+   "category": "psu",
+   "part_number": "HA2050R-PM",
+   "upc": "844761025540",
+   "launch_price": null,
+   "week_low": 525.7,
+   "week_high": 542.76,
+   "week_open": 542.76,
+   "week_close": 528.62,
+   "typical_price_end": 528.62,
+   "prev_week_close": 545.65,
+   "change_vs_prev_week_pct": -3.1,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/silverstone-2050-w-power-2050w-fully-modular",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 542.76,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 542.76,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 529.58,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 530.58,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 525.7,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 534.11,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 528.62,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 68,
+   "product_id": 22942,
+   "name": "SilverStone SX750 750W 80+ Platinum Fully Modular SFX",
+   "maker": "SilverStone",
+   "model": "SX750",
+   "category": "psu",
+   "part_number": "SST-SX750-PT",
+   "upc": "844761020200",
+   "launch_price": null,
+   "week_low": 159.99,
+   "week_high": 159.99,
+   "week_open": 159.99,
+   "week_close": 159.99,
+   "typical_price_end": 159.99,
+   "prev_week_close": 159.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/silverstone-sx750-750w-80-platinum-fully-modular-sfx",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 159.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 159.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 159.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 159.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 159.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 159.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 159.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 69,
+   "product_id": 23296,
+   "name": "Seasonic CORE GX-650 650W 80+ Gold Fully Modular",
+   "maker": "Seasonic",
+   "model": "CORE GX",
+   "category": "psu",
+   "part_number": "CORE GX-650 ATX3",
+   "upc": "4711173878452",
+   "launch_price": null,
+   "week_low": 103.99,
+   "week_high": 103.99,
+   "week_open": 103.99,
+   "week_close": 103.99,
+   "typical_price_end": 103.99,
+   "prev_week_close": 103.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/seasonic-core-gx-650-650w-80-gold-fully-modular",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 103.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 103.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 103.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 103.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 103.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 103.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 103.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 70,
+   "product_id": 22336,
+   "name": "be quiet! Dark Power PRO 13 1600W 80+ Titanium Fully Modular ATX 3.0",
+   "maker": "be quiet!",
+   "model": "Dark Power PRO 13",
+   "category": "psu",
+   "part_number": "BN501",
+   "upc": "4260052190043",
+   "launch_price": null,
+   "week_low": 429.99,
+   "week_high": 429.99,
+   "week_open": 429.99,
+   "week_close": 429.99,
+   "typical_price_end": 459.9,
+   "prev_week_close": 399.9,
+   "change_vs_prev_week_pct": 7.5,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 5,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://psu.live/psus/be-quiet-dark-power-pro-1600w-80-titanium-fully-modular-atx-30",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 429.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-13",
+     "low": 429.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-14",
+     "low": 429.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-15",
+     "low": 429.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-16",
+     "low": 429.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-17",
+     "low": 429.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-18",
+     "low": 429.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 5
+    }
+   ]
+  },
+  {
+   "rank": 71,
+   "product_id": 22545,
+   "name": "Thermaltake GF1 750W 80+ Gold Fully Modular",
+   "maker": "Thermaltake",
+   "model": "Toughpower GF1",
+   "category": "psu",
+   "part_number": "PS-TPD-0750FNFAGU-P",
+   "upc": "841163090831",
+   "launch_price": null,
+   "week_low": 69.99,
+   "week_high": 72.99,
+   "week_open": 69.99,
+   "week_close": 72.99,
+   "typical_price_end": 81.49,
+   "prev_week_close": 74.99,
+   "change_vs_prev_week_pct": -2.7,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/thermaltake-gf1-750w-80-gold-fully-modular",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 69.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 69.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 69.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 69.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 72.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 72.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 72.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 72,
+   "product_id": 22787,
+   "name": "SilverStone Strider 1200W 80+ Platinum",
+   "maker": "SilverStone",
+   "model": "Strider",
+   "category": "psu",
+   "part_number": "SST-ST1200-PT",
+   "upc": "844761013240",
+   "launch_price": null,
+   "week_low": 279.99,
+   "week_high": 299.99,
+   "week_open": 299.99,
+   "week_close": 279.99,
+   "typical_price_end": 302.97,
+   "prev_week_close": 299.99,
+   "change_vs_prev_week_pct": -6.7,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 4,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://psu.live/psus/silverstone-strider-1200w-80-platinum",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 299.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-13",
+     "low": 299.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-14",
+     "low": 299.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-15",
+     "low": 279.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-16",
+     "low": 279.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-17",
+     "low": 279.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-18",
+     "low": 279.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 4
+    }
+   ]
+  },
+  {
+   "rank": 73,
+   "product_id": 23034,
+   "name": "SilverStone Extreme 650Rz Gold 650W 80+ Gold Fully Modular SFX",
+   "maker": "SilverStone",
+   "model": null,
+   "category": "psu",
+   "part_number": "PS-EX650R-GM",
+   "upc": "844761028268",
+   "launch_price": null,
+   "week_low": 167.12,
+   "week_high": 173.13,
+   "week_open": 173.13,
+   "week_close": 167.12,
+   "typical_price_end": 167.12,
+   "prev_week_close": 175.62,
+   "change_vs_prev_week_pct": -4.8,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/silverstone-technology-extreme-650rz-gold-650w-80-gold-fully-modular-sfx",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 173.13,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 173.13,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 173.13,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 167.12,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 167.12,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 167.12,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 167.12,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 74,
+   "product_id": 22381,
+   "name": "ASRock PRO 850W 80+ Gold (PRO-M850G)",
+   "maker": "ASRock",
+   "model": null,
+   "category": "psu",
+   "part_number": "PRO-M850G",
+   "upc": "4711581493070",
+   "launch_price": null,
+   "week_low": 104.99,
+   "week_high": 104.99,
+   "week_open": 104.99,
+   "week_close": 104.99,
+   "typical_price_end": 111.49,
+   "prev_week_close": 104.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://psu.live/psus/asrock-pro-850w-80-gold",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 104.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-13",
+     "low": 104.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-14",
+     "low": 104.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-15",
+     "low": 104.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-16",
+     "low": 104.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-17",
+     "low": 104.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-18",
+     "low": 104.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 75,
+   "product_id": 22405,
+   "name": "Super Flower Leadex VII XP PRO 1200W 80+ Platinum Fully Modular ATX 3.1",
+   "maker": "Super Flower",
+   "model": "Leadex VII XP PRO",
+   "category": "psu",
+   "part_number": "SF-1200F14XP",
+   "upc": "4711213446771",
+   "launch_price": null,
+   "week_low": 199.99,
+   "week_high": 199.99,
+   "week_open": 199.99,
+   "week_close": 199.99,
+   "typical_price_end": 199.99,
+   "prev_week_close": 199.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 28,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/super-flower-leadex-vii-xp-pro-1200w-80-platinum-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 199.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-13",
+     "low": 199.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-14",
+     "low": 199.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-15",
+     "low": 199.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-16",
+     "low": 199.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-17",
+     "low": 199.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-18",
+     "low": 199.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 28
+    }
+   ]
+  },
+  {
+   "rank": 76,
+   "product_id": 22448,
+   "name": "NZXT C1000 Gold Core 80Plus 1000W 80+ Gold Fully Modular ATX 3.1",
+   "maker": "NZXT",
+   "model": null,
+   "category": "psu",
+   "part_number": "PA-0G3BB-US",
+   "upc": "810074849210",
+   "launch_price": null,
+   "week_low": 169.99,
+   "week_high": 169.99,
+   "week_open": 169.99,
+   "week_close": 169.99,
+   "typical_price_end": 169.99,
+   "prev_week_close": 169.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/nzxt-c1000-gold-core-80plus-1000w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 77,
+   "product_id": 23011,
+   "name": "ASUS TUF 1000W 80+ Gold Fully Modular",
+   "maker": "ASUS",
+   "model": "TUF",
+   "category": "psu",
+   "part_number": "TUF-GAMING-1000G-WHITE",
+   "upc": "197105276086",
+   "launch_price": null,
+   "week_low": 182.36,
+   "week_high": 192.4,
+   "week_open": 192.4,
+   "week_close": 182.36,
+   "typical_price_end": 182.36,
+   "prev_week_close": 189.88,
+   "change_vs_prev_week_pct": -4.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/asus-tuf-1000w-80-gold-fully-modular",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 192.4,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 192.4,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 192.4,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 189.88,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 191.03,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 184.88,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 182.36,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 78,
+   "product_id": 23028,
+   "name": "SilverStone 750W 80+ Bronze Fully Modular (ST75F-PB)",
+   "maker": "SilverStone",
+   "model": null,
+   "category": "psu",
+   "part_number": "ST75F-PB",
+   "upc": "844761016920",
+   "launch_price": null,
+   "week_low": 114.32,
+   "week_high": 127.68,
+   "week_open": 114.32,
+   "week_close": 120.37,
+   "typical_price_end": 120.37,
+   "prev_week_close": 114.32,
+   "change_vs_prev_week_pct": 5.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/silverstone-technology-750w-80-bronze-fully-modular-st75f-pb",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 114.32,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 118.2,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 118.2,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 125.29,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 127.68,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 120.37,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 120.37,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 79,
+   "product_id": 23055,
+   "name": "SilverStone 700W 80+ Gold Fully Modular SFX (SX700-G)",
+   "maker": "SilverStone",
+   "model": null,
+   "category": "psu",
+   "part_number": "SX700-G",
+   "upc": "844761016845",
+   "launch_price": null,
+   "week_low": 145.61,
+   "week_high": 147.92,
+   "week_open": 145.61,
+   "week_close": 147.92,
+   "typical_price_end": 147.92,
+   "prev_week_close": 147.92,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/silverstone-technology-700w-80-gold-fully-modular-sfx-sx700-g",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 145.61,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 145.61,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 147.92,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 147.92,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 147.92,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 147.92,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 147.92,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 80,
+   "product_id": 23100,
+   "name": "ASRock 1000W 80+ Gold Fully Modular ATX 3.1 (PSU-PRO-M1000G)",
+   "maker": "ASRock",
+   "model": null,
+   "category": "psu",
+   "part_number": "PSU-PRO-M1000G",
+   "upc": "4711581493117",
+   "launch_price": null,
+   "week_low": 129.99,
+   "week_high": 129.99,
+   "week_open": 129.99,
+   "week_close": 129.99,
+   "typical_price_end": 132.49,
+   "prev_week_close": 129.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://psu.live/psus/asrock-1000w-80-gold-fully-modular-atx-31-psu-pro-m1000g",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 129.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-13",
+     "low": 129.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-14",
+     "low": 129.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-15",
+     "low": 129.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-16",
+     "low": 129.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-17",
+     "low": 129.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-18",
+     "low": 129.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 81,
+   "product_id": 23170,
+   "name": "Cooler Master V750 750W 80+ Gold Fully Modular SFX Black",
+   "maker": "Cooler Master",
+   "model": "V750",
+   "category": "psu",
+   "part_number": "MPY-7501-SFHAGV-3U1",
+   "upc": "884102070846",
+   "launch_price": null,
+   "week_low": 124.98,
+   "week_high": 129.98,
+   "week_open": 129.98,
+   "week_close": 129.98,
+   "typical_price_end": 129.98,
+   "prev_week_close": 129.98,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/cooler-master-v750-750w-80-gold-fully-modular-sfx-2",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 129.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 124.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 124.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 124.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 129.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 129.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 129.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 82,
+   "product_id": 23262,
+   "name": "Lian Li RB 650W 80+ Bronze ATX 3.1",
+   "maker": "Lian Li",
+   "model": "RB",
+   "category": "psu",
+   "part_number": "RB0650B",
+   "upc": "840353050273",
+   "launch_price": null,
+   "week_low": 59.99,
+   "week_high": 59.99,
+   "week_open": 59.99,
+   "week_close": 59.99,
+   "typical_price_end": 59.99,
+   "prev_week_close": 59.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 27,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://psu.live/psus/lian-li-rb-650w-80-bronze-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 59.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-13",
+     "low": 59.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-14",
+     "low": 59.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-15",
+     "low": 59.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-16",
+     "low": 59.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-17",
+     "low": 59.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-18",
+     "low": 59.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 27
+    }
+   ]
+  },
+  {
+   "rank": 83,
+   "product_id": 23324,
+   "name": "ASRock PRO 750W 80+ Gold (PRO-M750G)",
+   "maker": "ASRock",
+   "model": null,
+   "category": "psu",
+   "part_number": "PRO-M750G",
+   "upc": "4711581493032",
+   "launch_price": null,
+   "week_low": 89.99,
+   "week_high": 89.99,
+   "week_open": 89.99,
+   "week_close": 89.99,
+   "typical_price_end": 94.49,
+   "prev_week_close": 89.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://psu.live/psus/asrock-pro-750w-80-gold",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 89.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-13",
+     "low": 89.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-14",
+     "low": 89.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-15",
+     "low": 89.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-16",
+     "low": 89.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-17",
+     "low": 89.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-18",
+     "low": 89.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 84,
+   "product_id": 22340,
+   "name": "ASUS ROG Thor 1000W 80+ Platinum ATX 3.1",
+   "maker": "ASUS",
+   "model": "ROG Thor",
+   "category": "psu",
+   "part_number": "ROG-THOR-1000P3-GAMING",
+   "upc": "197105610675",
+   "launch_price": null,
+   "week_low": 389.99,
+   "week_high": 469.99,
+   "week_open": 469.99,
+   "week_close": 389.99,
+   "typical_price_end": 389.99,
+   "prev_week_close": 469.99,
+   "change_vs_prev_week_pct": -17.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/asus-rog-thor-1000w-platinum-1000w-80-platinum-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 469.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 469.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 389.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 389.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 389.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 389.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 389.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 85,
+   "product_id": 22390,
+   "name": "Thermaltake Dockpower FI 850W 80+ Gold Fully Modular ATX 3.1 Black",
+   "maker": "Thermaltake",
+   "model": "Dockpower FI",
+   "category": "psu",
+   "part_number": "PS-DCP-0850FNFAGU-2",
+   "upc": "840480311063",
+   "launch_price": null,
+   "week_low": 129.93,
+   "week_high": 129.99,
+   "week_open": 129.99,
+   "week_close": 129.99,
+   "typical_price_end": 129.99,
+   "prev_week_close": 129.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/thermaltake-dockpower-fi-850w-atx-850w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-13",
+     "low": 129.93,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-14",
+     "low": 129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-15",
+     "low": 129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-16",
+     "low": 129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-17",
+     "low": 129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-18",
+     "low": 129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 86,
+   "product_id": 22467,
+   "name": "Thermaltake Toughpower GF3 1000W 80+ Gold Fully Modular ATX 3.1 Black",
+   "maker": "Thermaltake",
+   "model": "Toughpower GF3",
+   "category": "psu",
+   "part_number": "PS-TPD-1000FNFAGU-4",
+   "upc": "841163084090",
+   "launch_price": null,
+   "week_low": 154.38,
+   "week_high": 154.38,
+   "week_open": 154.38,
+   "week_close": 154.38,
+   "typical_price_end": 162.185,
+   "prev_week_close": 154.38,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/thermaltake-toughpower-gf3-1000w-atx-1000w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 154.38,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 154.38,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 154.38,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 154.38,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 154.38,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 154.38,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 154.38,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 87,
+   "product_id": 22521,
+   "name": "Thermaltake Toughpower 750W 80+ Platinum Fully Modular SFX",
+   "maker": "Thermaltake",
+   "model": "Toughpower",
+   "category": "psu",
+   "part_number": "PS-STP-0750FNFAPU-1",
+   "upc": "841163093474",
+   "launch_price": null,
+   "week_low": 119.99,
+   "week_high": 169.99,
+   "week_open": 119.99,
+   "week_close": 119.99,
+   "typical_price_end": 119.99,
+   "prev_week_close": 119.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/thermaltake-toughpower-750w-80-platinum-fully-modular-sfx",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 119.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 119.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 119.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 169.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 119.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 119.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 119.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 88,
+   "product_id": 22575,
+   "name": "Thermaltake Toughpower GT 750W 80+ Gold ATX 3.1",
+   "maker": "Thermaltake",
+   "model": "Toughpower GT",
+   "category": "psu",
+   "part_number": "PS-TPT-0750FNFAGU-3",
+   "upc": "841163097397",
+   "launch_price": null,
+   "week_low": 79.99,
+   "week_high": 79.99,
+   "week_open": 79.99,
+   "week_close": 79.99,
+   "typical_price_end": 89.99,
+   "prev_week_close": 79.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 22,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/thermaltake-toughpower-gt-750w-80-gold-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 79.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-13",
+     "low": 79.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-14",
+     "low": 79.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-15",
+     "low": 79.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-16",
+     "low": 79.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-17",
+     "low": 79.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-18",
+     "low": 79.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 22
+    }
+   ]
+  },
+  {
+   "rank": 89,
+   "product_id": 22592,
+   "name": "MSI MAG A600DN II Power 600W 80+",
+   "maker": "MSI",
+   "model": null,
+   "category": "psu",
+   "part_number": "MAG A600DN II",
+   "upc": "824142454909",
+   "launch_price": null,
+   "week_low": 49.99,
+   "week_high": 49.99,
+   "week_open": 49.99,
+   "week_close": 49.99,
+   "typical_price_end": 49.99,
+   "prev_week_close": 54.99,
+   "change_vs_prev_week_pct": -9.1,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://psu.live/psus/msi-mag-a600dn-ii-power-600w-80",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 49.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 49.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 49.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 49.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 49.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 49.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 49.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 90,
+   "product_id": 23048,
+   "name": "SilverStone TX300 300W 80+ Bronze TFX",
+   "maker": "SilverStone",
+   "model": null,
+   "category": "psu",
+   "part_number": "SST-TX300",
+   "upc": "844761028633",
+   "launch_price": null,
+   "week_low": 85.49,
+   "week_high": 89.99,
+   "week_open": 89.99,
+   "week_close": 87.29,
+   "typical_price_end": 93.64,
+   "prev_week_close": 89.99,
+   "change_vs_prev_week_pct": -3.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 28,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/silverstone-tx300-300w-80-bronze-tfx",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 89.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-13",
+     "low": 89.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-14",
+     "low": 85.49,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-15",
+     "low": 85.49,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-16",
+     "low": 87.29,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-17",
+     "low": 87.29,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-18",
+     "low": 87.29,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    }
+   ]
+  },
+  {
+   "rank": 91,
+   "product_id": 23203,
+   "name": "Lian Li SX1000P 1000W 80+ Platinum Fully Modular ATX 3.1 White",
+   "maker": "Lian Li",
+   "model": "SX1000P",
+   "category": "psu",
+   "part_number": "SX1000P.W",
+   "upc": "840353051959",
+   "launch_price": null,
+   "week_low": 149.99,
+   "week_high": 149.99,
+   "week_open": 149.99,
+   "week_close": 149.99,
+   "typical_price_end": 149.99,
+   "prev_week_close": 149.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 26,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://psu.live/psus/lian-li-sx1000p-1000w-80-platinum-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-13",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-14",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-15",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-16",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-17",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-18",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 26
+    }
+   ]
+  },
+  {
+   "rank": 92,
+   "product_id": 23258,
+   "name": "Thermaltake Toughpower GX2 600W 80+ Gold Black",
+   "maker": "Thermaltake",
+   "model": "Toughpower GX2",
+   "category": "psu",
+   "part_number": "PS-TPD-0600NNFAGU-2",
+   "upc": "841163073971",
+   "launch_price": null,
+   "week_low": 59.99,
+   "week_high": 59.99,
+   "week_open": 59.99,
+   "week_close": 59.99,
+   "typical_price_end": 62.99,
+   "prev_week_close": 59.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/thermaltake-toughpower-gx2-600w-80-gold",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 59.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-13",
+     "low": 59.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-14",
+     "low": 59.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-15",
+     "low": 59.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-16",
+     "low": 59.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-17",
+     "low": 59.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-18",
+     "low": 59.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 93,
+   "product_id": 22398,
+   "name": "Super Flower Combat FG 850W 80+ Gold Fully Modular ATX 3.1",
+   "maker": "Super Flower",
+   "model": "Combat FG",
+   "category": "psu",
+   "part_number": "SF-850C12FG",
+   "upc": "4711213446849",
+   "launch_price": null,
+   "week_low": 56.09,
+   "week_high": 109.99,
+   "week_open": 56.09,
+   "week_close": 109.99,
+   "typical_price_end": 109.99,
+   "prev_week_close": 109.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://psu.live/psus/super-flower-combat-fg-850w-80-850w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 56.09,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-13",
+     "low": 56.09,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-14",
+     "low": 56.09,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-15",
+     "low": 56.09,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-16",
+     "low": 109.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-17",
+     "low": 109.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-18",
+     "low": 109.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 94,
+   "product_id": 23058,
+   "name": "Silverstone RMx 500W 80+ Gold TFX",
+   "maker": "SilverStone",
+   "model": null,
+   "category": "psu",
+   "part_number": "TX500-G",
+   "upc": "844761020453",
+   "launch_price": null,
+   "week_low": 149.29,
+   "week_high": 156.44,
+   "week_open": 151.65,
+   "week_close": 151.64,
+   "typical_price_end": 151.64,
+   "prev_week_close": 155.13,
+   "change_vs_prev_week_pct": -2.2,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/silverstone-rmx-500w-80-gold-tfx",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 151.65,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 151.65,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 149.29,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 149.29,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 156.44,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 154.02,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 151.64,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 95,
+   "product_id": 23060,
+   "name": "SilverStone 550W 80+ Bronze Fully Modular (ST55F-PB)",
+   "maker": "SilverStone",
+   "model": null,
+   "category": "psu",
+   "part_number": "ST55F-PB",
+   "upc": "844761016906",
+   "launch_price": null,
+   "week_low": 67.71,
+   "week_high": 89.74,
+   "week_open": 89.31,
+   "week_close": 67.71,
+   "typical_price_end": 67.71,
+   "prev_week_close": 89.31,
+   "change_vs_prev_week_pct": -24.2,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/silverstone-technology-550w-80-bronze-fully-modular-st55f-pb",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 89.31,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 89.69,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 89.71,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 89.71,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 89.74,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 89.74,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 67.71,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 96,
+   "product_id": 23408,
+   "name": "Super Flower Leadex 1700W 80+ Titanium Fully Modular ATX 3.1",
+   "maker": "Super Flower",
+   "model": "Leadex",
+   "category": "psu",
+   "part_number": "SF-1700F14HT",
+   "upc": "4711213447631",
+   "launch_price": null,
+   "week_low": 399.99,
+   "week_high": 399.99,
+   "week_open": 399.99,
+   "week_close": 399.99,
+   "typical_price_end": 409.99,
+   "prev_week_close": 399.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 9,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://psu.live/psus/super-flower-leadex-1700w-80-titanium-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 10
+    },
+    {
+     "date": "2026-10-13",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-14",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-15",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-16",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-17",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-18",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 9
+    }
+   ]
+  },
+  {
+   "rank": 97,
+   "product_id": 22413,
+   "name": "SilverStone 700W SFX-L (SX700-LPT)",
+   "maker": "SilverStone",
+   "model": null,
+   "category": "psu",
+   "part_number": "SX700-LPT",
+   "upc": "844761013271",
+   "launch_price": null,
+   "week_low": 165.99,
+   "week_high": 169.99,
+   "week_open": 168.99,
+   "week_close": 169.69,
+   "typical_price_end": 169.84,
+   "prev_week_close": 168.99,
+   "change_vs_prev_week_pct": 0.4,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/silverstone-700w-700w-sfx-l",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 168.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 168.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 165.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 169.69,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 98,
+   "product_id": 22568,
+   "name": "NZXT C750 Gold Core 80Plus 750W 80+ Gold Fully Modular ATX 3.1",
+   "maker": "NZXT",
+   "model": null,
+   "category": "psu",
+   "part_number": "PA-7G3BB-US",
+   "upc": "810074849111",
+   "launch_price": null,
+   "week_low": 77.99,
+   "week_high": 77.99,
+   "week_open": 77.99,
+   "week_close": 77.99,
+   "typical_price_end": 97.49,
+   "prev_week_close": 77.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/nzxt-c750-gold-core-80plus-750w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 77.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-13",
+     "low": 77.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-14",
+     "low": 77.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-15",
+     "low": 77.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-16",
+     "low": 77.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-17",
+     "low": 77.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-18",
+     "low": 77.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 99,
+   "product_id": 22955,
+   "name": "Lian Li Edge 1000W 80+ Gold Fully Modular ATX 3.1",
+   "maker": "Lian Li",
+   "model": "Edge",
+   "category": "psu",
+   "part_number": "EG1000G.WH",
+   "upc": "840353046924",
+   "launch_price": null,
+   "week_low": 148.74,
+   "week_high": 155.77,
+   "week_open": 148.74,
+   "week_close": 155.74,
+   "typical_price_end": 164.99,
+   "prev_week_close": 148.74,
+   "change_vs_prev_week_pct": 4.7,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 33,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/lian-li-edge-serie-1000w-80-gold-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 148.74,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-13",
+     "low": 148.74,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-14",
+     "low": 148.74,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-15",
+     "low": 155.77,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-16",
+     "low": 155.74,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-17",
+     "low": 155.74,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-18",
+     "low": 155.74,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 33
+    }
+   ]
+  },
+  {
+   "rank": 100,
+   "product_id": 23066,
+   "name": "SilverStone HELA 2500Rz 2500W Fully Modular ATX 3.1",
+   "maker": "SilverStone",
+   "model": null,
+   "category": "psu",
+   "part_number": "PS-HA2500R-PM",
+   "upc": "844761028695",
+   "launch_price": null,
+   "week_low": 656.76,
+   "week_high": 661.74,
+   "week_open": 661.74,
+   "week_close": 656.76,
+   "typical_price_end": 728.375,
+   "prev_week_close": 664.23,
+   "change_vs_prev_week_pct": -1.1,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 28,
+   "lowest_store_end": "Amazon",
+   "url": "https://psu.live/psus/silverstone-hela-2500rz-2500w-80-platinum-fully-modular-atx-31",
+   "daily": [
+    {
+     "date": "2026-10-12",
+     "low": 661.74,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-13",
+     "low": 661.74,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-14",
+     "low": 659.25,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-15",
+     "low": 660.11,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-16",
+     "low": 661.74,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-17",
+     "low": 659.25,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-18",
+     "low": 656.76,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    }
+   ]
+  }
+ ],
+ "sizes": [
+  {
+   "name": "850W Gold",
+   "launch_price": null,
+   "products_tracked": 120,
+   "products_in_stock_end": 73,
+   "week_low": 56.09,
+   "week_high": 64.99,
+   "week_open": 56.09,
+   "week_close": 64.99,
+   "typical_price_end": 79.99,
+   "prev_week_close": 64.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 9,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Micro Center (in store)"
+  },
+  {
+   "name": "1000W Gold",
+   "launch_price": null,
+   "products_tracked": 87,
+   "products_in_stock_end": 57,
+   "week_low": 89.99,
+   "week_high": 98.99,
+   "week_open": 98.99,
+   "week_close": 89.99,
+   "typical_price_end": 149.99,
+   "prev_week_close": 99.99,
+   "change_vs_prev_week_pct": -10.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 9,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Amazon"
+  },
+  {
+   "name": "750W Gold",
+   "launch_price": null,
+   "products_tracked": 74,
+   "products_in_stock_end": 50,
+   "week_low": 50.16,
+   "week_high": 54.99,
+   "week_open": 50.16,
+   "week_close": 54.99,
+   "typical_price_end": 81.49,
+   "prev_week_close": 54.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 8,
+   "shops_in_stock_end": 36,
+   "lowest_store_end": "Newegg"
+  },
+  {
+   "name": "1000W Platinum",
+   "launch_price": null,
+   "products_tracked": 56,
+   "products_in_stock_end": 39,
+   "week_low": 79.99,
+   "week_high": 79.99,
+   "week_open": 79.99,
+   "week_close": 79.99,
+   "typical_price_end": 154.99,
+   "prev_week_close": 79.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 8,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Newegg"
+  },
+  {
+   "name": "1200W Platinum",
+   "launch_price": null,
+   "products_tracked": 42,
+   "products_in_stock_end": 25,
+   "week_low": 99.99,
+   "week_high": 99.99,
+   "week_open": 99.99,
+   "week_close": 99.99,
+   "typical_price_end": 159.99,
+   "prev_week_close": 99.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 8,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Newegg"
+  },
+  {
+   "name": "850W Platinum",
+   "launch_price": null,
+   "products_tracked": 38,
+   "products_in_stock_end": 21,
+   "week_low": 99.99,
+   "week_high": 99.99,
+   "week_open": 99.99,
+   "week_close": 99.99,
+   "typical_price_end": 149.99,
+   "prev_week_close": 99.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Newegg"
+  },
+  {
+   "name": "650W Gold",
+   "launch_price": null,
+   "products_tracked": 38,
+   "products_in_stock_end": 14,
+   "week_low": 47.97,
+   "week_high": 47.97,
+   "week_open": 47.97,
+   "week_close": 47.97,
+   "typical_price_end": 49.99,
+   "prev_week_close": 47.97,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 33,
+   "lowest_store_end": "Amazon"
+  }
+ ]
+}
