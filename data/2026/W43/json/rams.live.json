@@ -1,0 +1,7586 @@
+{
+ "dataset": "Pricify weekly PC hardware prices",
+ "site": "rams.live",
+ "week": "2026-W43",
+ "from": "2026-10-19",
+ "to": "2026-10-25",
+ "timezone": "America/New_York",
+ "currency": "USD",
+ "license": "CC BY 4.0",
+ "attribution": "Pricify (pricify.ai)",
+ "generated": "2026-10-26T06:12:04Z",
+ "products": [
+  {
+   "rank": 1,
+   "product_id": 2746,
+   "name": "Crucial Pro 32GB (2x16GB) DDR5-6400 CL32",
+   "maker": "Crucial",
+   "model": null,
+   "category": "ram",
+   "part_number": "CP2K16G64C32U5B",
+   "upc": "649528947604",
+   "launch_price": null,
+   "week_low": 399.99,
+   "week_high": 399.99,
+   "week_open": 399.99,
+   "week_close": 399.99,
+   "typical_price_end": 399.99,
+   "prev_week_close": 399.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 1,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/crucial-pro-32gb-2x16gb-ddr5-6400-cl32",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 2
+    },
+    {
+     "date": "2026-10-20",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-21",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-22",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-23",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-24",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-25",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 1
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "product_id": 2740,
+   "name": "Patriot Viper Steel 64GB (2x32GB) DDR4-3600 CL18",
+   "maker": "Patriot",
+   "model": "Viper Steel",
+   "category": "ram",
+   "part_number": "PVS464G360C8K",
+   "upc": "814914026946",
+   "launch_price": null,
+   "week_low": 499.99,
+   "week_high": 499.99,
+   "week_open": 499.99,
+   "week_close": 499.99,
+   "typical_price_end": 499.99,
+   "prev_week_close": 499.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://rams.live/memory/patriot-viper-steel-64gb-2x32gb-ddr4-3600-cl18",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 499.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-20",
+     "low": 499.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-21",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-22",
+     "low": 499.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-23",
+     "low": 499.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-24",
+     "low": 499.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-25",
+     "low": 499.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "product_id": 4352,
+   "name": "Corsair Vengeance 64GB (2x32GB) DDR5-6400 CL32 Black XMP",
+   "maker": "Corsair",
+   "model": "VENGEANCE",
+   "category": "ram",
+   "part_number": "CMK64GX5M2B6400C32",
+   "upc": "840006661788",
+   "launch_price": null,
+   "week_low": 1126.99,
+   "week_high": 1229.99,
+   "week_open": 1126.99,
+   "week_close": 1229.99,
+   "typical_price_end": 1261.49,
+   "prev_week_close": 1126.99,
+   "change_vs_prev_week_pct": 9.1,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/corsair-vengeance-64gb-2x32gb-ddr5-6400-cl32",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 1126.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-20",
+     "low": 1126.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-21",
+     "low": 1126.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-22",
+     "low": 1126.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-23",
+     "low": 1126.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-24",
+     "low": 1229.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 1229.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "product_id": 3732,
+   "name": "Corsair Vengeance 32GB (2x16GB) DDR5-6000 CL38 Gray (CMK32GX5M2D6000Z38)",
+   "maker": "Corsair",
+   "model": "VENGEANCE",
+   "category": "ram",
+   "part_number": "CMK32GX5M2D6000Z38",
+   "upc": "840440438649",
+   "launch_price": null,
+   "week_low": 479.99,
+   "week_high": 479.99,
+   "week_open": 479.99,
+   "week_close": 479.99,
+   "typical_price_end": 479.99,
+   "prev_week_close": 479.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 4,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/corsair-vengeance-32gb-2x16gb-ddr5-6000-cl38-7",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-20",
+     "low": 479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-21",
+     "low": 479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-22",
+     "low": 479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-23",
+     "low": 479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-24",
+     "low": 479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-25",
+     "low": 479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 4
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "product_id": 2200,
+   "name": "Corsair Vengeance 32GB DDR5-5600 CL48 SO-DIMM",
+   "maker": "Corsair",
+   "model": "VENGEANCE",
+   "category": "ram",
+   "part_number": "CMSX32GX5M1A5600C48",
+   "upc": "840440483519",
+   "launch_price": null,
+   "week_low": 453.18,
+   "week_high": 459.99,
+   "week_open": 459.99,
+   "week_close": 453.18,
+   "typical_price_end": 469.99,
+   "prev_week_close": 459.99,
+   "change_vs_prev_week_pct": -1.5,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 4,
+   "lowest_store_end": "Amazon",
+   "url": "https://rams.live/memory/corsair-vengeance-32gb-ddr5-5600-cl48-so-dimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 459.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-20",
+     "low": 459.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-21",
+     "low": 459.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-22",
+     "low": 459.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-23",
+     "low": 459.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-24",
+     "low": 453.18,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-25",
+     "low": 453.18,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 4
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "product_id": 2718,
+   "name": "Corsair VENGEANCE 32GB (2x16GB) DDR5-6000 CL38 Gray (CMK32GX5M2B6000Z38)",
+   "maker": "Corsair",
+   "model": "VENGEANCE",
+   "category": "ram",
+   "part_number": "CMK32GX5M2B6000Z38",
+   "upc": "840440422198",
+   "launch_price": null,
+   "week_low": 449.99,
+   "week_high": 489.99,
+   "week_open": 449.99,
+   "week_close": 459.99,
+   "typical_price_end": 492.49,
+   "prev_week_close": 449.99,
+   "change_vs_prev_week_pct": 2.2,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/corsair-vengeance-32gb-2x16gb-ddr5-6000-cl38",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 449.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-20",
+     "low": 449.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-21",
+     "low": 449.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-22",
+     "low": 489.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-23",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-24",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-25",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "product_id": 4093,
+   "name": "TEAMGROUP T-FORCE VULCAN Z 32GB (2x16GB) DDR4-3200 CL16",
+   "maker": "TEAMGROUP",
+   "model": "T-FORCE VULCAN Z",
+   "category": "ram",
+   "part_number": "TLZGD432G3200HC16FDC01",
+   "upc": "765441654204",
+   "launch_price": null,
+   "week_low": 239.99,
+   "week_high": 249.99,
+   "week_open": 239.99,
+   "week_close": 249.99,
+   "typical_price_end": 249.99,
+   "prev_week_close": 249.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 18,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/teamgroup-t-force-vulcan-z-32gb-2x16gb-ddr4-3200-cl16",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 239.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-20",
+     "low": 239.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-21",
+     "low": 239.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-22",
+     "low": 239.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-23",
+     "low": 239.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-24",
+     "low": 239.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-25",
+     "low": 249.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 18
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "product_id": 5077,
+   "name": "Patriot Signature 4GB DDR3-1600 CL11 (PSD34G160081)",
+   "maker": "Patriot",
+   "model": "Signature Line",
+   "category": "ram",
+   "part_number": "PSD34G160081",
+   "upc": "815530015185",
+   "launch_price": null,
+   "week_low": 16.99,
+   "week_high": 16.99,
+   "week_open": 16.99,
+   "week_close": 16.99,
+   "typical_price_end": 18.99,
+   "prev_week_close": 16.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Adorama",
+   "url": "https://rams.live/memory/patriot-signature-4gb-ddr3-1600-cl11",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 16.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-20",
+     "low": 16.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-21",
+     "low": 16.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-22",
+     "low": 16.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-23",
+     "low": 16.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-24",
+     "low": 16.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-25",
+     "low": 16.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "product_id": 11095,
+   "name": "Corsair VENGEANCE 32GB (2x16GB) DDR5-6400 CL36",
+   "maker": "Corsair",
+   "model": "VENGEANCE",
+   "category": "ram",
+   "part_number": "CMK32GX5M2BZ36",
+   "upc": "840440492597",
+   "launch_price": null,
+   "week_low": 449.99,
+   "week_high": 449.99,
+   "week_open": 449.99,
+   "week_close": 449.99,
+   "typical_price_end": 529.95,
+   "prev_week_close": 449.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 8,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/corsair-vengeance-32gb-2x16gb-ddr5-6400-cl36-2",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 449.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-20",
+     "low": 449.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-21",
+     "low": 449.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-22",
+     "low": 449.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-23",
+     "low": 449.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-24",
+     "low": 449.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 7
+    },
+    {
+     "date": "2026-10-25",
+     "low": 449.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 8
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "product_id": 2726,
+   "name": "Corsair Vengeance LPX 32GB (2x16GB) DDR4-3200 CL16 Black (CMK32GX4M2E3200C16)",
+   "maker": "Corsair",
+   "model": "VENGEANCE LPX",
+   "category": "ram",
+   "part_number": "CMK32GX4M2E3200C16",
+   "upc": "840006608547",
+   "launch_price": null,
+   "week_low": 259.99,
+   "week_high": 259.99,
+   "week_open": 259.99,
+   "week_close": 259.99,
+   "typical_price_end": 259.99,
+   "prev_week_close": 259.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 26,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://rams.live/memory/corsair-vengeance-lpx-32gb-2x16gb-ddr4-3200-cl16",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 259.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-20",
+     "low": 259.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-21",
+     "low": 259.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-22",
+     "low": 259.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-23",
+     "low": 259.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-24",
+     "low": 259.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-25",
+     "low": 259.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 26
+    }
+   ]
+  },
+  {
+   "rank": 11,
+   "product_id": 3851,
+   "name": "PNY XLR8 32GB (2x16GB) DDR4-3200 CL20 SO-DIMM",
+   "maker": "PNY",
+   "model": "XLR8",
+   "category": "ram",
+   "part_number": "MN32GK2D43200X",
+   "upc": "751492645605",
+   "launch_price": null,
+   "week_low": 239.99,
+   "week_high": 249.99,
+   "week_open": 239.99,
+   "week_close": 249.99,
+   "typical_price_end": 249.99,
+   "prev_week_close": 239.99,
+   "change_vs_prev_week_pct": 4.2,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 20,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://rams.live/memory/pny-xlr8-32gb-2x16gb-ddr4-3200-cl20-so-dimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 239.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-20",
+     "low": 239.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-21",
+     "low": 239.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-22",
+     "low": 239.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-23",
+     "low": 239.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-24",
+     "low": 239.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-25",
+     "low": 249.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 20
+    }
+   ]
+  },
+  {
+   "rank": 12,
+   "product_id": 4508,
+   "name": "Patriot Viper Steel 64GB (2x32GB) DDR4-3200 CL16",
+   "maker": "Patriot",
+   "model": "Viper Steel",
+   "category": "ram",
+   "part_number": "PVS464G320C6K",
+   "upc": "814914026939",
+   "launch_price": null,
+   "week_low": 490.0,
+   "week_high": 499.99,
+   "week_open": 499.99,
+   "week_close": 490.0,
+   "typical_price_end": 499.99,
+   "prev_week_close": 489.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://rams.live/memory/patriot-viper-steel-64gb-2x32gb-ddr4-3200-cl16",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-20",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-21",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-22",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-23",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-24",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-25",
+     "low": 490.0,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 13,
+   "product_id": 11279,
+   "name": "Kingston FURY Beast 64GB (2x32GB) DDR5-6400 CL32 Black EXPO (KF564C32BBEK2-64)",
+   "maker": "Kingston",
+   "model": "FURY Beast",
+   "category": "ram",
+   "part_number": "KF564C32BBEK2-64",
+   "upc": "740617342734",
+   "launch_price": null,
+   "week_low": 1249.99,
+   "week_high": 1499.99,
+   "week_open": 1249.99,
+   "week_close": 1499.99,
+   "typical_price_end": 1499.99,
+   "prev_week_close": 1249.99,
+   "change_vs_prev_week_pct": 20.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/kingston-fury-beast-64gb-2x32gb-ddr5-6400-cl32-4",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 1249.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 1409.49,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 1469.01,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 1468.57,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 1499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 1499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 1499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 14,
+   "product_id": 3862,
+   "name": "PNY 16GB (2x8GB) DDR4-3200 CL22 SO-DIMM (MN16GK2D43200-TB)",
+   "maker": "PNY",
+   "model": null,
+   "category": "ram",
+   "part_number": "MN16GK2D43200-TB",
+   "upc": "751492658957",
+   "launch_price": null,
+   "week_low": 114.99,
+   "week_high": 114.99,
+   "week_open": 114.99,
+   "week_close": 114.99,
+   "typical_price_end": 114.99,
+   "prev_week_close": 114.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 21,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://rams.live/memory/pny-16gb-2x8gb-ddr4-3200-cl22-so-dimm-mn16gk2d43200-tb",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 114.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-20",
+     "low": 114.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-21",
+     "low": 114.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-22",
+     "low": 114.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-23",
+     "low": 114.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-24",
+     "low": 114.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-25",
+     "low": 114.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 21
+    }
+   ]
+  },
+  {
+   "rank": 15,
+   "product_id": 3623,
+   "name": "Corsair Vengeance 32GB (2x16GB) DDR5-6000 CL30",
+   "maker": "Corsair",
+   "model": "VENGEANCE",
+   "category": "ram",
+   "part_number": "CMK32GX5M2B6000Z30",
+   "upc": "840006673293",
+   "launch_price": null,
+   "week_low": 469.99,
+   "week_high": 559.99,
+   "week_open": 469.99,
+   "week_close": 559.99,
+   "typical_price_end": 599.99,
+   "prev_week_close": 559.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 1,
+   "lowest_store_end": "Amazon",
+   "url": "https://rams.live/memory/corsair-vengeance-32gb-2x16gb-ddr5-6000-cl30-2",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 469.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-20",
+     "low": 559.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-21",
+     "low": 559.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-22",
+     "low": 559.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-23",
+     "low": 559.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-24",
+     "low": 559.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-25",
+     "low": 559.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 1
+    }
+   ]
+  },
+  {
+   "rank": 16,
+   "product_id": 3840,
+   "name": "PNY 64GB (2x32GB) DDR4-3200 CL22 SO-DIMM (MN64GK2D43200-TB)",
+   "maker": "PNY",
+   "model": null,
+   "category": "ram",
+   "part_number": "MN64GK2D43200-TB",
+   "upc": "751492779195",
+   "launch_price": null,
+   "week_low": 399.99,
+   "week_high": 449.99,
+   "week_open": 399.99,
+   "week_close": 449.99,
+   "typical_price_end": 449.99,
+   "prev_week_close": 399.99,
+   "change_vs_prev_week_pct": 12.5,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/pny-64gb-2x32gb-ddr4-3200-cl22-so-dimm-mn64gk2d43200-tb",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 399.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-20",
+     "low": 399.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-21",
+     "low": 399.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-22",
+     "low": 399.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-23",
+     "low": 399.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-24",
+     "low": 399.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-25",
+     "low": 449.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 17,
+   "product_id": 3844,
+   "name": "Corsair 8GB (2x4GB) DDR5-4800 CL40 SO-DIMM (CMSX8GX5M2A480)",
+   "maker": "Corsair",
+   "model": null,
+   "category": "ram",
+   "part_number": "CMSX8GX5M2A480",
+   "upc": "618996796410",
+   "launch_price": null,
+   "week_low": 99.99,
+   "week_high": 99.99,
+   "week_open": 99.99,
+   "week_close": 99.99,
+   "typical_price_end": 99.99,
+   "prev_week_close": 99.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/corsair-8gb-ddr5-4800-cl40-so-dimm-cmsx8gx5m2a480",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-20",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-21",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-22",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-23",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-24",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-25",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 18,
+   "product_id": 11133,
+   "name": "G.SKILL G5 64GB DDR5-5600 CL46 ECC RDIMM",
+   "maker": "G.SKILL",
+   "model": "G5",
+   "category": "ram",
+   "part_number": "F5-5600R4645A64GX1-G5",
+   "upc": "848354051039",
+   "launch_price": null,
+   "week_low": 2299.99,
+   "week_high": 2699.99,
+   "week_open": 2299.99,
+   "week_close": 2499.99,
+   "typical_price_end": 2499.99,
+   "prev_week_close": 2299.99,
+   "change_vs_prev_week_pct": 8.7,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/gskill-g5-64gb-ddr5-5600-cl46-rdimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 2299.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-20",
+     "low": 2499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-21",
+     "low": 2699.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-22",
+     "low": 2499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-23",
+     "low": 2499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-24",
+     "low": 2499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-25",
+     "low": 2499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 19,
+   "product_id": 11977,
+   "name": "Total Micro This High Quality 16GB DDR4-2133 ECC RDIMM",
+   "maker": "Total Micro",
+   "model": null,
+   "category": "ram",
+   "part_number": "A7910488-TM",
+   "upc": "810766024529",
+   "launch_price": null,
+   "week_low": 218.69,
+   "week_high": 221.27,
+   "week_open": 221.27,
+   "week_close": 219.13,
+   "typical_price_end": 219.13,
+   "prev_week_close": 221.27,
+   "change_vs_prev_week_pct": -1.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://rams.live/memory/total-micro-this-high-quality-16gb-ddr4-2133-rdimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 221.27,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 218.75,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 219.27,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 218.69,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 219.14,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 219.13,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 219.13,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 20,
+   "product_id": 2098,
+   "name": "Corsair Vengeance 32GB (2x16GB) DDR5-4800 CL40 SO-DIMM",
+   "maker": "Corsair",
+   "model": "VENGEANCE",
+   "category": "ram",
+   "part_number": "CMSX32GX5M2A4800C40",
+   "upc": "840006662013",
+   "launch_price": null,
+   "week_low": 475.99,
+   "week_high": 475.99,
+   "week_open": 475.99,
+   "week_close": 475.99,
+   "typical_price_end": 475.99,
+   "prev_week_close": 475.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/corsair-vengeance-32gb-2x16gb-ddr5-4800-cl40-so-dimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 475.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 475.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 475.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 475.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 475.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 475.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 475.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 21,
+   "product_id": 4100,
+   "name": "Corsair Vengeance RGB 32GB (2x16GB) DDR5-6000 CL36 White XMP",
+   "maker": "Corsair",
+   "model": "VENGEANCE RGB",
+   "category": "ram",
+   "part_number": "CMH32GX5M2E6000C36W",
+   "upc": "840440436836",
+   "launch_price": null,
+   "week_low": 499.99,
+   "week_high": 499.99,
+   "week_open": 499.99,
+   "week_close": 499.99,
+   "typical_price_end": 509.99,
+   "prev_week_close": 509.99,
+   "change_vs_prev_week_pct": -2.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/corsair-vengeance-rgb-32gb-2x16gb-ddr5-6000-cl36-4",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 22,
+   "product_id": 4114,
+   "name": "Corsair Vengeance RGB 32GB (2x16GB) DDR5-6000 CL36 Black XMP (CMH32GX5M2E6000C36)",
+   "maker": "Corsair",
+   "model": "VENGEANCE RGB",
+   "category": "ram",
+   "part_number": "CMH32GX5M2E6000C36",
+   "upc": "840006666110",
+   "launch_price": null,
+   "week_low": 509.99,
+   "week_high": 509.99,
+   "week_open": 509.99,
+   "week_close": 509.99,
+   "typical_price_end": 509.99,
+   "prev_week_close": 509.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/corsair-vengeance-rgb-32gb-2x16gb-ddr5-6000-cl36-5",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 509.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 509.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 509.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 509.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 509.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 509.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 509.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 23,
+   "product_id": 4434,
+   "name": "Kingston FURY Beast 64GB (2x32GB) DDR5-6000 CL36 Black (KF560C36BBE2AK2-64)",
+   "maker": "Kingston",
+   "model": "FURY Beast",
+   "category": "ram",
+   "part_number": "KF560C36BBE2AK2-64",
+   "upc": "740617350296",
+   "launch_price": null,
+   "week_low": 1319.99,
+   "week_high": 1359.99,
+   "week_open": 1319.99,
+   "week_close": 1359.99,
+   "typical_price_end": 1359.99,
+   "prev_week_close": 1199.99,
+   "change_vs_prev_week_pct": 13.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/kingston-fury-beast-64gb-2x32gb-ddr5-6000-cl36-3",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 1319.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 1359.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 1359.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 1359.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 1359.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 1359.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 1359.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 24,
+   "product_id": 8614,
+   "name": "Corsair Vengeance RGB Pro 32GB (2x16GB) DDR4-3200 CL16 Black",
+   "maker": "Corsair",
+   "model": "VENGEANCE RGB PRO",
+   "category": "ram",
+   "part_number": "CMW32GX4M2E3200C16",
+   "upc": "840006613251",
+   "launch_price": null,
+   "week_low": 269.97,
+   "week_high": 269.99,
+   "week_open": 269.99,
+   "week_close": 269.99,
+   "typical_price_end": 331.99,
+   "prev_week_close": 266.91,
+   "change_vs_prev_week_pct": 1.2,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://rams.live/memory/corsair-vengeance-rgb-pro-32gb-2x16gb-ddr4-3200-cl16-2",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 269.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 269.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 269.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 269.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 269.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 269.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 269.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 25,
+   "product_id": 4535,
+   "name": "Corsair Vengeance RGB 64GB (2x32GB) DDR5-6400 CL32 Black XMP",
+   "maker": "Corsair",
+   "model": "VENGEANCE RGB",
+   "category": "ram",
+   "part_number": "CMH64GX5M2B6400C32",
+   "upc": "840440405399",
+   "launch_price": null,
+   "week_low": 1259.99,
+   "week_high": 1299.99,
+   "week_open": 1259.99,
+   "week_close": 1299.99,
+   "typical_price_end": 1299.99,
+   "prev_week_close": 1259.99,
+   "change_vs_prev_week_pct": 3.2,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/corsair-vengeance-rgb-64gb-2x32gb-ddr5-6400-cl32-2",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 1259.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 1259.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 1299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 1299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 1299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 1299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 1299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 26,
+   "product_id": 8545,
+   "name": "Kingston FURY Beast 16GB DDR5-5200 CL40",
+   "maker": "Kingston",
+   "model": "FURY Beast",
+   "category": "ram",
+   "part_number": "KF552C40BB-16",
+   "upc": "740617324372",
+   "launch_price": null,
+   "week_low": 325.05,
+   "week_high": 356.99,
+   "week_open": 356.99,
+   "week_close": 325.05,
+   "typical_price_end": 325.05,
+   "prev_week_close": 356.99,
+   "change_vs_prev_week_pct": -8.9,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://rams.live/memory/kingston-fury-beast-16gb-ddr5-5200-cl40",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 356.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 356.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 356.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 351.33,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 339.22,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 339.11,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 325.05,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 27,
+   "product_id": 21525,
+   "name": "Synology 16GB DDR4 ECC RDIMM (D4ER02-16G)",
+   "maker": "Synology",
+   "model": null,
+   "category": "ram",
+   "part_number": "D4ER02-16G",
+   "upc": "846504006502",
+   "launch_price": null,
+   "week_low": 1509.99,
+   "week_high": 1599.99,
+   "week_open": 1509.99,
+   "week_close": 1599.99,
+   "typical_price_end": 1620.245,
+   "prev_week_close": 1509.99,
+   "change_vs_prev_week_pct": 6.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Adorama",
+   "url": "https://rams.live/memory/synology-16gb-ddr4-rdimm-d4er02-16g",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 1509.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 1509.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 1599.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 1599.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 1599.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 1599.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 1599.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 28,
+   "product_id": 24389,
+   "name": "PNY Performance 16GB (2x8GB) DDR4-3200 CL22",
+   "maker": "PNY",
+   "model": "Performance",
+   "category": "ram",
+   "part_number": "MD16GK2D43200-TB",
+   "upc": "751492814285",
+   "launch_price": null,
+   "week_low": 104.99,
+   "week_high": 109.99,
+   "week_open": 109.99,
+   "week_close": 104.99,
+   "typical_price_end": 127.49,
+   "prev_week_close": 109.99,
+   "change_vs_prev_week_pct": -4.5,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://rams.live/memory/pny-performance-16gb-2x8gb-ddr4-3200-cl22",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 109.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 109.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 109.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 109.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 109.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 109.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 104.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 29,
+   "product_id": 3928,
+   "name": "Corsair Vengeance RGB 32GB (2x16GB) DDR5-6000 CL36 Gray (CMH32GX5M2F6000Z36)",
+   "maker": "Corsair",
+   "model": "VENGEANCE RGB",
+   "category": "ram",
+   "part_number": "CMH32GX5M2F6000Z36",
+   "upc": "840006679653",
+   "launch_price": null,
+   "week_low": 509.99,
+   "week_high": 509.99,
+   "week_open": 509.99,
+   "week_close": 509.99,
+   "typical_price_end": 544.99,
+   "prev_week_close": 509.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/corsair-vengeance-rgb-32gb-2x16gb-ddr5-6000-cl36-3",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 509.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 509.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 509.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 509.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 509.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 509.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 509.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 30,
+   "product_id": 5837,
+   "name": "Crucial 32GB (2x16GB) DDR5-5600 CL46 SO-DIMM (CT2K16G56C46S5)",
+   "maker": "Crucial",
+   "model": null,
+   "category": "ram",
+   "part_number": "CT2K16G56C46S5",
+   "upc": "649528929983",
+   "launch_price": null,
+   "week_low": 537.12,
+   "week_high": 584.98,
+   "week_open": 564.0,
+   "week_close": 544.79,
+   "typical_price_end": 544.79,
+   "prev_week_close": 584.98,
+   "change_vs_prev_week_pct": -6.9,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://rams.live/memory/crucial-32gb-2x16gb-ddr5-5600-cl46-so-dimm-ct2k16g56c46s5",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 564.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 584.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 584.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 584.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 554.61,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 537.12,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 544.79,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 31,
+   "product_id": 7130,
+   "name": "Kingston Fury Renegade RGB 32GB (2x16GB) DDR5-6400 CL32",
+   "maker": "Kingston",
+   "model": "Fury Renegade RGB",
+   "category": "ram",
+   "part_number": "KF564C32RSAK2-32",
+   "upc": "740617329742",
+   "launch_price": null,
+   "week_low": 730.03,
+   "week_high": 745.98,
+   "week_open": 730.03,
+   "week_close": 745.98,
+   "typical_price_end": 745.98,
+   "prev_week_close": 740.49,
+   "change_vs_prev_week_pct": 0.7,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://rams.live/memory/kingston-fury-renegade-rgb-32gb-2x16gb-ddr5-6400-cl32",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 730.03,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 739.37,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 745.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 745.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 745.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 745.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 745.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 32,
+   "product_id": 11283,
+   "name": "Kingston FURY Beast 64GB (2x32GB) DDR5-6000 CL30 Black EXPO (KF560C30BBEK2-64)",
+   "maker": "Kingston",
+   "model": "FURY Beast",
+   "category": "ram",
+   "part_number": "KF560C30BBEK2-64",
+   "upc": "740617343403",
+   "launch_price": null,
+   "week_low": 1229.99,
+   "week_high": 1299.99,
+   "week_open": 1229.99,
+   "week_close": null,
+   "typical_price_end": null,
+   "prev_week_close": 1395.71,
+   "change_vs_prev_week_pct": null,
+   "days_in_stock": 6,
+   "retailers_in_stock_end": 0,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": null,
+   "url": "https://rams.live/memory/kingston-fury-beast-64gb-2x32gb-ddr5-6000-cl30-3",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 1229.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 1299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 1299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 1299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 1299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 1299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": null,
+     "low_store": null,
+     "retailers_in_stock": 0,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 33,
+   "product_id": 12874,
+   "name": "TEAMGROUP T-Create Expert 48GB (2x24GB) DDR5-7200 CL34 Black",
+   "maker": "TEAMGROUP",
+   "model": "T-CREATE EXPERT",
+   "category": "ram",
+   "part_number": "CTCED548G7200HC34ADC01",
+   "upc": "765441867376",
+   "launch_price": null,
+   "week_low": 639.99,
+   "week_high": 639.99,
+   "week_open": 639.99,
+   "week_close": 639.99,
+   "typical_price_end": 714.99,
+   "prev_week_close": 639.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 1,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/teamgroup-t-create-expert-48gb-2x24gb-ddr5-7200-cl34-2",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 639.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-20",
+     "low": 639.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-21",
+     "low": 639.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-22",
+     "low": 639.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-23",
+     "low": 639.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-24",
+     "low": 639.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-25",
+     "low": 639.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 1
+    }
+   ]
+  },
+  {
+   "rank": 34,
+   "product_id": 27742,
+   "name": "Supermicro MB DDR5",
+   "maker": "Supermicro",
+   "model": null,
+   "category": "ram",
+   "part_number": "MBD-X14SAE-B",
+   "upc": "672042948208",
+   "launch_price": null,
+   "week_low": 559.96,
+   "week_high": 576.36,
+   "week_open": 567.76,
+   "week_close": 559.96,
+   "typical_price_end": 559.96,
+   "prev_week_close": null,
+   "change_vs_prev_week_pct": null,
+   "days_in_stock": 6,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://rams.live/memory/supermicro-mb-ddr5",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": null,
+     "low_store": null,
+     "retailers_in_stock": 0,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 567.76,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 576.36,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 565.03,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 560.08,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 559.96,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 559.96,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 35,
+   "product_id": 1886,
+   "name": "Corsair Vengeance 32GB (2x16GB) DDR5-5600 CL48 SO-DIMM",
+   "maker": "Corsair",
+   "model": "VENGEANCE",
+   "category": "ram",
+   "part_number": "CMSX32GX5M2A5600C48",
+   "upc": "840006680475",
+   "launch_price": null,
+   "week_low": 459.99,
+   "week_high": 479.99,
+   "week_open": 459.99,
+   "week_close": 479.99,
+   "typical_price_end": 489.99,
+   "prev_week_close": 459.99,
+   "change_vs_prev_week_pct": 4.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://rams.live/memory/corsair-vengeance-32gb-2x16gb-ddr5-5600-cl48-so-dimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 459.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 479.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 36,
+   "product_id": 2425,
+   "name": "TEAMGROUP T-Create Master 128GB (4x32GB) DDR5-6000 CL30 ECC RDIMM",
+   "maker": "TEAMGROUP",
+   "model": "T-Create Master",
+   "category": "ram",
+   "part_number": "CTCMD5128G6000HC30FQC01",
+   "upc": "4711430801698",
+   "launch_price": null,
+   "week_low": 3999.99,
+   "week_high": 4699.99,
+   "week_open": 3999.99,
+   "week_close": 4699.99,
+   "typical_price_end": 5199.99,
+   "prev_week_close": 3999.99,
+   "change_vs_prev_week_pct": 17.5,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 23,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/teamgroup-t-create-master-128gb-4x32gb-ddr5-6000-cl30-ecc-rdimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 3999.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-20",
+     "low": 3999.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-21",
+     "low": 3999.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-22",
+     "low": 4699.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-23",
+     "low": 4699.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-24",
+     "low": 4699.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-25",
+     "low": 4699.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 23
+    }
+   ]
+  },
+  {
+   "rank": 37,
+   "product_id": 24398,
+   "name": "Synology 16GB DDR4 ECC SO-DIMM (D4ES03-16G)",
+   "maker": "Synology",
+   "model": null,
+   "category": "ram",
+   "part_number": "D4ES03-16G",
+   "upc": "846504006465",
+   "launch_price": null,
+   "week_low": 1079.99,
+   "week_high": 1079.99,
+   "week_open": 1079.99,
+   "week_close": 1079.99,
+   "typical_price_end": 1161.48,
+   "prev_week_close": 1079.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://rams.live/memory/synology-16gb-ddr4-so-dimm-d4es03-16g",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 1079.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 1079.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 1079.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 1079.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 1079.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 1079.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 1079.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 38,
+   "product_id": 1904,
+   "name": "PNY XLR8 16GB (2x8GB) DDR4-3600 CL18",
+   "maker": "PNY",
+   "model": "XLR8",
+   "category": "ram",
+   "part_number": "MD16GK2D4360018LP",
+   "upc": "751492650203",
+   "launch_price": null,
+   "week_low": 139.99,
+   "week_high": 149.99,
+   "week_open": 139.99,
+   "week_close": 149.99,
+   "typical_price_end": 161.355,
+   "prev_week_close": 139.99,
+   "change_vs_prev_week_pct": 7.1,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://rams.live/memory/pny-xlr8-16gb-2x8gb-ddr4-3600-cl18",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 139.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 139.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 149.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 149.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 149.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 39,
+   "product_id": 2381,
+   "name": "TEAMGROUP T-Create Master 96GB (4x24GB) DDR5-6000 CL32 ECC RDIMM",
+   "maker": "TEAMGROUP",
+   "model": "T-Create Master",
+   "category": "ram",
+   "part_number": "CTCMD596G6000HC32AQC01",
+   "upc": "4711430803890",
+   "launch_price": null,
+   "week_low": 3179.99,
+   "week_high": 3479.99,
+   "week_open": 3179.99,
+   "week_close": 3479.99,
+   "typical_price_end": 3479.99,
+   "prev_week_close": 3179.99,
+   "change_vs_prev_week_pct": 9.4,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/teamgroup-t-create-master-96gb-4x24gb-ddr5-6000-cl32-ecc-rdimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 3179.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 3179.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 3479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 3479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 3479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 3479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 3479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 40,
+   "product_id": 3088,
+   "name": "Corsair Vengeance 32GB (2x16GB) DDR5-6000 CL36 EXPO Gray",
+   "maker": "Corsair",
+   "model": "VENGEANCE",
+   "category": "ram",
+   "part_number": "CMK32GX5M2E6000Z36",
+   "upc": "840006679707",
+   "launch_price": null,
+   "week_low": 499.99,
+   "week_high": 499.99,
+   "week_open": 499.99,
+   "week_close": 499.99,
+   "typical_price_end": 499.99,
+   "prev_week_close": 519.99,
+   "change_vs_prev_week_pct": -3.8,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/corsair-vengeance-32gb-2x16gb-ddr5-6000-cl36-2",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-20",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-21",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-22",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-23",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 41,
+   "product_id": 3221,
+   "name": "TEAMGROUP T-Force Delta RGB 32GB (2x16GB) DDR5-6000 CL38 Black",
+   "maker": "TEAMGROUP",
+   "model": "T-Force Delta RGB",
+   "category": "ram",
+   "part_number": "FF3D532G6000HC38JDC01",
+   "upc": "765441777231",
+   "launch_price": null,
+   "week_low": 478.99,
+   "week_high": 519.99,
+   "week_open": 478.99,
+   "week_close": 509.99,
+   "typical_price_end": 509.99,
+   "prev_week_close": 509.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/teamgroup-t-force-delta-rgb-32gb-2x16gb-ddr5-6000-cl38",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 478.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 519.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 519.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 519.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 509.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 519.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 509.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 42,
+   "product_id": 3823,
+   "name": "PNY 32GB (2x16GB) DDR4-3200 CL22 SO-DIMM (MN32GK2D43200-TB)",
+   "maker": "PNY",
+   "model": null,
+   "category": "ram",
+   "part_number": "MN32GK2D43200-TB",
+   "upc": "751492658964",
+   "launch_price": null,
+   "week_low": 219.99,
+   "week_high": 219.99,
+   "week_open": 219.99,
+   "week_close": 219.99,
+   "typical_price_end": 224.99,
+   "prev_week_close": 219.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Amazon",
+   "url": "https://rams.live/memory/pny-32gb-2x16gb-ddr4-3200-cl22-so-dimm-mn32gk2d43200-tb",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 219.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-20",
+     "low": 219.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-21",
+     "low": 219.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-22",
+     "low": 219.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-23",
+     "low": 219.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-24",
+     "low": 219.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-25",
+     "low": 219.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 43,
+   "product_id": 4040,
+   "name": "Corsair Vengeance 32GB (2x16GB) DDR5-5200 CL40 Black XMP",
+   "maker": "Corsair",
+   "model": "VENGEANCE",
+   "category": "ram",
+   "part_number": "CMK32GX5M2B5200C40",
+   "upc": "840006659464",
+   "launch_price": null,
+   "week_low": 507.99,
+   "week_high": 507.99,
+   "week_open": 507.99,
+   "week_close": 507.99,
+   "typical_price_end": 507.99,
+   "prev_week_close": 507.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/corsair-vengeance-32gb-2x16gb-ddr5-5200-cl40-3",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 507.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 507.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 507.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 507.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 507.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 507.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 507.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 44,
+   "product_id": 4105,
+   "name": "Corsair Vengeance 32GB (2x16GB) DDR5-6000 CL30 Black XMP",
+   "maker": "Corsair",
+   "model": "VENGEANCE",
+   "category": "ram",
+   "part_number": "CMK32GX5M2B6000C30",
+   "upc": "840006671350",
+   "launch_price": null,
+   "week_low": 459.99,
+   "week_high": 459.99,
+   "week_open": 459.99,
+   "week_close": 459.99,
+   "typical_price_end": 554.99,
+   "prev_week_close": 459.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 2,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/corsair-vengeance-32gb-2x16gb-ddr5-6000-cl30-3",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-20",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-21",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 2
+    },
+    {
+     "date": "2026-10-22",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 2
+    },
+    {
+     "date": "2026-10-23",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 2
+    },
+    {
+     "date": "2026-10-24",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 2
+    },
+    {
+     "date": "2026-10-25",
+     "low": 459.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 2
+    }
+   ]
+  },
+  {
+   "rank": 45,
+   "product_id": 5985,
+   "name": "TEAMGROUP Elite 32GB DDR5-5600 CL46 SO-DIMM",
+   "maker": "TEAMGROUP",
+   "model": null,
+   "category": "ram",
+   "part_number": "TED532G5600C46A-S01",
+   "upc": "765441871397",
+   "launch_price": null,
+   "week_low": 594.99,
+   "week_high": 594.99,
+   "week_open": 594.99,
+   "week_close": 594.99,
+   "typical_price_end": 594.99,
+   "prev_week_close": 594.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/teamgroup-elite-32gb-ddr5-5600-cl46-so-dimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 594.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 594.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 594.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 594.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 594.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 594.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 594.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 46,
+   "product_id": 9572,
+   "name": "PNY 32GB DDR4-3200 CL22 SO-DIMM (MN32GSD43200-TB)",
+   "maker": "PNY",
+   "model": null,
+   "category": "ram",
+   "part_number": "MN32GSD43200-TB",
+   "upc": "751492779188",
+   "launch_price": null,
+   "week_low": 199.99,
+   "week_high": 229.99,
+   "week_open": 199.99,
+   "week_close": 229.99,
+   "typical_price_end": 229.99,
+   "prev_week_close": 199.99,
+   "change_vs_prev_week_pct": 15.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://rams.live/memory/pny-32gb-ddr4-3200-cl22-so-dimm-mn32gsd43200-tb",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 199.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 199.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 199.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 199.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 199.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 199.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 229.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 47,
+   "product_id": 24400,
+   "name": "PNY Performance 16GB DDR4-3200 CL22",
+   "maker": "PNY",
+   "model": "Performance",
+   "category": "ram",
+   "part_number": "MD16GSD43200-TB",
+   "upc": "751492649849",
+   "launch_price": null,
+   "week_low": 119.99,
+   "week_high": 119.99,
+   "week_open": 119.99,
+   "week_close": 119.99,
+   "typical_price_end": 119.99,
+   "prev_week_close": 119.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://rams.live/memory/pny-performance-16gb-ddr4-3200-cl22",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 119.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 119.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 119.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 119.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 119.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 119.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 119.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 48,
+   "product_id": 2767,
+   "name": "Kingston FURY Beast RGB 32GB (2x16GB) DDR5-6000 CL30",
+   "maker": "Kingston",
+   "model": "FURY Beast RGB",
+   "category": "ram",
+   "part_number": "KF560C30BBEAK2-32",
+   "upc": "740617342895",
+   "launch_price": null,
+   "week_low": 589.99,
+   "week_high": 589.99,
+   "week_open": 589.99,
+   "week_close": 589.99,
+   "typical_price_end": 624.99,
+   "prev_week_close": 589.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/kingston-fury-beast-rgb-32gb-2x16gb-ddr5-6000-cl30",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 589.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-20",
+     "low": 589.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-21",
+     "low": 589.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-22",
+     "low": 589.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-23",
+     "low": 589.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-24",
+     "low": 589.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-25",
+     "low": 589.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 49,
+   "product_id": 5093,
+   "name": "Corsair VENGEANCE 16GB (2x8GB) DDR5-5200 CL40 Gray",
+   "maker": "Corsair",
+   "model": "VENGEANCE",
+   "category": "ram",
+   "part_number": "CMK16GX5M2B5200Z40",
+   "upc": "840006670162",
+   "launch_price": null,
+   "week_low": 294.99,
+   "week_high": 294.99,
+   "week_open": 294.99,
+   "week_close": 294.99,
+   "typical_price_end": 294.99,
+   "prev_week_close": 294.0,
+   "change_vs_prev_week_pct": 0.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 20,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/corsair-vengeance-16gb-2x8gb-ddr5-5200-cl40-2",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 294.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-20",
+     "low": 294.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-21",
+     "low": 294.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-22",
+     "low": 294.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-23",
+     "low": 294.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-24",
+     "low": 294.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-25",
+     "low": 294.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 20
+    }
+   ]
+  },
+  {
+   "rank": 50,
+   "product_id": 6192,
+   "name": "Kingston FURY Beast 64GB (2x32GB) DDR5-6000 CL30 Black EXPO (KF560C30BBEAK2-64)",
+   "maker": "Kingston",
+   "model": "FURY Beast",
+   "category": "ram",
+   "part_number": "KF560C30BBEAK2-64",
+   "upc": "740617342819",
+   "launch_price": null,
+   "week_low": 1299.99,
+   "week_high": 1424.35,
+   "week_open": 1299.99,
+   "week_close": 1424.35,
+   "typical_price_end": 1424.35,
+   "prev_week_close": 1299.99,
+   "change_vs_prev_week_pct": 9.6,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://rams.live/memory/kingston-fury-beast-64gb-2x32gb-ddr5-6000-cl30",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 1299.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 1299.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 1299.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 1299.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 1422.03,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 1424.33,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 1424.35,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 51,
+   "product_id": 12512,
+   "name": "Corsair WS 128GB (4x32GB) DDR5-5600 CL40 ECC RDIMM",
+   "maker": "Corsair",
+   "model": "WS",
+   "category": "ram",
+   "part_number": "CMA128GX5M4B5600Z40",
+   "upc": "840006690153",
+   "launch_price": null,
+   "week_low": 2433.99,
+   "week_high": 2506.99,
+   "week_open": 2433.99,
+   "week_close": 2506.99,
+   "typical_price_end": 2506.99,
+   "prev_week_close": 2433.99,
+   "change_vs_prev_week_pct": 3.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Corsair Store",
+   "url": "https://rams.live/memory/corsair-ws-128gb-4x32gb-ddr5-5600-cl40-ecc-rdimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 2433.99,
+     "low_store": "Corsair Store",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 2506.99,
+     "low_store": "Corsair Store",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 2506.99,
+     "low_store": "Corsair Store",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 2506.99,
+     "low_store": "Corsair Store",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 2506.99,
+     "low_store": "Corsair Store",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 2506.99,
+     "low_store": "Corsair Store",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 2506.99,
+     "low_store": "Corsair Store",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 52,
+   "product_id": 13400,
+   "name": "Synology 16GB DDR4-2666 (D4EC-2666-16G)",
+   "maker": "Synology",
+   "model": null,
+   "category": "ram",
+   "part_number": "D4EC-2666-16G",
+   "upc": "846504003754",
+   "launch_price": null,
+   "week_low": 1479.99,
+   "week_high": 1509.99,
+   "week_open": 1509.99,
+   "week_close": 1479.99,
+   "typical_price_end": 1494.99,
+   "prev_week_close": 1509.99,
+   "change_vs_prev_week_pct": -2.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Adorama",
+   "url": "https://rams.live/memory/synology-inc-16gb-ddr4-2666-d4ec-2666-16g",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 1509.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 1509.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 1509.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 1479.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 1479.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 1479.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 1479.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 53,
+   "product_id": 24384,
+   "name": "PNY XLR8 16GB DDR4-3200 CL20 SO-DIMM",
+   "maker": "PNY",
+   "model": "XLR8",
+   "category": "ram",
+   "part_number": "MN16GSD43200X",
+   "upc": "751492645599",
+   "launch_price": null,
+   "week_low": 104.99,
+   "week_high": 104.99,
+   "week_open": 104.99,
+   "week_close": 104.99,
+   "typical_price_end": 104.99,
+   "prev_week_close": 104.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://rams.live/memory/pny-xlr8-16gb-ddr4-3200-cl20-so-dimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 104.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 104.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 104.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 104.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 104.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 104.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 104.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 54,
+   "product_id": 1876,
+   "name": "G.SKILL Ripjaws V 16GB (2x8GB) DDR4-3200 CL16 Black",
+   "maker": "G.SKILL",
+   "model": "Ripjaws V",
+   "category": "ram",
+   "part_number": "F4-3200C16D-16GVKB",
+   "upc": "848354014973",
+   "launch_price": null,
+   "week_low": 134.99,
+   "week_high": 134.99,
+   "week_open": 134.99,
+   "week_close": 134.99,
+   "typical_price_end": 134.99,
+   "prev_week_close": 134.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/gskill-ripjaws-v-16gb-2x8gb-ddr4-3200-cl16",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 134.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-20",
+     "low": 134.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-21",
+     "low": 134.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-22",
+     "low": 134.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-23",
+     "low": 134.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-24",
+     "low": 134.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-25",
+     "low": 134.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 55,
+   "product_id": 3833,
+   "name": "Patriot Signature 8GB DDR3-1600 CL11 SO-DIMM",
+   "maker": "Patriot",
+   "model": "Signature Line",
+   "category": "ram",
+   "part_number": "PSD38G16002S",
+   "upc": "815530013273",
+   "launch_price": null,
+   "week_low": 30.99,
+   "week_high": 30.99,
+   "week_open": 30.99,
+   "week_close": 30.99,
+   "typical_price_end": 45.49,
+   "prev_week_close": 30.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 26,
+   "lowest_store_end": "Adorama",
+   "url": "https://rams.live/memory/patriot-signature-8gb-ddr3-1600-cl11-so-dimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 30.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-20",
+     "low": 30.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-21",
+     "low": 30.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-22",
+     "low": 30.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-23",
+     "low": 30.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-24",
+     "low": 30.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-25",
+     "low": 30.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 26
+    }
+   ]
+  },
+  {
+   "rank": 56,
+   "product_id": 3972,
+   "name": "TEAMGROUP T-Force Delta RGB 32GB (2x16GB) DDR5-6000 CL30 White",
+   "maker": "TEAMGROUP",
+   "model": "T-Force Delta RGB",
+   "category": "ram",
+   "part_number": "FF4D532G6000HC30DC01",
+   "upc": "765441661660",
+   "launch_price": null,
+   "week_low": 599.99,
+   "week_high": 599.99,
+   "week_open": 599.99,
+   "week_close": 599.99,
+   "typical_price_end": 599.99,
+   "prev_week_close": 599.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 28,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/teamgroup-t-force-delta-rgb-32gb-2x16gb-ddr5-6000-cl30-2",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 599.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-20",
+     "low": 599.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-21",
+     "low": 599.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-22",
+     "low": 599.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-23",
+     "low": 599.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-24",
+     "low": 599.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-25",
+     "low": 599.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    }
+   ]
+  },
+  {
+   "rank": 57,
+   "product_id": 5045,
+   "name": "Crucial Pro 64GB (2x32GB) DDR4-3200 CL22",
+   "maker": "Crucial",
+   "model": null,
+   "category": "ram",
+   "part_number": "CP2K32G4DFRA32A",
+   "upc": "649528937797",
+   "launch_price": null,
+   "week_low": 629.99,
+   "week_high": 629.99,
+   "week_open": 629.99,
+   "week_close": 629.99,
+   "typical_price_end": 629.99,
+   "prev_week_close": 629.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 33,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://rams.live/memory/crucial-pro-64gb-2x32gb-ddr4-3200-cl22",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 629.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-20",
+     "low": 629.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-21",
+     "low": 629.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-22",
+     "low": 629.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-23",
+     "low": 629.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-24",
+     "low": 629.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-25",
+     "low": 629.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 33
+    }
+   ]
+  },
+  {
+   "rank": 58,
+   "product_id": 5050,
+   "name": "G.SKILL Flare X5 32GB (2x16GB) DDR5-6000 CL36 Black",
+   "maker": "G.SKILL",
+   "model": "Flare X5",
+   "category": "ram",
+   "part_number": "F5-6000J3636F16GX2-FX5",
+   "upc": "848354042686",
+   "launch_price": null,
+   "week_low": 479.99,
+   "week_high": 489.99,
+   "week_open": 479.99,
+   "week_close": 489.99,
+   "typical_price_end": 514.99,
+   "prev_week_close": 479.99,
+   "change_vs_prev_week_pct": 2.1,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/gskill-flare-x5-32gb-2x16gb-ddr5-6000-cl36-2",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 479.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-20",
+     "low": 479.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-21",
+     "low": 479.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-22",
+     "low": 489.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-23",
+     "low": 489.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-24",
+     "low": 489.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-25",
+     "low": 489.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 59,
+   "product_id": 13586,
+   "name": "Corsair VENGEANCE RGB 64GB (2x32GB) DDR5-5600 CL40 Gray",
+   "maker": "Corsair",
+   "model": "VENGEANCE RGB",
+   "category": "ram",
+   "part_number": "CMH64GX5M2B5600Z40K",
+   "upc": "840006600145",
+   "launch_price": null,
+   "week_low": 899.99,
+   "week_high": 999.99,
+   "week_open": 899.99,
+   "week_close": 999.99,
+   "typical_price_end": 1019.99,
+   "prev_week_close": 899.99,
+   "change_vs_prev_week_pct": 11.1,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/corsair-vengeance-rgb-64gb-2x32gb-ddr5-5600-cl40-3",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 899.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-20",
+     "low": 899.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-21",
+     "low": 999.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-22",
+     "low": 999.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-23",
+     "low": 999.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-24",
+     "low": 999.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-25",
+     "low": 999.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 60,
+   "product_id": 21488,
+   "name": "Synology 64GB DDR4 ECC RDIMM (D4ER01-64G)",
+   "maker": "Synology",
+   "model": null,
+   "category": "ram",
+   "part_number": "D4ER01-64G",
+   "upc": "846504005086",
+   "launch_price": null,
+   "week_low": 3099.99,
+   "week_high": 3099.99,
+   "week_open": 3099.99,
+   "week_close": 3099.99,
+   "typical_price_end": 3099.99,
+   "prev_week_close": 2949.99,
+   "change_vs_prev_week_pct": 5.1,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Adorama",
+   "url": "https://rams.live/memory/synology-64gb-ddr4-rdimm-d4er01-64g",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 3099.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 3099.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 3099.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 3099.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 3099.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 3099.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 3099.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 61,
+   "product_id": 28261,
+   "name": "Kingston FURY Beast 128GB (2x64GB) DDR5-5600 CL36",
+   "maker": "Kingston",
+   "model": "FURY Beast",
+   "category": "ram",
+   "part_number": "KF556C36BBEAK2-128",
+   "upc": "740617350272",
+   "launch_price": null,
+   "week_low": 2499.99,
+   "week_high": 2963.99,
+   "week_open": 2499.99,
+   "week_close": 2963.99,
+   "typical_price_end": 2963.99,
+   "prev_week_close": 2914.1,
+   "change_vs_prev_week_pct": 1.7,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://rams.live/memory/kingston-fury-beast-128gb-2x64gb-ddr5-5600-cl36",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 2499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 2963.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 2963.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 2963.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 2963.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 2963.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 2963.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 62,
+   "product_id": 1938,
+   "name": "Corsair Vengeance 16GB DDR5-5600 CL48 SO-DIMM",
+   "maker": "Corsair",
+   "model": "VENGEANCE",
+   "category": "ram",
+   "part_number": "CMSX16GX5M1A5600C48",
+   "upc": "840006681588",
+   "launch_price": null,
+   "week_low": 239.99,
+   "week_high": 239.99,
+   "week_open": 239.99,
+   "week_close": 239.99,
+   "typical_price_end": 239.99,
+   "prev_week_close": 229.99,
+   "change_vs_prev_week_pct": 4.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/corsair-vengeance-16gb-ddr5-5600-cl48-so-dimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 239.99,
+     "low_store": "Corsair Store",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 239.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 239.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 239.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 239.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 239.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 239.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 63,
+   "product_id": 2208,
+   "name": "Corsair Vengeance 16GB (2x8GB) DDR5-6000 CL36 (CMK16GX5M2E6000Z36)",
+   "maker": "Corsair",
+   "model": "VENGEANCE",
+   "category": "ram",
+   "part_number": "CMK16GX5M2E6000Z36",
+   "upc": "840440426332",
+   "launch_price": null,
+   "week_low": 299.99,
+   "week_high": 299.99,
+   "week_open": 299.99,
+   "week_close": 299.99,
+   "typical_price_end": 299.99,
+   "prev_week_close": 299.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/corsair-vengeance-16gb-2x8gb-ddr5-6000-cl36",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 64,
+   "product_id": 2283,
+   "name": "Patriot Signature Line 4GB DDR4-2666 CL19 SO-DIMM",
+   "maker": "Patriot",
+   "model": "Signature Line",
+   "category": "ram",
+   "part_number": "PSD44G266681S",
+   "upc": "814914026465",
+   "launch_price": null,
+   "week_low": 37.99,
+   "week_high": 37.99,
+   "week_open": 37.99,
+   "week_close": 37.99,
+   "typical_price_end": 37.99,
+   "prev_week_close": 37.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Adorama",
+   "url": "https://rams.live/memory/patriot-signature-line-4gb-ddr4-2666-cl19-so-dimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 37.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 37.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 37.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 37.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 37.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 37.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 37.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 65,
+   "product_id": 3909,
+   "name": "Corsair Vengeance 64GB (2x32GB) DDR5-5200 CL40 Black XMP",
+   "maker": "Corsair",
+   "model": "VENGEANCE",
+   "category": "ram",
+   "part_number": "CMK64GX5M2B5200C40",
+   "upc": "840006661245",
+   "launch_price": null,
+   "week_low": 827.99,
+   "week_high": 993.99,
+   "week_open": 827.99,
+   "week_close": 993.99,
+   "typical_price_end": 994.99,
+   "prev_week_close": 827.99,
+   "change_vs_prev_week_pct": 20.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Best Buy",
+   "url": "https://rams.live/memory/corsair-vengeance-64gb-2x32gb-ddr5-5200-cl40",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 827.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-20",
+     "low": 827.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-21",
+     "low": 993.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 993.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 993.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 993.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 993.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 66,
+   "product_id": 8688,
+   "name": "Kingston Fury Beast 16GB DDR4-3200 CL16 RDIMM",
+   "maker": "Kingston",
+   "model": "FURY Beast",
+   "category": "ram",
+   "part_number": "KF432C16BB1/16",
+   "upc": "740617319859",
+   "launch_price": null,
+   "week_low": 199.99,
+   "week_high": 199.99,
+   "week_open": 199.99,
+   "week_close": 199.99,
+   "typical_price_end": 223.99,
+   "prev_week_close": 199.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 4,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://rams.live/memory/kingston-fury-beast-16gb-ddr4-3200-cl16",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-20",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-21",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-22",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-23",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-24",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-25",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 4
+    }
+   ]
+  },
+  {
+   "rank": 67,
+   "product_id": 9540,
+   "name": "Kingston FURY Impact 64GB (2x32GB) DDR5-5600 CL40 SO-DIMM",
+   "maker": "Kingston",
+   "model": "FURY Impact",
+   "category": "ram",
+   "part_number": "KF556S40IBK2-64",
+   "upc": "740617331646",
+   "launch_price": null,
+   "week_low": 1432.45,
+   "week_high": 1464.08,
+   "week_open": 1464.08,
+   "week_close": 1432.45,
+   "typical_price_end": 1432.45,
+   "prev_week_close": 1296.58,
+   "change_vs_prev_week_pct": 10.5,
+   "days_in_stock": 2,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://rams.live/memory/kingston-fury-impact-64gb-2x32gb-ddr5-5600-cl40-so-dimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": null,
+     "low_store": null,
+     "retailers_in_stock": 0,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": null,
+     "low_store": null,
+     "retailers_in_stock": 0,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": null,
+     "low_store": null,
+     "retailers_in_stock": 0,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": null,
+     "low_store": null,
+     "retailers_in_stock": 0,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": null,
+     "low_store": null,
+     "retailers_in_stock": 0,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 1464.08,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 1432.45,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 68,
+   "product_id": 27329,
+   "name": "KLEVV 2X FIT V 6000 (58GU88060A300L)",
+   "maker": "KLEVV",
+   "model": "2X FIT V 6000",
+   "category": "ram",
+   "part_number": "58GU88060A300L",
+   "upc": "4895194969716",
+   "launch_price": null,
+   "week_low": 259.99,
+   "week_high": 259.99,
+   "week_open": 259.99,
+   "week_close": 259.99,
+   "typical_price_end": 263.99,
+   "prev_week_close": 259.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 26,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/klevv-2x-fit-v-6000",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 259.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-20",
+     "low": 259.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-21",
+     "low": 259.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-22",
+     "low": 259.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-23",
+     "low": 259.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-24",
+     "low": 259.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-25",
+     "low": 259.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 26
+    }
+   ]
+  },
+  {
+   "rank": 69,
+   "product_id": 1758,
+   "name": "Corsair Vengeance LPX 16GB (2x8GB) DDR4-3200 CL16 Black (CMK16GX4M2E3200C16)",
+   "maker": "Corsair",
+   "model": "VENGEANCE LPX",
+   "category": "ram",
+   "part_number": "CMK16GX4M2E3200C16",
+   "upc": "840006608530",
+   "launch_price": null,
+   "week_low": 139.99,
+   "week_high": 139.99,
+   "week_open": 139.99,
+   "week_close": 139.99,
+   "typical_price_end": 139.99,
+   "prev_week_close": 139.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/corsair-vengeance-lpx-16gb-2x8gb-ddr4-3200-cl16",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 139.99,
+     "low_store": "Corsair Store",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-20",
+     "low": 139.99,
+     "low_store": "Corsair Store",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-21",
+     "low": 139.99,
+     "low_store": "Corsair Store",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-22",
+     "low": 139.99,
+     "low_store": "Corsair Store",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-23",
+     "low": 139.99,
+     "low_store": "Corsair Store",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-24",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-25",
+     "low": 139.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 70,
+   "product_id": 3468,
+   "name": "PNY Performance 32GB (2x16GB) DDR5-5600 CL46",
+   "maker": "PNY",
+   "model": "Performance",
+   "category": "ram",
+   "part_number": "MD32GK2D5560046LP",
+   "upc": "751492813585",
+   "launch_price": null,
+   "week_low": 479.99,
+   "week_high": 479.99,
+   "week_open": 479.99,
+   "week_close": 479.99,
+   "typical_price_end": 519.99,
+   "prev_week_close": 449.99,
+   "change_vs_prev_week_pct": 6.7,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/pny-performance-32gb-2x16gb-ddr5-5600-cl46",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 479.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 71,
+   "product_id": 3843,
+   "name": "Patriot Signature 8GB DDR4-2666 CL19 SO-DIMM",
+   "maker": "Patriot",
+   "model": "Signature Line",
+   "category": "ram",
+   "part_number": "PSD48G266681S",
+   "upc": "814914025574",
+   "launch_price": null,
+   "week_low": 72.99,
+   "week_high": 72.99,
+   "week_open": 72.99,
+   "week_close": 72.99,
+   "typical_price_end": 79.49,
+   "prev_week_close": 72.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 28,
+   "lowest_store_end": "Adorama",
+   "url": "https://rams.live/memory/patriot-signature-8gb-ddr4-2666-cl19-so-dimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 72.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-20",
+     "low": 72.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-21",
+     "low": 72.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-22",
+     "low": 72.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-23",
+     "low": 72.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-24",
+     "low": 72.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-25",
+     "low": 72.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    }
+   ]
+  },
+  {
+   "rank": 72,
+   "product_id": 4491,
+   "name": "Kingston FURY Beast 64GB (2x32GB) DDR5-6400 CL32 Black EXPO (KF564C32BBEAK2-64)",
+   "maker": "Kingston",
+   "model": "FURY Beast",
+   "category": "ram",
+   "part_number": "KF564C32BBEAK2-64",
+   "upc": "740617343083",
+   "launch_price": null,
+   "week_low": 1338.99,
+   "week_high": 1449.99,
+   "week_open": 1449.99,
+   "week_close": 1338.99,
+   "typical_price_end": 1338.99,
+   "prev_week_close": 1299.99,
+   "change_vs_prev_week_pct": 3.0,
+   "days_in_stock": 5,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://rams.live/memory/kingston-fury-beast-64gb-2x32gb-ddr5-6400-cl32",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": null,
+     "low_store": null,
+     "retailers_in_stock": 0,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 1449.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": null,
+     "low_store": null,
+     "retailers_in_stock": 0,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 1338.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 1338.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 1338.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 1338.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 73,
+   "product_id": 13895,
+   "name": "Corsair VENGEANCE 16GB DDR5-4800 CL40 SO-DIMM",
+   "maker": "Corsair",
+   "model": "VENGEANCE",
+   "category": "ram",
+   "part_number": "CMSX16GX5M1A4800C40",
+   "upc": "840006662235",
+   "launch_price": null,
+   "week_low": 219.99,
+   "week_high": 219.99,
+   "week_open": 219.99,
+   "week_close": 219.99,
+   "typical_price_end": 251.99,
+   "prev_week_close": 199.99,
+   "change_vs_prev_week_pct": 10.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Best Buy",
+   "url": "https://rams.live/memory/corsair-vengeance-16gb-ddr5-4800-cl40-so-dimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 219.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 219.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 219.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 219.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 219.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 219.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 219.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 74,
+   "product_id": 21720,
+   "name": "PNY XLR8 16GB (2x8GB) DDR4-3200 CL16",
+   "maker": "PNY",
+   "model": "XLR8",
+   "category": "ram",
+   "part_number": "MD16GK2D4320016LP-V1",
+   "upc": "751492650166",
+   "launch_price": null,
+   "week_low": 129.99,
+   "week_high": 129.99,
+   "week_open": 129.99,
+   "week_close": 129.99,
+   "typical_price_end": 129.99,
+   "prev_week_close": 129.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://rams.live/memory/pny-xlr8-16gb-2x8gb-ddr4-3200-cl16",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 129.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 129.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 129.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 129.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 129.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 129.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 129.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 75,
+   "product_id": 2554,
+   "name": "Kingston Fury Renegade Pro 128GB (4x32GB) DDR5-5600 CL28 ECC RDIMM",
+   "maker": "Kingston",
+   "model": "FURY Renegade Pro",
+   "category": "ram",
+   "part_number": "KF556R28RBE2K4-128",
+   "upc": "740617342161",
+   "launch_price": null,
+   "week_low": 4299.99,
+   "week_high": 4599.99,
+   "week_open": 4299.99,
+   "week_close": 4599.99,
+   "typical_price_end": 4599.99,
+   "prev_week_close": 4299.99,
+   "change_vs_prev_week_pct": 7.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/kingston-fury-renegade-pro-128gb-4x32gb-ddr5-5600-cl28-ecc-rdimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 4299.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-20",
+     "low": 4599.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-21",
+     "low": 4599.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-22",
+     "low": 4599.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-23",
+     "low": 4599.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-24",
+     "low": 4599.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-25",
+     "low": 4599.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 76,
+   "product_id": 2702,
+   "name": "Patriot Viper Venom 16GB DDR5-6000 CL30",
+   "maker": "Patriot",
+   "model": "Viper Venom",
+   "category": "ram",
+   "part_number": "PVV516G60C30",
+   "upc": "4711378429183",
+   "launch_price": null,
+   "week_low": 269.99,
+   "week_high": 269.99,
+   "week_open": 269.99,
+   "week_close": 269.99,
+   "typical_price_end": 269.99,
+   "prev_week_close": 269.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/patriot-viper-venom-16gb-ddr5-6000-cl30",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 269.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-20",
+     "low": 269.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-21",
+     "low": 269.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-22",
+     "low": 269.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-23",
+     "low": 269.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-24",
+     "low": 269.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-25",
+     "low": 269.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 77,
+   "product_id": 2724,
+   "name": "Corsair VENGEANCE RGB 32GB (2x16GB) DDR5-6000 CL36",
+   "maker": "Corsair",
+   "model": "VENGEANCE RGB",
+   "category": "ram",
+   "part_number": "CMH32GX5M2M6000Z36",
+   "upc": "840440494881",
+   "launch_price": null,
+   "week_low": 489.99,
+   "week_high": 499.99,
+   "week_open": 489.99,
+   "week_close": 499.99,
+   "typical_price_end": 499.99,
+   "prev_week_close": 489.99,
+   "change_vs_prev_week_pct": 2.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/corsair-vengeance-rgb-32gb-2x16gb-ddr5-6000-cl36",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 489.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-20",
+     "low": 489.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-21",
+     "low": 489.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-22",
+     "low": 499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-23",
+     "low": 499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-24",
+     "low": 499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-25",
+     "low": 499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 78,
+   "product_id": 2749,
+   "name": "Crucial Pro Overclocking 32GB (2x16GB) DDR5-6000 CL36 Black",
+   "maker": "Crucial",
+   "model": "Pro Overclocking",
+   "category": "ram",
+   "part_number": "CP2K16G60C36U5B",
+   "upc": "649528941596",
+   "launch_price": null,
+   "week_low": 399.99,
+   "week_high": 399.99,
+   "week_open": 399.99,
+   "week_close": 399.99,
+   "typical_price_end": 399.99,
+   "prev_week_close": 399.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 2,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/crucial-pro-overclocking-32gb-2x16gb-ddr5-6000-cl36-2",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-20",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-21",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-22",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 3
+    },
+    {
+     "date": "2026-10-23",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 2
+    },
+    {
+     "date": "2026-10-24",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-25",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 2
+    }
+   ]
+  },
+  {
+   "rank": 79,
+   "product_id": 2755,
+   "name": "G.SKILL Ripjaws S5 32GB (2x16GB) DDR5-6000 CL36",
+   "maker": "G.SKILL",
+   "model": "Ripjaws S5",
+   "category": "ram",
+   "part_number": "F5-6000J3636F16GX2-RS5K",
+   "upc": "848354041481",
+   "launch_price": null,
+   "week_low": 479.99,
+   "week_high": 489.99,
+   "week_open": 479.99,
+   "week_close": 489.99,
+   "typical_price_end": 489.99,
+   "prev_week_close": 479.99,
+   "change_vs_prev_week_pct": 2.1,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/gskill-ripjaws-s5-32gb-2x16gb-ddr5-6000-cl36",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 479.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-20",
+     "low": 479.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-21",
+     "low": 479.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-22",
+     "low": 489.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-23",
+     "low": 489.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-24",
+     "low": 489.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-25",
+     "low": 489.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 80,
+   "product_id": 2766,
+   "name": "TEAMGROUP T-FORCE DELTA RGB 32GB (2x16GB) DDR5-6000 CL30 Black",
+   "maker": "TEAMGROUP",
+   "model": "T-Force Delta RGB",
+   "category": "ram",
+   "part_number": "FF3D532G6000HC",
+   "upc": "765441661677",
+   "launch_price": null,
+   "week_low": 599.99,
+   "week_high": 599.99,
+   "week_open": 599.99,
+   "week_close": 599.99,
+   "typical_price_end": 599.99,
+   "prev_week_close": 599.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/teamgroup-t-force-delta-rgb-32gb-2x16gb-ddr5-6000-cl30",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 599.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-20",
+     "low": 599.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-21",
+     "low": 599.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-22",
+     "low": 599.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-23",
+     "low": 599.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-24",
+     "low": 599.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-25",
+     "low": 599.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 81,
+   "product_id": 3710,
+   "name": "Corsair Vengeance 32GB (2x16GB) DDR5-6000 CL36 Black XMP (CMK32GX5M2E6000C36)",
+   "maker": "Corsair",
+   "model": "VENGEANCE",
+   "category": "ram",
+   "part_number": "CMK32GX5M2E6000C36",
+   "upc": "840006666141",
+   "launch_price": null,
+   "week_low": 499.99,
+   "week_high": 499.99,
+   "week_open": 499.99,
+   "week_close": 499.99,
+   "typical_price_end": 499.99,
+   "prev_week_close": 489.99,
+   "change_vs_prev_week_pct": 2.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/corsair-vengeance-32gb-2x16gb-ddr5-6000-cl36-4",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 82,
+   "product_id": 3845,
+   "name": "Crucial 32GB (2x16GB) DDR4-3200 CL22 SO-DIMM (CT2K16G4SFRA32A)",
+   "maker": "Crucial",
+   "model": null,
+   "category": "ram",
+   "part_number": "CT2K16G4SFRA32A",
+   "upc": "649528903617",
+   "launch_price": null,
+   "week_low": 214.99,
+   "week_high": 224.99,
+   "week_open": 214.99,
+   "week_close": 224.99,
+   "typical_price_end": 249.99,
+   "prev_week_close": 214.99,
+   "change_vs_prev_week_pct": 4.7,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 15,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://rams.live/memory/crucial-32gb-2x16gb-ddr4-3200-cl22-so-dimm-ct2k16g4sfra32a",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 214.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-20",
+     "low": 214.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-21",
+     "low": 214.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 17
+    },
+    {
+     "date": "2026-10-22",
+     "low": 224.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 17
+    },
+    {
+     "date": "2026-10-23",
+     "low": 224.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 17
+    },
+    {
+     "date": "2026-10-24",
+     "low": 224.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 17
+    },
+    {
+     "date": "2026-10-25",
+     "low": 224.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 15
+    }
+   ]
+  },
+  {
+   "rank": 83,
+   "product_id": 3869,
+   "name": "Corsair 16GB (2x8GB) DDR5-4800 CL40 SO-DIMM (CMSX16GX5M2A480)",
+   "maker": "Corsair",
+   "model": null,
+   "category": "ram",
+   "part_number": "CMSX16GX5M2A4800C40",
+   "upc": "840006662006",
+   "launch_price": null,
+   "week_low": 234.99,
+   "week_high": 234.99,
+   "week_open": 234.99,
+   "week_close": 234.99,
+   "typical_price_end": 264.99,
+   "prev_week_close": 234.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 6,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/corsair-16gb-2x8gb-ddr5-4800-cl40-so-dimm-cmsx16gx5m2a480",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 234.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 10
+    },
+    {
+     "date": "2026-10-20",
+     "low": 234.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 10
+    },
+    {
+     "date": "2026-10-21",
+     "low": 234.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 10
+    },
+    {
+     "date": "2026-10-22",
+     "low": 234.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-23",
+     "low": 234.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-24",
+     "low": 234.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 7
+    },
+    {
+     "date": "2026-10-25",
+     "low": 234.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 6
+    }
+   ]
+  },
+  {
+   "rank": 84,
+   "product_id": 3885,
+   "name": "G.SKILL G5P 128GB (4x32GB) DDR5-6400 CL32 ECC RDIMM",
+   "maker": "G.SKILL",
+   "model": "G5P",
+   "category": "ram",
+   "part_number": "F5-6400R3239G32GQ4-G5P",
+   "upc": "848354051671",
+   "launch_price": null,
+   "week_low": 4299.99,
+   "week_high": 4699.99,
+   "week_open": 4299.99,
+   "week_close": 4699.99,
+   "typical_price_end": 4699.99,
+   "prev_week_close": 4299.99,
+   "change_vs_prev_week_pct": 9.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/gskill-g5p-128gb-4x32gb-ddr5-6400-cl32-rdimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 4299.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-20",
+     "low": 4299.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-21",
+     "low": 4299.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-22",
+     "low": 4699.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-23",
+     "low": 4699.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-24",
+     "low": 4699.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-25",
+     "low": 4699.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 85,
+   "product_id": 3896,
+   "name": "Kingston FURY Renegade Pro 128GB (4x32GB) DDR5-6400 CL32 Black EXPO ECC RDIMM",
+   "maker": "Kingston",
+   "model": "FURY Renegade Pro",
+   "category": "ram",
+   "part_number": "KF564R32RBE2K4-128",
+   "upc": "740617342130",
+   "launch_price": null,
+   "week_low": 4799.99,
+   "week_high": 4999.99,
+   "week_open": 4799.99,
+   "week_close": 4999.99,
+   "typical_price_end": 4999.99,
+   "prev_week_close": 4799.99,
+   "change_vs_prev_week_pct": 4.2,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/kingston-fury-renegade-pro-128gb-4x32gb-ddr5-6400-cl32-rdimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 4799.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-20",
+     "low": 4999.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-21",
+     "low": 4999.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-22",
+     "low": 4999.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-23",
+     "low": 4999.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-24",
+     "low": 4999.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-25",
+     "low": 4999.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 86,
+   "product_id": 3905,
+   "name": "TEAMGROUP T-CREATE EXPERT 32GB (2x16GB) DDR5-6000 CL30 White",
+   "maker": "TEAMGROUP",
+   "model": "T-CREATE EXPERT",
+   "category": "ram",
+   "part_number": "CTCWD532G6000HC30DC01",
+   "upc": "765441766433",
+   "launch_price": null,
+   "week_low": 509.99,
+   "week_high": 569.99,
+   "week_open": 509.99,
+   "week_close": 569.99,
+   "typical_price_end": 569.99,
+   "prev_week_close": 509.99,
+   "change_vs_prev_week_pct": 11.8,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/teamgroup-t-create-expert-32gb-2x16gb-ddr5-6000-cl30-2",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 509.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-20",
+     "low": 509.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-21",
+     "low": 569.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-22",
+     "low": 569.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-23",
+     "low": 569.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-24",
+     "low": 569.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-25",
+     "low": 569.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 87,
+   "product_id": 4357,
+   "name": "KLEVV 64GB (2x32GB) DDR5-6000 CL30 (KD5BGUA80-60A300H)",
+   "maker": "KLEVV",
+   "model": "BOLT V",
+   "category": "ram",
+   "part_number": "KD5BGUA80-60A300H",
+   "upc": "4895194967736",
+   "launch_price": null,
+   "week_low": 929.99,
+   "week_high": 929.99,
+   "week_open": 929.99,
+   "week_close": 929.99,
+   "typical_price_end": 964.99,
+   "prev_week_close": 929.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 1,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/klevv-64gb-2x32gb-ddr5-6000-cl30-kd5bgua80-60a300h",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 929.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 2
+    },
+    {
+     "date": "2026-10-20",
+     "low": 929.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 2
+    },
+    {
+     "date": "2026-10-21",
+     "low": 929.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 2
+    },
+    {
+     "date": "2026-10-22",
+     "low": 929.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-23",
+     "low": 929.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-24",
+     "low": 929.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-25",
+     "low": 929.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 1
+    }
+   ]
+  },
+  {
+   "rank": 88,
+   "product_id": 5040,
+   "name": "G.SKILL G5P 128GB (4x32GB) DDR5-5600 CL28 ECC RDIMM",
+   "maker": "G.SKILL",
+   "model": "G5P",
+   "category": "ram",
+   "part_number": "F5-5600R2834F32GQ4-G5P",
+   "upc": "848354051664",
+   "launch_price": null,
+   "week_low": 3899.99,
+   "week_high": 3999.99,
+   "week_open": 3899.99,
+   "week_close": 3999.99,
+   "typical_price_end": 3999.99,
+   "prev_week_close": 3899.99,
+   "change_vs_prev_week_pct": 2.6,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/gskill-g5p-128gb-4x32gb-ddr5-5600-cl28-rdimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 3899.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-20",
+     "low": 3999.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-21",
+     "low": 3999.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-22",
+     "low": 3999.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-23",
+     "low": 3999.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-24",
+     "low": 3999.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-25",
+     "low": 3999.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 89,
+   "product_id": 6345,
+   "name": "TEAMGROUP T-CREATE EXPERT 64GB (2x32GB) DDR5-6000 CL34 Black",
+   "maker": "TEAMGROUP",
+   "model": "T-CREATE EXPERT",
+   "category": "ram",
+   "part_number": "CTCED564G6000HC34BDC01",
+   "upc": "765441664449",
+   "launch_price": null,
+   "week_low": 1199.99,
+   "week_high": 1199.99,
+   "week_open": 1199.99,
+   "week_close": 1199.99,
+   "typical_price_end": 1214.99,
+   "prev_week_close": 1199.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 25,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/teamgroup-t-create-expert-64gb-2x32gb-ddr5-6000-cl34-2",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 1199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-20",
+     "low": 1199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-21",
+     "low": 1199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-22",
+     "low": 1199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-23",
+     "low": 1199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-24",
+     "low": 1199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-25",
+     "low": 1199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 25
+    }
+   ]
+  },
+  {
+   "rank": 90,
+   "product_id": 9047,
+   "name": "Crucial 16GB (2x8GB) DDR3-1600 CL11 SO-DIMM (CT2KIT102464BF160B)",
+   "maker": "Crucial",
+   "model": null,
+   "category": "ram",
+   "part_number": "CT2KIT102464BF160B",
+   "upc": "649528755872",
+   "launch_price": null,
+   "week_low": 80.9,
+   "week_high": 82.17,
+   "week_open": 82.17,
+   "week_close": 81.54,
+   "typical_price_end": 81.54,
+   "prev_week_close": 82.17,
+   "change_vs_prev_week_pct": -0.8,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://rams.live/memory/crucial-16gb-2x8gb-ddr3-1600-cl11-so-dimm-ct2kit102464bf160b",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 82.17,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 82.17,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 81.6,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 80.91,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 80.9,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 80.9,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 81.54,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 91,
+   "product_id": 24386,
+   "name": "PNY XLR8 32GB (2x16GB) DDR4-3200 CL16 (MD32GK2D4320016LP-V1)",
+   "maker": "PNY",
+   "model": "XLR8",
+   "category": "ram",
+   "part_number": "MD32GK2D4320016LP-V1",
+   "upc": "751492650173",
+   "launch_price": null,
+   "week_low": 229.99,
+   "week_high": 229.99,
+   "week_open": 229.99,
+   "week_close": 229.99,
+   "typical_price_end": 229.99,
+   "prev_week_close": 229.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://rams.live/memory/pny-xlr8-32gb-2x16gb-ddr4-3200-cl16-2",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 229.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 229.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 229.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 229.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 229.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 229.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 229.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 92,
+   "product_id": 28607,
+   "name": "TEAMGROUP Vulcan 64GB (2x32GB) DDR5-6000 CL38",
+   "maker": "TEAMGROUP",
+   "model": null,
+   "category": "ram",
+   "part_number": "FLBD564G6000HC3",
+   "upc": "765441665163",
+   "launch_price": null,
+   "week_low": 799.99,
+   "week_high": 799.99,
+   "week_open": 799.99,
+   "week_close": 799.99,
+   "typical_price_end": 799.99,
+   "prev_week_close": 799.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 4,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/teamgroup-vulcan-64gb-2x32gb-ddr5-6000-cl38",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 799.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 13
+    },
+    {
+     "date": "2026-10-20",
+     "low": 799.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 13
+    },
+    {
+     "date": "2026-10-21",
+     "low": 799.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 10
+    },
+    {
+     "date": "2026-10-22",
+     "low": 799.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 7
+    },
+    {
+     "date": "2026-10-23",
+     "low": 799.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 6
+    },
+    {
+     "date": "2026-10-24",
+     "low": 799.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-25",
+     "low": 799.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 4
+    }
+   ]
+  },
+  {
+   "rank": 93,
+   "product_id": 3442,
+   "name": "Corsair Vengeance 32GB (2x16GB) DDR5-6000 CL38 Black XMP (CMK32GX5M2D6000C38)",
+   "maker": "Corsair",
+   "model": "VENGEANCE",
+   "category": "ram",
+   "part_number": "CMK32GX5M2D6000C38",
+   "upc": "840440438625",
+   "launch_price": null,
+   "week_low": 499.99,
+   "week_high": 499.99,
+   "week_open": 499.99,
+   "week_close": 499.99,
+   "typical_price_end": 577.99,
+   "prev_week_close": 499.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/corsair-vengeance-32gb-2x16gb-ddr5-6000-cl38-5",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 94,
+   "product_id": 3839,
+   "name": "Corsair Vengeance RGB 32GB (2x16GB) DDR5-6000 CL30 Black XMP",
+   "maker": "Corsair",
+   "model": "VENGEANCE RGB",
+   "category": "ram",
+   "part_number": "CMH32GX5M2B6000C30",
+   "upc": "840006671343",
+   "launch_price": null,
+   "week_low": 639.99,
+   "week_high": 639.99,
+   "week_open": 639.99,
+   "week_close": 639.99,
+   "typical_price_end": 648.99,
+   "prev_week_close": 559.99,
+   "change_vs_prev_week_pct": 14.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://rams.live/memory/corsair-vengeance-rgb-32gb-2x16gb-ddr5-6000-cl30",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 639.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 639.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 639.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 639.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 639.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 639.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 639.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 95,
+   "product_id": 4244,
+   "name": "TEAMGROUP T-Force Vulcan 32GB (2x16GB) DDR5-6000 CL38",
+   "maker": "TEAMGROUP",
+   "model": "T-Force Vulcan",
+   "category": "ram",
+   "part_number": "FLBD532G6000HC38ADC01",
+   "upc": "765441664043",
+   "launch_price": null,
+   "week_low": 429.99,
+   "week_high": 429.99,
+   "week_open": 429.99,
+   "week_close": 429.99,
+   "typical_price_end": 484.99,
+   "prev_week_close": 429.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 25,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/teamgroup-t-force-vulcan-32gb-2x16gb-ddr5-6000-cl38",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 429.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-20",
+     "low": 429.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-21",
+     "low": 429.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-22",
+     "low": 429.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-23",
+     "low": 429.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-24",
+     "low": 429.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-25",
+     "low": 429.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 25
+    }
+   ]
+  },
+  {
+   "rank": 96,
+   "product_id": 5067,
+   "name": "Patriot Viper Steel 32GB (2x16GB) DDR4-3600 CL18 Black",
+   "maker": "Patriot",
+   "model": "Viper Steel",
+   "category": "ram",
+   "part_number": "PVS432G360C8K",
+   "upc": "814914027349",
+   "launch_price": null,
+   "week_low": 324.99,
+   "week_high": 324.99,
+   "week_open": 324.99,
+   "week_close": 324.99,
+   "typical_price_end": 324.99,
+   "prev_week_close": 324.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 21,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/patriot-viper-steel-32gb-2x16gb-ddr4-3600-cl18",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 324.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-20",
+     "low": 324.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-21",
+     "low": 324.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-22",
+     "low": 324.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-23",
+     "low": 324.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-24",
+     "low": 324.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-25",
+     "low": 324.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 21
+    }
+   ]
+  },
+  {
+   "rank": 97,
+   "product_id": 10179,
+   "name": "Synology 4GB DDR4-2666 SO-DIMM (D4NESO26664G)",
+   "maker": "Synology",
+   "model": null,
+   "category": "ram",
+   "part_number": "D4NESO-2666-4G",
+   "upc": "846504003662",
+   "launch_price": null,
+   "week_low": 229.99,
+   "week_high": 229.99,
+   "week_open": 229.99,
+   "week_close": 229.99,
+   "typical_price_end": 239.99,
+   "prev_week_close": 229.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://rams.live/memory/synology-inc-4gb-ddr4-2666-so-dimm-d4neso26664g",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 229.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 229.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 229.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 229.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 229.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 229.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 229.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 98,
+   "product_id": 11526,
+   "name": "Synology 16GB DDR4-2666 ECC SO-DIMM (D4ECSO-2666-16G)",
+   "maker": "Synology",
+   "model": null,
+   "category": "ram",
+   "part_number": "D4ECSO-2666-16G",
+   "upc": "846504003679",
+   "launch_price": null,
+   "week_low": 864.99,
+   "week_high": 1054.99,
+   "week_open": 864.99,
+   "week_close": 1054.99,
+   "typical_price_end": 1084.99,
+   "prev_week_close": 864.99,
+   "change_vs_prev_week_pct": 22.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://rams.live/memory/synology-inc-16gb-ddr4-2666-d4ecso-2666-16g",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 864.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 1054.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 1054.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 1054.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 1054.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 1054.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 1054.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 99,
+   "product_id": 13911,
+   "name": "Corsair VENGEANCE 8GB DDR5-4800 CL40 SO-DIMM",
+   "maker": "Corsair",
+   "model": "VENGEANCE",
+   "category": "ram",
+   "part_number": "CMSX8GX5M1A4800C40",
+   "upc": "840006661320",
+   "launch_price": null,
+   "week_low": 132.99,
+   "week_high": 136.99,
+   "week_open": 132.99,
+   "week_close": 132.99,
+   "typical_price_end": 136.99,
+   "prev_week_close": 132.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 6,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Best Buy",
+   "url": "https://rams.live/memory/corsair-vengeance-8gb-ddr5-4800-cl40-so-dimm",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": null,
+     "low_store": null,
+     "retailers_in_stock": 0,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-20",
+     "low": 132.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-21",
+     "low": 136.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-22",
+     "low": 136.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-23",
+     "low": 132.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-24",
+     "low": 132.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-25",
+     "low": 132.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 100,
+   "product_id": 28606,
+   "name": "TEAMGROUP T-FORCE Delta RGB 32GB (2x16GB) DDR4-3200 CL16 White",
+   "maker": "TEAMGROUP",
+   "model": "T-Force Delta RGB",
+   "category": "ram",
+   "part_number": "TF4D432G3200HC1",
+   "upc": "765441654570",
+   "launch_price": null,
+   "week_low": 259.99,
+   "week_high": 259.99,
+   "week_open": 259.99,
+   "week_close": 259.99,
+   "typical_price_end": 259.99,
+   "prev_week_close": 259.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 21,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://rams.live/memory/teamgroup-t-force-delta-rgb-32gb-2x16gb-ddr4-3200-cl16-2",
+   "daily": [
+    {
+     "date": "2026-10-19",
+     "low": 259.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-20",
+     "low": 259.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-21",
+     "low": 259.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-22",
+     "low": 259.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-23",
+     "low": 259.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-24",
+     "low": 259.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-25",
+     "low": 259.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 21
+    }
+   ]
+  }
+ ],
+ "sizes": [
+  {
+   "name": "32GB DDR5",
+   "launch_price": null,
+   "products_tracked": 651,
+   "products_in_stock_end": 343,
+   "week_low": 229.99,
+   "week_high": 229.99,
+   "week_open": 229.99,
+   "week_close": 229.99,
+   "typical_price_end": 419.99,
+   "prev_week_close": 229.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 34,
+   "lowest_store_end": "Corsair Store"
+  },
+  {
+   "name": "64GB DDR5",
+   "launch_price": null,
+   "products_tracked": 287,
+   "products_in_stock_end": 136,
+   "week_low": 799.99,
+   "week_high": 799.99,
+   "week_open": 799.99,
+   "week_close": 799.99,
+   "typical_price_end": 993.99,
+   "prev_week_close": 799.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 34,
+   "lowest_store_end": "Micro Center (in store)"
+  },
+  {
+   "name": "16GB DDR4",
+   "launch_price": null,
+   "products_tracked": 683,
+   "products_in_stock_end": 91,
+   "week_low": 38.49,
+   "week_high": 38.49,
+   "week_open": 38.49,
+   "week_close": 38.49,
+   "typical_price_end": 139.99,
+   "prev_week_close": 38.49,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 9,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Micro Center (in store)"
+  },
+  {
+   "name": "32GB DDR4",
+   "launch_price": null,
+   "products_tracked": 418,
+   "products_in_stock_end": 87,
+   "week_low": 184.0,
+   "week_high": 189.99,
+   "week_open": 189.99,
+   "week_close": 184.0,
+   "typical_price_end": 249.99,
+   "prev_week_close": 189.99,
+   "change_vs_prev_week_pct": -3.2,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 9,
+   "shops_in_stock_end": 34,
+   "lowest_store_end": "B&H Photo"
+  },
+  {
+   "name": "16GB DDR5",
+   "launch_price": null,
+   "products_tracked": 212,
+   "products_in_stock_end": 67,
+   "week_low": 199.99,
+   "week_high": 239.99,
+   "week_open": 199.99,
+   "week_close": 239.99,
+   "typical_price_end": 259.99,
+   "prev_week_close": 199.99,
+   "change_vs_prev_week_pct": 20.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "B&H Photo"
+  },
+  {
+   "name": "16GB DDR4 laptop",
+   "launch_price": null,
+   "products_tracked": 408,
+   "products_in_stock_end": 44,
+   "week_low": 99.99,
+   "week_high": 99.99,
+   "week_open": 99.99,
+   "week_close": 99.99,
+   "typical_price_end": 134.99,
+   "prev_week_close": 99.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 8,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "B&H Photo"
+  },
+  {
+   "name": "48GB DDR5",
+   "launch_price": null,
+   "products_tracked": 102,
+   "products_in_stock_end": 38,
+   "week_low": 549.99,
+   "week_high": 599.99,
+   "week_open": 599.99,
+   "week_close": 599.99,
+   "typical_price_end": 674.99,
+   "prev_week_close": 599.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Corsair Store"
+  },
+  {
+   "name": "32GB DDR5 laptop",
+   "launch_price": null,
+   "products_tracked": 155,
+   "products_in_stock_end": 22,
+   "week_low": 429.99,
+   "week_high": 429.99,
+   "week_open": 429.99,
+   "week_close": 429.99,
+   "typical_price_end": 475.99,
+   "prev_week_close": 399.99,
+   "change_vs_prev_week_pct": 7.5,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 17,
+   "lowest_store_end": "Central Computers (in store)"
+  },
+  {
+   "name": "64GB DDR4",
+   "launch_price": null,
+   "products_tracked": 160,
+   "products_in_stock_end": 18,
+   "week_low": 490.0,
+   "week_high": 499.99,
+   "week_open": 499.99,
+   "week_close": 490.0,
+   "typical_price_end": 599.99,
+   "prev_week_close": 489.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 34,
+   "lowest_store_end": "B&H Photo"
+  },
+  {
+   "name": "96GB DDR5",
+   "launch_price": null,
+   "products_tracked": 82,
+   "products_in_stock_end": 13,
+   "week_low": 1419.99,
+   "week_high": 1492.99,
+   "week_open": 1437.99,
+   "week_close": 1419.99,
+   "typical_price_end": 1492.99,
+   "prev_week_close": 1419.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 1,
+   "lowest_store_end": "Newegg"
+  }
+ ]
+}
