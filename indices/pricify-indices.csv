@@ -1,0 +1,176 @@
+index,name,unit,day,value,level,measured
+cpu,Pricify CPU Index,,2026-10-01,100.0000,,86
+cpu,Pricify CPU Index,,2026-10-02,99.9548,,87
+cpu,Pricify CPU Index,,2026-10-03,99.8294,,86
+cpu,Pricify CPU Index,,2026-10-04,99.8962,,89
+cpu,Pricify CPU Index,,2026-10-05,99.0164,,88
+cpu,Pricify CPU Index,,2026-10-06,97.5431,,88
+cpu,Pricify CPU Index,,2026-10-07,97.5504,,90
+cpu,Pricify CPU Index,,2026-10-08,97.0244,,91
+cpu,Pricify CPU Index,,2026-10-09,97.5556,,90
+cpu,Pricify CPU Index,,2026-10-10,97.3647,,90
+cpu,Pricify CPU Index,,2026-10-11,97.6547,,89
+cpu,Pricify CPU Index,,2026-10-12,97.7701,,88
+cpu,Pricify CPU Index,,2026-10-13,97.8473,,88
+cpu,Pricify CPU Index,,2026-10-14,97.8774,,88
+cpu,Pricify CPU Index,,2026-10-15,97.8763,,87
+cpu,Pricify CPU Index,,2026-10-16,98.0393,,89
+cpu,Pricify CPU Index,,2026-10-17,97.9142,,88
+cpu,Pricify CPU Index,,2026-10-18,98.0728,,87
+cpu,Pricify CPU Index,,2026-10-19,97.7556,,87
+cpu,Pricify CPU Index,,2026-10-20,97.5649,,88
+cpu,Pricify CPU Index,,2026-10-21,97.5401,,87
+cpu,Pricify CPU Index,,2026-10-22,97.6056,,87
+cpu,Pricify CPU Index,,2026-10-23,97.5808,,87
+cpu,Pricify CPU Index,,2026-10-24,97.6329,,89
+cpu,Pricify CPU Index,,2026-10-25,97.6338,,89
+ddr4,DDR4 memory,$/GB,2026-10-01,100.0000,9.7488,345
+ddr4,DDR4 memory,$/GB,2026-10-02,99.9143,9.7488,347
+ddr4,DDR4 memory,$/GB,2026-10-03,99.9685,9.7488,348
+ddr4,DDR4 memory,$/GB,2026-10-04,101.0394,9.8738,325
+ddr4,DDR4 memory,$/GB,2026-10-05,101.0207,9.8744,325
+ddr4,DDR4 memory,$/GB,2026-10-06,98.9147,9.7488,327
+ddr4,DDR4 memory,$/GB,2026-10-07,98.9217,9.7494,325
+ddr4,DDR4 memory,$/GB,2026-10-08,98.8894,9.7809,327
+ddr4,DDR4 memory,$/GB,2026-10-09,99.0624,9.7809,325
+ddr4,DDR4 memory,$/GB,2026-10-10,99.0671,9.7809,325
+ddr4,DDR4 memory,$/GB,2026-10-11,99.0505,9.8277,324
+ddr4,DDR4 memory,$/GB,2026-10-12,99.0554,9.7652,324
+ddr4,DDR4 memory,$/GB,2026-10-13,99.0032,9.8119,323
+ddr4,DDR4 memory,$/GB,2026-10-14,98.9497,9.7964,318
+ddr4,DDR4 memory,$/GB,2026-10-15,99.0459,9.7964,320
+ddr4,DDR4 memory,$/GB,2026-10-16,98.8655,9.7652,320
+ddr4,DDR4 memory,$/GB,2026-10-17,98.9231,9.8277,322
+ddr4,DDR4 memory,$/GB,2026-10-18,99.0742,9.8436,321
+ddr4,DDR4 memory,$/GB,2026-10-19,99.1986,9.7652,322
+ddr4,DDR4 memory,$/GB,2026-10-20,101.0394,9.8744,319
+ddr4,DDR4 memory,$/GB,2026-10-21,100.8798,9.8744,318
+ddr4,DDR4 memory,$/GB,2026-10-22,100.9214,9.8744,316
+ddr4,DDR4 memory,$/GB,2026-10-23,100.9239,9.8744,317
+ddr4,DDR4 memory,$/GB,2026-10-24,100.8785,9.8745,314
+ddr4,DDR4 memory,$/GB,2026-10-25,100.9790,9.8747,314
+ddr5,DDR5 memory,$/GB,2026-10-01,100.0000,17.0311,693
+ddr5,DDR5 memory,$/GB,2026-10-02,99.9624,17.1872,694
+ddr5,DDR5 memory,$/GB,2026-10-03,100.0128,17.1872,696
+ddr5,DDR5 memory,$/GB,2026-10-04,101.0871,17.4994,641
+ddr5,DDR5 memory,$/GB,2026-10-05,101.3080,17.4997,648
+ddr5,DDR5 memory,$/GB,2026-10-06,100.4464,17.1873,659
+ddr5,DDR5 memory,$/GB,2026-10-07,100.4354,17.2082,652
+ddr5,DDR5 memory,$/GB,2026-10-08,100.5443,17.4684,661
+ddr5,DDR5 memory,$/GB,2026-10-09,100.5655,17.4684,655
+ddr5,DDR5 memory,$/GB,2026-10-10,100.5128,17.4836,646
+ddr5,DDR5 memory,$/GB,2026-10-11,100.5313,17.4836,642
+ddr5,DDR5 memory,$/GB,2026-10-12,100.9892,17.4995,648
+ddr5,DDR5 memory,$/GB,2026-10-13,101.0251,17.4995,646
+ddr5,DDR5 memory,$/GB,2026-10-14,101.1707,17.4997,644
+ddr5,DDR5 memory,$/GB,2026-10-15,101.1930,17.4994,657
+ddr5,DDR5 memory,$/GB,2026-10-16,101.2307,17.4994,659
+ddr5,DDR5 memory,$/GB,2026-10-17,101.2693,17.4994,650
+ddr5,DDR5 memory,$/GB,2026-10-18,101.2747,17.4994,647
+ddr5,DDR5 memory,$/GB,2026-10-19,101.6479,17.4997,643
+ddr5,DDR5 memory,$/GB,2026-10-20,102.6665,17.8122,641
+ddr5,DDR5 memory,$/GB,2026-10-21,102.9376,17.8122,647
+ddr5,DDR5 memory,$/GB,2026-10-22,103.0384,17.7809,664
+ddr5,DDR5 memory,$/GB,2026-10-23,103.1037,17.7497,674
+ddr5,DDR5 memory,$/GB,2026-10-24,103.1151,17.7497,671
+ddr5,DDR5 memory,$/GB,2026-10-25,103.0475,17.7497,663
+gpu,Pricify GPU Index,,2026-10-01,100.0000,,253
+gpu,Pricify GPU Index,,2026-10-02,100.1247,,258
+gpu,Pricify GPU Index,,2026-10-03,100.1220,,264
+gpu,Pricify GPU Index,,2026-10-04,100.0562,,264
+gpu,Pricify GPU Index,,2026-10-05,100.5609,,265
+gpu,Pricify GPU Index,,2026-10-06,100.3036,,267
+gpu,Pricify GPU Index,,2026-10-07,100.6092,,264
+gpu,Pricify GPU Index,,2026-10-08,100.9668,,272
+gpu,Pricify GPU Index,,2026-10-09,101.2209,,262
+gpu,Pricify GPU Index,,2026-10-10,101.4030,,257
+gpu,Pricify GPU Index,,2026-10-11,101.6011,,256
+gpu,Pricify GPU Index,,2026-10-12,101.7253,,252
+gpu,Pricify GPU Index,,2026-10-13,101.8600,,251
+gpu,Pricify GPU Index,,2026-10-14,101.9599,,249
+gpu,Pricify GPU Index,,2026-10-15,101.7729,,250
+gpu,Pricify GPU Index,,2026-10-16,102.1018,,251
+gpu,Pricify GPU Index,,2026-10-17,102.1504,,248
+gpu,Pricify GPU Index,,2026-10-18,102.1438,,248
+gpu,Pricify GPU Index,,2026-10-19,102.2752,,249
+gpu,Pricify GPU Index,,2026-10-20,102.4613,,248
+gpu,Pricify GPU Index,,2026-10-21,102.6259,,250
+gpu,Pricify GPU Index,,2026-10-22,102.7247,,251
+gpu,Pricify GPU Index,,2026-10-23,103.1456,,247
+gpu,Pricify GPU Index,,2026-10-24,103.6941,,246
+gpu,Pricify GPU Index,,2026-10-25,103.5625,,242
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-01,,30.2154,15
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-02,,24.4940,15
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-03,,30.2154,15
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-04,,30.2154,15
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-05,,30.2154,15
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-06,,32.4155,15
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-07,,30.2154,15
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-08,,32.4155,15
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-09,,30.4314,15
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-10,,30.4314,15
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-11,,30.4314,15
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-12,,30.4314,15
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-13,,35.9930,14
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-14,,38.4317,15
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-15,,38.4317,15
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-16,,35.9930,14
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-17,,35.4236,14
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-18,,38.4317,15
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-19,,37.7067,14
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-20,,37.7067,14
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-21,,37.7067,14
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-22,,33.5543,15
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-23,,33.5543,15
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-24,,33.5543,15
+gpu-launch,Graphics cards over launch price,% over launch price,2026-10-25,,33.5543,15
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-01,100.0000,43.8591,78
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-02,99.9829,43.6447,80
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-03,100.0785,43.5707,79
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-04,100.2508,43.7188,79
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-05,100.9892,43.8741,80
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-06,101.0408,44.0619,79
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-07,101.0769,44.1139,80
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-08,102.0804,44.2850,79
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-09,102.0804,44.2920,78
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-10,101.9221,44.2920,78
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-11,101.9055,44.2920,78
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-12,102.0076,44.2920,78
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-13,101.9122,44.2920,78
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-14,101.8315,44.5929,78
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-15,101.7532,44.9541,77
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-16,102.4594,44.9992,79
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-17,102.5073,45.0308,78
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-18,102.6311,44.9983,78
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-19,102.9239,44.9983,78
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-20,103.0268,46.2881,76
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-21,103.1402,45.3952,76
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-22,102.6222,44.9975,75
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-23,102.7096,44.9983,74
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-24,102.7066,44.9992,75
+hdd,Hard drives (desktop and NAS),$/TB,2026-10-25,102.4174,45.1231,74
+nvme,NVMe SSDs,$/TB,2026-10-01,100.0000,194.4950,347
+nvme,NVMe SSDs,$/TB,2026-10-02,100.0730,194.9950,353
+nvme,NVMe SSDs,$/TB,2026-10-03,99.7728,194.9950,359
+nvme,NVMe SSDs,$/TB,2026-10-04,102.1305,199.9900,343
+nvme,NVMe SSDs,$/TB,2026-10-05,101.4486,199.9900,346
+nvme,NVMe SSDs,$/TB,2026-10-06,100.3785,195.5000,347
+nvme,NVMe SSDs,$/TB,2026-10-07,100.3194,195.2930,345
+nvme,NVMe SSDs,$/TB,2026-10-08,100.8138,199.3500,342
+nvme,NVMe SSDs,$/TB,2026-10-09,100.8170,199.8400,344
+nvme,NVMe SSDs,$/TB,2026-10-10,100.7785,199.9800,343
+nvme,NVMe SSDs,$/TB,2026-10-11,100.6478,199.9800,342
+nvme,NVMe SSDs,$/TB,2026-10-12,100.4383,198.4750,342
+nvme,NVMe SSDs,$/TB,2026-10-13,100.4132,199.5000,341
+nvme,NVMe SSDs,$/TB,2026-10-14,100.2354,197.5250,340
+nvme,NVMe SSDs,$/TB,2026-10-15,100.2328,196.7300,338
+nvme,NVMe SSDs,$/TB,2026-10-16,99.9960,195.1465,338
+nvme,NVMe SSDs,$/TB,2026-10-17,100.2611,195.0000,339
+nvme,NVMe SSDs,$/TB,2026-10-18,100.2642,195.2930,336
+nvme,NVMe SSDs,$/TB,2026-10-19,100.3571,194.9950,346
+nvme,NVMe SSDs,$/TB,2026-10-20,100.8342,197.4975,343
+nvme,NVMe SSDs,$/TB,2026-10-21,100.6749,197.4975,341
+nvme,NVMe SSDs,$/TB,2026-10-22,100.6577,199.0000,343
+nvme,NVMe SSDs,$/TB,2026-10-23,100.6638,196.9900,343
+nvme,NVMe SSDs,$/TB,2026-10-24,100.7282,199.0000,341
+nvme,NVMe SSDs,$/TB,2026-10-25,100.9761,199.9775,342
