@@ -1,0 +1,7552 @@
+{
+ "dataset": "Pricify weekly PC hardware prices",
+ "site": "ssd.live",
+ "week": "2026-W44",
+ "from": "2026-10-26",
+ "to": "2026-11-01",
+ "timezone": "America/New_York",
+ "currency": "USD",
+ "license": "CC BY 4.0",
+ "attribution": "Pricify (pricify.ai)",
+ "generated": "2026-11-03T04:32:43Z",
+ "products": [
+  {
+   "rank": 1,
+   "product_id": 2007,
+   "name": "KLEVV CRAS C925G 1TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "KLEVV",
+   "model": "CRAS C925G",
+   "category": "ssd",
+   "part_number": "K01TBM2SP0-25G",
+   "upc": "4895194901839",
+   "launch_price": null,
+   "week_low": 189.99,
+   "week_high": 199.99,
+   "week_open": 199.99,
+   "week_close": 189.99,
+   "typical_price_end": 189.99,
+   "prev_week_close": 199.99,
+   "change_vs_prev_week_pct": -5.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://ssd.live/ssds/klevv-cras-c925g-1tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 199.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 199.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 199.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 199.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 189.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 189.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 189.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "product_id": 1949,
+   "name": "SanDisk Portable Drive 1TB SSD",
+   "maker": "SanDisk",
+   "model": null,
+   "category": "ssd",
+   "part_number": "SDSSDE10-1T00-G25",
+   "upc": "619659224530",
+   "launch_price": null,
+   "week_low": 123.51,
+   "week_high": 128.99,
+   "week_open": 128.99,
+   "week_close": 128.99,
+   "typical_price_end": 129.99,
+   "prev_week_close": 128.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 8,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Best Buy",
+   "url": "https://ssd.live/ssds/sandisk-drive-1tb-portable-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 128.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-27",
+     "low": 128.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-28",
+     "low": 128.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-29",
+     "low": 123.51,
+     "low_store": "Amazon",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-30",
+     "low": 128.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-31",
+     "low": 128.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-11-01",
+     "low": 128.99,
+     "low_store": "Best Buy",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 35
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "product_id": 5387,
+   "name": "Samsung 990 PRO 2TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "Samsung",
+   "model": "990 PRO",
+   "category": "ssd",
+   "part_number": "MZ-V9P2T0B/AM",
+   "upc": "887276657011",
+   "launch_price": null,
+   "week_low": 389.99,
+   "week_high": 389.99,
+   "week_open": 389.99,
+   "week_close": 389.99,
+   "typical_price_end": 409.99,
+   "prev_week_close": 389.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://ssd.live/ssds/samsung-990-pro-2tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 389.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-27",
+     "low": 389.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-28",
+     "low": 389.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-29",
+     "low": 389.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-30",
+     "low": 389.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-31",
+     "low": 389.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-11-01",
+     "low": 389.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "product_id": 4437,
+   "name": "Samsung 9100 PRO 2TB M.2 2280 NVMe PCIe 5.0 (MZ-VAP2T0B/AM)",
+   "maker": "Samsung",
+   "model": "9100 PRO",
+   "category": "ssd",
+   "part_number": "MZ-VAP2T0B/AM",
+   "upc": "887276904900",
+   "launch_price": null,
+   "week_low": 389.67,
+   "week_high": 399.99,
+   "week_open": 399.99,
+   "week_close": 399.95,
+   "typical_price_end": 414.495,
+   "prev_week_close": 399.99,
+   "change_vs_prev_week_pct": -0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/samsung-9100-pro-2tb-m2-2280-nvme-pcie-50-2",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 399.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-27",
+     "low": 399.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-28",
+     "low": 399.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-29",
+     "low": 399.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-30",
+     "low": 392.19,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-31",
+     "low": 389.67,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-11-01",
+     "low": 399.95,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "product_id": 5365,
+   "name": "Lexar NM790 4TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "Lexar",
+   "model": "NM790",
+   "category": "ssd",
+   "part_number": "LNM790X004TRNNN",
+   "upc": "843367131440",
+   "launch_price": null,
+   "week_low": 579.99,
+   "week_high": 579.99,
+   "week_open": 579.99,
+   "week_close": 579.99,
+   "typical_price_end": 634.99,
+   "prev_week_close": 579.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 13,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://ssd.live/ssds/lexar-nm790-4tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 579.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-27",
+     "low": 579.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-28",
+     "low": 579.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-29",
+     "low": 579.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 19
+    },
+    {
+     "date": "2026-10-30",
+     "low": 579.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 18
+    },
+    {
+     "date": "2026-10-31",
+     "low": 579.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 17
+    },
+    {
+     "date": "2026-11-01",
+     "low": 579.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 13
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "product_id": 2728,
+   "name": "Western Digital WD_BLACK SN8100 1TB M.2 2280 NVMe PCIe 5.0",
+   "maker": "Western Digital",
+   "model": "WD_BLACK SN8100",
+   "category": "ssd",
+   "part_number": "WDS100T1X0M-00CMT0",
+   "upc": "619659220884",
+   "launch_price": null,
+   "week_low": 249.99,
+   "week_high": 249.99,
+   "week_open": 249.99,
+   "week_close": 249.99,
+   "typical_price_end": 259.99,
+   "prev_week_close": 249.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 6,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://ssd.live/ssds/sandisk-wd_black-sn8100-1tb-m2-2280-nvme-pcie-50",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 7
+    },
+    {
+     "date": "2026-10-27",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 7
+    },
+    {
+     "date": "2026-10-28",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 7
+    },
+    {
+     "date": "2026-10-29",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 7
+    },
+    {
+     "date": "2026-10-30",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 6
+    },
+    {
+     "date": "2026-10-31",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 6
+    },
+    {
+     "date": "2026-11-01",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 6
+    }
+   ]
+  },
+  {
+   "rank": 7,
+   "product_id": 1933,
+   "name": "SanDisk Extreme 2TB Portable SSD Black",
+   "maker": "SanDisk",
+   "model": "Extreme",
+   "category": "ssd",
+   "part_number": "SDSSDE70-2T00-G25",
+   "upc": "619659223199",
+   "launch_price": null,
+   "week_low": 405.58,
+   "week_high": 421.0,
+   "week_open": 421.0,
+   "week_close": 421.0,
+   "typical_price_end": 429.99,
+   "prev_week_close": 421.0,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://ssd.live/ssds/sandisk-extreme-2tb-portable-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 421.0,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 408.1,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 405.58,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 420.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 421.0,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-31",
+     "low": 421.0,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-11-01",
+     "low": 421.0,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 8,
+   "product_id": 1997,
+   "name": "SanDisk Optimus GX 7100M 2TB M.2 2230 NVMe PCIe 4.0",
+   "maker": "SanDisk",
+   "model": "Optimus GX 7100M",
+   "category": "ssd",
+   "part_number": "SDSP71200TAT-000E0",
+   "upc": "619659232245",
+   "launch_price": null,
+   "week_low": 399.99,
+   "week_high": 449.99,
+   "week_open": 449.99,
+   "week_close": 399.99,
+   "typical_price_end": 399.99,
+   "prev_week_close": 449.99,
+   "change_vs_prev_week_pct": -11.1,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 34,
+   "lowest_store_end": "SanDisk Store",
+   "url": "https://ssd.live/ssds/sandisk-optimus-gx-7100m-2tb-m2-2230-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 449.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-27",
+     "low": 449.23,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-28",
+     "low": 449.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-29",
+     "low": 449.23,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-30",
+     "low": 449.23,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-31",
+     "low": 449.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-11-01",
+     "low": 399.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 34
+    }
+   ]
+  },
+  {
+   "rank": 9,
+   "product_id": 2186,
+   "name": "SanDisk Optimus GX PRO 850X 4TB M.2 2280 NVMe PCIe 4.0 with Heatsink",
+   "maker": "SanDisk",
+   "model": "Optimus GX PRO 850X",
+   "category": "ssd",
+   "part_number": "SDSP81400TAH-000E0",
+   "upc": "619659231996",
+   "launch_price": null,
+   "week_low": 979.99,
+   "week_high": 1029.99,
+   "week_open": 979.99,
+   "week_close": 979.99,
+   "typical_price_end": 979.99,
+   "prev_week_close": 979.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://ssd.live/ssds/sandisk-optimus-gx-pro-850x-4tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 979.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-27",
+     "low": 1029.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-28",
+     "low": 1029.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-29",
+     "low": 1029.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 1029.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 1029.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 979.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 10,
+   "product_id": 2354,
+   "name": "SanDisk Optimus GX 7100 1TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "SanDisk",
+   "model": "Optimus GX 7100",
+   "category": "ssd",
+   "part_number": "SDSP71100TAN-000E0",
+   "upc": "619659232122",
+   "launch_price": null,
+   "week_low": 199.0,
+   "week_high": 229.99,
+   "week_open": 199.0,
+   "week_close": 199.0,
+   "typical_price_end": 229.99,
+   "prev_week_close": 199.0,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 17,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/sandisk-optimus-gx-1tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 199.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-27",
+     "low": 229.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-28",
+     "low": 199.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 20
+    },
+    {
+     "date": "2026-10-29",
+     "low": 199.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 18
+    },
+    {
+     "date": "2026-10-30",
+     "low": 199.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 17
+    },
+    {
+     "date": "2026-10-31",
+     "low": 199.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 17
+    },
+    {
+     "date": "2026-11-01",
+     "low": 199.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 17
+    }
+   ]
+  },
+  {
+   "rank": 11,
+   "product_id": 2639,
+   "name": "Samsung 9100 PRO 1TB M.2 2280 NVMe PCIe 5.0",
+   "maker": "Samsung",
+   "model": "9100 PRO",
+   "category": "ssd",
+   "part_number": "MZ-VAP1T0B/AM",
+   "upc": "887276904917",
+   "launch_price": null,
+   "week_low": 249.99,
+   "week_high": 249.99,
+   "week_open": 249.99,
+   "week_close": 249.99,
+   "typical_price_end": 261.55,
+   "prev_week_close": 249.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://ssd.live/ssds/samsung-9100-pro-1tb-m2-2280-nvme-pcie-50",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-27",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-28",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-29",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-30",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-31",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-11-01",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    }
+   ]
+  },
+  {
+   "rank": 12,
+   "product_id": 2649,
+   "name": "Samsung 990 PRO 1TB M.2 2280 NVMe PCIe 4.0 (MZ-V9P1T0B/AM)",
+   "maker": "Samsung",
+   "model": "990 PRO",
+   "category": "ssd",
+   "part_number": "MZ-V9P1T0B/AM",
+   "upc": "887276657004",
+   "launch_price": null,
+   "week_low": 249.99,
+   "week_high": 259.99,
+   "week_open": 249.99,
+   "week_close": 259.99,
+   "typical_price_end": 259.99,
+   "prev_week_close": 249.99,
+   "change_vs_prev_week_pct": 4.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://ssd.live/ssds/samsung-990-pro-1tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-27",
+     "low": 259.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-28",
+     "low": 259.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-29",
+     "low": 259.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-30",
+     "low": 259.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-31",
+     "low": 259.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-11-01",
+     "low": 259.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    }
+   ]
+  },
+  {
+   "rank": 13,
+   "product_id": 2851,
+   "name": "SanDisk Optimus GX 7100M 1TB M.2 2230 NVMe PCIe 4.0",
+   "maker": "SanDisk",
+   "model": "Optimus GX 7100M",
+   "category": "ssd",
+   "part_number": "SDSP71100TAT-000E0",
+   "upc": "619659232252",
+   "launch_price": null,
+   "week_low": 229.99,
+   "week_high": 229.99,
+   "week_open": 229.99,
+   "week_close": 229.99,
+   "typical_price_end": 229.99,
+   "prev_week_close": 229.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 32,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://ssd.live/ssds/sandisk-optimus-gx-7100m-1tb-m2-2230-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 229.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-27",
+     "low": 229.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-28",
+     "low": 229.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 229.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-30",
+     "low": 229.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-31",
+     "low": 229.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-11-01",
+     "low": 229.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 32
+    }
+   ]
+  },
+  {
+   "rank": 14,
+   "product_id": 2933,
+   "name": "SanDisk Optimus GX PRO 850X 2TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "SanDisk",
+   "model": "Optimus GX PRO 850X",
+   "category": "ssd",
+   "part_number": "SDSP81200TAN-000E0",
+   "upc": "619659231965",
+   "launch_price": null,
+   "week_low": 419.99,
+   "week_high": 529.99,
+   "week_open": 529.99,
+   "week_close": 419.99,
+   "typical_price_end": 419.99,
+   "prev_week_close": 479.99,
+   "change_vs_prev_week_pct": -12.5,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://ssd.live/ssds/sandisk-optimus-gx-pro-850x-2tb-m2-2280-nvme-pcie-40-2",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 529.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 419.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 15,
+   "product_id": 2964,
+   "name": "SanDisk Optimus GX PRO 8100 2TB M.2 2280 NVMe PCIe 5.0",
+   "maker": "SanDisk",
+   "model": "Optimus GX PRO 8100",
+   "category": "ssd",
+   "part_number": "SDSP82200TAN-000E0",
+   "upc": "619659230982",
+   "launch_price": null,
+   "week_low": 459.99,
+   "week_high": 549.99,
+   "week_open": 549.99,
+   "week_close": 459.99,
+   "typical_price_end": 459.99,
+   "prev_week_close": 429.99,
+   "change_vs_prev_week_pct": 7.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 5,
+   "lowest_store_end": "Newegg",
+   "url": "https://ssd.live/ssds/sandisk-optimus-gx-pro-2tb-m2-2280-nvme-pcie-50",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 549.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-27",
+     "low": 549.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-28",
+     "low": 549.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-29",
+     "low": 549.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-30",
+     "low": 549.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-31",
+     "low": 549.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-11-01",
+     "low": 459.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 5
+    }
+   ]
+  },
+  {
+   "rank": 16,
+   "product_id": 3282,
+   "name": "SanDisk Extreme 1TB Portable SSD Black (SDSSDE70-1T00-G25)",
+   "maker": "SanDisk",
+   "model": "Extreme",
+   "category": "ssd",
+   "part_number": "SDSSDE70-1T00-G25",
+   "upc": "619659223151",
+   "launch_price": null,
+   "week_low": 239.5,
+   "week_high": 239.5,
+   "week_open": 239.5,
+   "week_close": 239.5,
+   "typical_price_end": 249.99,
+   "prev_week_close": 239.5,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 28,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://ssd.live/ssds/sandisk-extreme-1tb-portable-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 239.5,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-27",
+     "low": 239.5,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-28",
+     "low": 239.5,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-29",
+     "low": 239.5,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-30",
+     "low": 239.5,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-31",
+     "low": 239.5,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-11-01",
+     "low": 239.5,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 28
+    }
+   ]
+  },
+  {
+   "rank": 17,
+   "product_id": 3296,
+   "name": "SanDisk Optimus GX 850X BiCS 1TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "SanDisk",
+   "model": null,
+   "category": "ssd",
+   "part_number": "SDSP81100TAN-000E0",
+   "upc": "619659231972",
+   "launch_price": null,
+   "week_low": 249.99,
+   "week_high": 263.69,
+   "week_open": 263.69,
+   "week_close": 249.99,
+   "typical_price_end": 249.99,
+   "prev_week_close": 269.57,
+   "change_vs_prev_week_pct": -7.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "SanDisk Store",
+   "url": "https://ssd.live/ssds/sandisk-optimus-gx-850x-bics-1tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 263.69,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 263.69,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 263.69,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 263.69,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 263.69,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 263.69,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 249.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 18,
+   "product_id": 4015,
+   "name": "SanDisk Creator Desk Drive 4TB External SSD",
+   "maker": "SanDisk",
+   "model": "Creator",
+   "category": "ssd",
+   "part_number": "SDSSDT40C-4T00-N25",
+   "upc": "619659217822",
+   "launch_price": null,
+   "week_low": 399.99,
+   "week_high": 399.99,
+   "week_open": 399.99,
+   "week_close": 399.99,
+   "typical_price_end": 789.99,
+   "prev_week_close": 399.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 4,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://ssd.live/ssds/sandisk-creator-4tb-portable-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 6
+    },
+    {
+     "date": "2026-10-27",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-28",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-29",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-30",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-31",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-11-01",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 4
+    }
+   ]
+  },
+  {
+   "rank": 19,
+   "product_id": 4188,
+   "name": "SanDisk 2TB Portable SSD (SDSSDE31-2T00-G25)",
+   "maker": "SanDisk",
+   "model": "V3",
+   "category": "ssd",
+   "part_number": "SDSSDE31-2T00-G25",
+   "upc": "619659232504",
+   "launch_price": null,
+   "week_low": 299.99,
+   "week_high": 299.99,
+   "week_open": 299.99,
+   "week_close": 299.99,
+   "typical_price_end": 299.99,
+   "prev_week_close": 299.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://ssd.live/ssds/sandisk-2tb-portable-ssd-sdssde31-2t00-g25",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 299.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-27",
+     "low": 299.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-28",
+     "low": 299.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-29",
+     "low": 299.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-30",
+     "low": 299.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-31",
+     "low": 299.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-11-01",
+     "low": 299.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 35
+    }
+   ]
+  },
+  {
+   "rank": 20,
+   "product_id": 4344,
+   "name": "Samsung T7 2TB Portable SSD Gray",
+   "maker": "Samsung",
+   "model": "T7",
+   "category": "ssd",
+   "part_number": "MU-PC2T0T/AM",
+   "upc": "887276410807",
+   "launch_price": null,
+   "week_low": 421.22,
+   "week_high": 429.99,
+   "week_open": 429.99,
+   "week_close": 421.24,
+   "typical_price_end": 459.99,
+   "prev_week_close": 423.48,
+   "change_vs_prev_week_pct": -0.5,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 33,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/samsung-t7-2tb-portable-ssd-2",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 429.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-27",
+     "low": 421.24,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-28",
+     "low": 421.22,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-29",
+     "low": 421.24,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-30",
+     "low": 421.24,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-31",
+     "low": 421.24,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-11-01",
+     "low": 421.24,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 33
+    }
+   ]
+  },
+  {
+   "rank": 21,
+   "product_id": 4436,
+   "name": "Lexar NM790 2TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "Lexar",
+   "model": "NM790",
+   "category": "ssd",
+   "part_number": "LNM790X002TRNNN",
+   "upc": "843367131358",
+   "launch_price": null,
+   "week_low": 328.99,
+   "week_high": 329.99,
+   "week_open": 329.99,
+   "week_close": 329.99,
+   "typical_price_end": 329.99,
+   "prev_week_close": 329.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 17,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://ssd.live/ssds/lexar-nm790-2tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 329.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-27",
+     "low": 329.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 12
+    },
+    {
+     "date": "2026-10-28",
+     "low": 329.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 12
+    },
+    {
+     "date": "2026-10-29",
+     "low": 329.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 12
+    },
+    {
+     "date": "2026-10-30",
+     "low": 329.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 11
+    },
+    {
+     "date": "2026-10-31",
+     "low": 328.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-11-01",
+     "low": 329.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 17
+    }
+   ]
+  },
+  {
+   "rank": 22,
+   "product_id": 4444,
+   "name": "Samsung 870 EVO 1TB 2.5\" SATA (MZ-77E1T0B/AM)",
+   "maker": "Samsung",
+   "model": "870 EVO",
+   "category": "ssd",
+   "part_number": "MZ-77E1T0B/AM",
+   "upc": "887276431970",
+   "launch_price": null,
+   "week_low": 332.38,
+   "week_high": 339.91,
+   "week_open": 339.91,
+   "week_close": 334.76,
+   "typical_price_end": 349.99,
+   "prev_week_close": 332.79,
+   "change_vs_prev_week_pct": 0.6,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://ssd.live/ssds/samsung-870-evo-1tb-25-sata",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 339.91,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-27",
+     "low": 332.38,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-28",
+     "low": 334.76,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-29",
+     "low": 334.76,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-30",
+     "low": 334.76,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-31",
+     "low": 334.76,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-11-01",
+     "low": 334.76,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    }
+   ]
+  },
+  {
+   "rank": 23,
+   "product_id": 4448,
+   "name": "Samsung 870 EVO 4TB 2.5\" SATA (MZ-77E4T0B/AM)",
+   "maker": "Samsung",
+   "model": "870 EVO",
+   "category": "ssd",
+   "part_number": "MZ-77E4T0B/AM",
+   "upc": "887276431956",
+   "launch_price": null,
+   "week_low": 1011.19,
+   "week_high": 1259.99,
+   "week_open": 1099.99,
+   "week_close": 1099.99,
+   "typical_price_end": 1399.99,
+   "prev_week_close": 1099.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 34,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/samsung-870-evo-4tb-25-sata",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 1099.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-27",
+     "low": 1259.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-28",
+     "low": 1099.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-29",
+     "low": 1041.09,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-30",
+     "low": 1011.19,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-31",
+     "low": 1099.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-11-01",
+     "low": 1099.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    }
+   ]
+  },
+  {
+   "rank": 24,
+   "product_id": 4453,
+   "name": "Samsung T7 Shield 2TB Portable SSD Black",
+   "maker": "Samsung",
+   "model": "T7 Shield",
+   "category": "ssd",
+   "part_number": "MU-PE2T0S/AM",
+   "upc": "887276545530",
+   "launch_price": null,
+   "week_low": 514.99,
+   "week_high": 537.99,
+   "week_open": 517.48,
+   "week_close": 514.99,
+   "typical_price_end": 574.99,
+   "prev_week_close": 517.65,
+   "change_vs_prev_week_pct": -0.5,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 32,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/samsung-t7-shield-2tb-portable-ssd-3",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 517.48,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-27",
+     "low": 537.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-28",
+     "low": 517.47,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-29",
+     "low": 514.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-30",
+     "low": 517.47,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-31",
+     "low": 514.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-11-01",
+     "low": 514.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 32
+    }
+   ]
+  },
+  {
+   "rank": 25,
+   "product_id": 4462,
+   "name": "Samsung 870 EVO 500GB 2.5\" SATA (MZ-77E500B/AM)",
+   "maker": "Samsung",
+   "model": "870 EVO",
+   "category": "ssd",
+   "part_number": "MZ-77E500B/AM",
+   "upc": "887276431987",
+   "launch_price": null,
+   "week_low": 236.09,
+   "week_high": 249.99,
+   "week_open": 236.09,
+   "week_close": 249.99,
+   "typical_price_end": 249.99,
+   "prev_week_close": 239.95,
+   "change_vs_prev_week_pct": 4.2,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 32,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://ssd.live/ssds/samsung-870-evo-500gb-25-sata",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 236.09,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-27",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-28",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-29",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-30",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-31",
+     "low": 236.93,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-11-01",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 32
+    }
+   ]
+  },
+  {
+   "rank": 26,
+   "product_id": 4465,
+   "name": "Samsung 990 PRO 2TB M.2 2280 NVMe PCIe 4.0 with Heatsink",
+   "maker": "Samsung",
+   "model": "990 PRO",
+   "category": "ssd",
+   "part_number": "MZ-V9P2T0CW",
+   "upc": "887276656991",
+   "launch_price": null,
+   "week_low": 399.99,
+   "week_high": 399.99,
+   "week_open": 399.99,
+   "week_close": 399.99,
+   "typical_price_end": 624.495,
+   "prev_week_close": 399.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://ssd.live/ssds/samsung-990-pro-2tb-m2-2280-nvme-pcie-40-with-heatsink",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 399.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-27",
+     "low": 399.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-28",
+     "low": 399.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-29",
+     "low": 399.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-30",
+     "low": 399.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-31",
+     "low": 399.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-11-01",
+     "low": 399.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 27,
+   "product_id": 4630,
+   "name": "Samsung T7 4TB Portable SSD",
+   "maker": "Samsung",
+   "model": "T7",
+   "category": "ssd",
+   "part_number": "MU-PC4T0T/AM",
+   "upc": "887276821740",
+   "launch_price": null,
+   "week_low": 799.99,
+   "week_high": 799.99,
+   "week_open": 799.99,
+   "week_close": 799.99,
+   "typical_price_end": 999.99,
+   "prev_week_close": 799.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://ssd.live/ssds/samsung-t7-4tb-portable-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 799.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-27",
+     "low": 799.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-28",
+     "low": 799.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-29",
+     "low": 799.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-30",
+     "low": 799.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-31",
+     "low": 799.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 799.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 28,
+   "product_id": 4640,
+   "name": "Samsung T9 2TB Portable SSD",
+   "maker": "Samsung",
+   "model": "T9",
+   "category": "ssd",
+   "part_number": "MU-PG2T0B/AM",
+   "upc": "887276664538",
+   "launch_price": null,
+   "week_low": 439.48,
+   "week_high": 449.5,
+   "week_open": 449.5,
+   "week_close": 449.5,
+   "typical_price_end": 489.99,
+   "prev_week_close": 439.58,
+   "change_vs_prev_week_pct": 2.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/samsung-t9-2tb-portable-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 449.5,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-27",
+     "low": 449.5,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-28",
+     "low": 449.5,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-29",
+     "low": 449.5,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-30",
+     "low": 449.5,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-31",
+     "low": 439.48,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-11-01",
+     "low": 449.5,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    }
+   ]
+  },
+  {
+   "rank": 29,
+   "product_id": 5391,
+   "name": "Samsung 870 EVO 2TB 2.5\" SATA (MZ-77E2T0B/AM)",
+   "maker": "Samsung",
+   "model": "870 EVO",
+   "category": "ssd",
+   "part_number": "MZ-77E2T0B/AM",
+   "upc": "887276431963",
+   "launch_price": null,
+   "week_low": 499.99,
+   "week_high": 499.99,
+   "week_open": 499.99,
+   "week_close": 499.99,
+   "typical_price_end": 499.99,
+   "prev_week_close": 499.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 31,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://ssd.live/ssds/samsung-870-evo-2tb-25-sata",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-28",
+     "low": 499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-29",
+     "low": 499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-30",
+     "low": 499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-31",
+     "low": 499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-11-01",
+     "low": 499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 31
+    }
+   ]
+  },
+  {
+   "rank": 30,
+   "product_id": 6991,
+   "name": "SanDisk 1TB 2.5\" SATA (SDSS51100TAB-000G0)",
+   "maker": "SanDisk",
+   "model": null,
+   "category": "ssd",
+   "part_number": "SDSS51100TAB-000G0",
+   "upc": "619659231774",
+   "launch_price": null,
+   "week_low": 179.99,
+   "week_high": 199.99,
+   "week_open": 199.99,
+   "week_close": 179.99,
+   "typical_price_end": 179.99,
+   "prev_week_close": 199.97,
+   "change_vs_prev_week_pct": -10.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 5,
+   "lowest_store_end": "SanDisk Store",
+   "url": "https://ssd.live/ssds/sandisk-1tb-25-sata-sdss51100tab-000g0",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-27",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-28",
+     "low": 199.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-29",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-30",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-31",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-11-01",
+     "low": 179.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 5
+    }
+   ]
+  },
+  {
+   "rank": 31,
+   "product_id": 7152,
+   "name": "SanDisk GX PRO 4TB M.2 2280 NVMe PCIe 5.0",
+   "maker": "SanDisk",
+   "model": "Optimus GX PRO",
+   "category": "ssd",
+   "part_number": "SDSP82400TAN-000E0",
+   "upc": "619659230975",
+   "launch_price": null,
+   "week_low": 949.99,
+   "week_high": 1079.99,
+   "week_open": 1056.73,
+   "week_close": 949.99,
+   "typical_price_end": 949.99,
+   "prev_week_close": 949.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "SanDisk Store",
+   "url": "https://ssd.live/ssds/sandisk-gx-pro-4tb-m2-2280-nvme-pcie-50",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 1056.73,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-27",
+     "low": 1059.66,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-28",
+     "low": 1062.19,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-29",
+     "low": 1079.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-30",
+     "low": 1062.76,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-31",
+     "low": 1051.85,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-11-01",
+     "low": 949.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 32,
+   "product_id": 7125,
+   "name": "SanDisk Creator Phone 2TB Portable SSD",
+   "maker": "SanDisk",
+   "model": "Creator Phone",
+   "category": "ssd",
+   "part_number": "SDSSDE62C-2T00-G25",
+   "upc": "619659216160",
+   "launch_price": null,
+   "week_low": 299.99,
+   "week_high": 299.99,
+   "week_open": 299.99,
+   "week_close": 299.99,
+   "typical_price_end": 329.99,
+   "prev_week_close": 299.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 8,
+   "shops_in_stock_end": 14,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://ssd.live/ssds/sandisk-creator-phone-2tb-portable-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 299.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 16
+    },
+    {
+     "date": "2026-10-27",
+     "low": 299.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-28",
+     "low": 299.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-29",
+     "low": 299.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-30",
+     "low": 299.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-31",
+     "low": 299.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 14
+    },
+    {
+     "date": "2026-11-01",
+     "low": 299.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 14
+    }
+   ]
+  },
+  {
+   "rank": 33,
+   "product_id": 2039,
+   "name": "SanDisk Optimus GX PRO 850X 1TB M.2 2280 NVMe PCIe 4.0 with Heatsink",
+   "maker": "SanDisk",
+   "model": "Optimus GX PRO 850X",
+   "category": "ssd",
+   "part_number": "SDSP81100TAH-000E0",
+   "upc": "619659232016",
+   "launch_price": null,
+   "week_low": 279.99,
+   "week_high": 289.99,
+   "week_open": 289.99,
+   "week_close": 279.99,
+   "typical_price_end": 279.99,
+   "prev_week_close": 289.99,
+   "change_vs_prev_week_pct": -3.4,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Newegg",
+   "url": "https://ssd.live/ssds/sandisk-optimus-gx-pro-850x-1tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 289.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-27",
+     "low": 289.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-28",
+     "low": 289.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-29",
+     "low": 289.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-30",
+     "low": 289.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-31",
+     "low": 289.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-11-01",
+     "low": 279.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 34,
+   "product_id": 2049,
+   "name": "SanDisk Optimus GX PRO 850X 8TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "SanDisk",
+   "model": "Optimus GX PRO 850X",
+   "category": "ssd",
+   "part_number": "SDSP81800TAN-000E0",
+   "upc": "619659231941",
+   "launch_price": null,
+   "week_low": 1699.99,
+   "week_high": 1999.99,
+   "week_open": 1999.99,
+   "week_close": 1699.99,
+   "typical_price_end": 1699.99,
+   "prev_week_close": 1999.99,
+   "change_vs_prev_week_pct": -15.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 16,
+   "lowest_store_end": "SanDisk Store",
+   "url": "https://ssd.live/ssds/sandisk-optimus-gx-pro-850x-8tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 1999.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 12
+    },
+    {
+     "date": "2026-10-27",
+     "low": 1999.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 13
+    },
+    {
+     "date": "2026-10-28",
+     "low": 1999.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 13
+    },
+    {
+     "date": "2026-10-29",
+     "low": 1999.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 13
+    },
+    {
+     "date": "2026-10-30",
+     "low": 1999.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 13
+    },
+    {
+     "date": "2026-10-31",
+     "low": 1999.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-11-01",
+     "low": 1699.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 16
+    }
+   ]
+  },
+  {
+   "rank": 35,
+   "product_id": 2382,
+   "name": "SanDisk Optimus 1TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "SanDisk",
+   "model": null,
+   "category": "ssd",
+   "part_number": "SDSP51100TAN-000E0",
+   "upc": "619659232290",
+   "launch_price": null,
+   "week_low": 186.82,
+   "week_high": 188.98,
+   "week_open": 188.98,
+   "week_close": 188.96,
+   "typical_price_end": 194.485,
+   "prev_week_close": 199.97,
+   "change_vs_prev_week_pct": -5.5,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/sandisk-optimus-1tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 188.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-27",
+     "low": 188.59,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-28",
+     "low": 188.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-29",
+     "low": 188.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-30",
+     "low": 186.82,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-31",
+     "low": 188.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-11-01",
+     "low": 188.96,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 36,
+   "product_id": 4175,
+   "name": "SanDisk EXTREME PORT 500GB Portable SSD",
+   "maker": "SanDisk",
+   "model": "Extreme",
+   "category": "ssd",
+   "part_number": "SDSSDE70-500G-G25",
+   "upc": "619659235291",
+   "launch_price": null,
+   "week_low": 159.99,
+   "week_high": 159.99,
+   "week_open": 159.99,
+   "week_close": 159.99,
+   "typical_price_end": 159.99,
+   "prev_week_close": 159.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "SanDisk Store",
+   "url": "https://ssd.live/ssds/sandisk-extreme-port-500gb-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-27",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-28",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-29",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-30",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-31",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-11-01",
+     "low": 159.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 37,
+   "product_id": 5361,
+   "name": "SanDisk 1TB Portable SSD (SDSSDE31-1T00-G25)",
+   "maker": "SanDisk",
+   "model": "V3",
+   "category": "ssd",
+   "part_number": "SDSSDE31-1T00-G25",
+   "upc": "619659232498",
+   "launch_price": null,
+   "week_low": 159.99,
+   "week_high": 159.99,
+   "week_open": 159.99,
+   "week_close": 159.99,
+   "typical_price_end": 159.99,
+   "prev_week_close": 159.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 33,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://ssd.live/ssds/sandisk-1tb-portable-ssd-sdssde31-1t00-g25",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 159.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-27",
+     "low": 159.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-28",
+     "low": 159.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-29",
+     "low": 159.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-30",
+     "low": 159.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-31",
+     "low": 159.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-11-01",
+     "low": 159.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    }
+   ]
+  },
+  {
+   "rank": 38,
+   "product_id": 5370,
+   "name": "Lexar NM1090 2TB M.2 2280 NVMe PCIe 5.0",
+   "maker": "Lexar",
+   "model": "NM1090",
+   "category": "ssd",
+   "part_number": "LNM109P002T-RNNNU",
+   "upc": "843367136827",
+   "launch_price": null,
+   "week_low": 359.99,
+   "week_high": 359.99,
+   "week_open": 359.99,
+   "week_close": 359.99,
+   "typical_price_end": 364.99,
+   "prev_week_close": 359.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 24,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://ssd.live/ssds/lexar-nm1090-2tb-m2-2280-nvme-pcie-50",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 359.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-27",
+     "low": 359.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-28",
+     "low": 359.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-29",
+     "low": 359.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-30",
+     "low": 359.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-31",
+     "low": 359.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-11-01",
+     "low": 359.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 24
+    }
+   ]
+  },
+  {
+   "rank": 39,
+   "product_id": 7021,
+   "name": "SanDisk GX PRO 850X 4TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "SanDisk",
+   "model": null,
+   "category": "ssd",
+   "part_number": "SDSP81400TAN-000E0",
+   "upc": "619659231958",
+   "launch_price": null,
+   "week_low": 849.99,
+   "week_high": 968.28,
+   "week_open": 968.28,
+   "week_close": 849.99,
+   "typical_price_end": 849.99,
+   "prev_week_close": 962.41,
+   "change_vs_prev_week_pct": -11.7,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "SanDisk Store",
+   "url": "https://ssd.live/ssds/sandisk-gx-pro-850x-4tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 968.28,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-27",
+     "low": 965.03,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-28",
+     "low": 968.28,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-29",
+     "low": 968.28,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-30",
+     "low": 967.21,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-31",
+     "low": 968.26,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-11-01",
+     "low": 849.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 40,
+   "product_id": 2342,
+   "name": "SanDisk Optimus 5100 2TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "SanDisk",
+   "model": "Optimus 5100",
+   "category": "ssd",
+   "part_number": "SDSP51200TAN-000E0",
+   "upc": "619659232283",
+   "launch_price": null,
+   "week_low": 299.0,
+   "week_high": 349.99,
+   "week_open": 299.0,
+   "week_close": 299.0,
+   "typical_price_end": 349.99,
+   "prev_week_close": 299.0,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/sandisk-optimus-2tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 299.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-27",
+     "low": 299.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-28",
+     "low": 349.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-29",
+     "low": 299.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-30",
+     "low": 299.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-31",
+     "low": 299.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-11-01",
+     "low": 299.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 41,
+   "product_id": 8383,
+   "name": "Crucial X10 Pro 4TB Portable SSD Black",
+   "maker": "Crucial",
+   "model": "X10 Pro",
+   "category": "ssd",
+   "part_number": "CT4000X10PROSSD9",
+   "upc": "649528938411",
+   "launch_price": null,
+   "week_low": 524.99,
+   "week_high": 524.99,
+   "week_open": 524.99,
+   "week_close": 524.99,
+   "typical_price_end": 562.49,
+   "prev_week_close": 524.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 8,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/crucial-x10-pro-4tb-portable-ssd-2",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 524.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-27",
+     "low": 524.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-28",
+     "low": 524.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-10-29",
+     "low": 524.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-10-30",
+     "low": 524.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-10-31",
+     "low": 524.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-11-01",
+     "low": 524.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 8
+    }
+   ]
+  },
+  {
+   "rank": 42,
+   "product_id": 2029,
+   "name": "SanDisk Optimus GX 7100 4TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "SanDisk",
+   "model": "Optimus GX 7100",
+   "category": "ssd",
+   "part_number": "SDSP71400TAN-000E0",
+   "upc": "619659232108",
+   "launch_price": null,
+   "week_low": 799.99,
+   "week_high": 869.99,
+   "week_open": 869.99,
+   "week_close": 799.99,
+   "typical_price_end": 799.99,
+   "prev_week_close": 869.99,
+   "change_vs_prev_week_pct": -8.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://ssd.live/ssds/sandisk-optimus-gx-4tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 869.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 869.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 869.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 869.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 869.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 869.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 799.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 43,
+   "product_id": 2568,
+   "name": "Crucial BX500 2TB 2.5\" SATA",
+   "maker": "Crucial",
+   "model": "BX500",
+   "category": "ssd",
+   "part_number": "CT2000BX500SSD1",
+   "upc": "649528821584",
+   "launch_price": null,
+   "week_low": 229.99,
+   "week_high": 249.99,
+   "week_open": 249.99,
+   "week_close": 229.99,
+   "typical_price_end": 254.99,
+   "prev_week_close": 249.99,
+   "change_vs_prev_week_pct": -8.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 7,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/crucial-bx500-2tb-25-sata",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 7
+    },
+    {
+     "date": "2026-10-27",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 7
+    },
+    {
+     "date": "2026-10-28",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 7
+    },
+    {
+     "date": "2026-10-29",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 7
+    },
+    {
+     "date": "2026-10-30",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 7
+    },
+    {
+     "date": "2026-10-31",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 7
+    },
+    {
+     "date": "2026-11-01",
+     "low": 229.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 7
+    }
+   ]
+  },
+  {
+   "rank": 44,
+   "product_id": 6947,
+   "name": "Western Digital WD_BLACK C50 Expansion Card 1TB Portable SSD",
+   "maker": "Western Digital",
+   "model": "WD_BLACK C50 Expansion Card",
+   "category": "ssd",
+   "part_number": "WDBMPH0010BNC-WCSN",
+   "upc": "619659196356",
+   "launch_price": null,
+   "week_low": 149.99,
+   "week_high": 149.99,
+   "week_open": 149.99,
+   "week_close": 149.99,
+   "typical_price_end": 149.99,
+   "prev_week_close": 149.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 2,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/western-digital-wd_black-c50-expansion-card-1tb-portable-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": null,
+     "low_store": null,
+     "retailers_in_stock": 0,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-27",
+     "low": null,
+     "low_store": null,
+     "retailers_in_stock": 0,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-28",
+     "low": null,
+     "low_store": null,
+     "retailers_in_stock": 0,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-29",
+     "low": null,
+     "low_store": null,
+     "retailers_in_stock": 0,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-30",
+     "low": null,
+     "low_store": null,
+     "retailers_in_stock": 0,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-31",
+     "low": 149.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-11-01",
+     "low": 149.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 45,
+   "product_id": 7333,
+   "name": "Samsung 990 PRO w/ Heatsink 2TB M.2 2280 NVMe",
+   "maker": "Samsung",
+   "model": "990 PRO",
+   "category": "ssd",
+   "part_number": "MZ-V9P2T0GW",
+   "upc": "887276704760",
+   "launch_price": null,
+   "week_low": 159.99,
+   "week_high": 159.99,
+   "week_open": 159.99,
+   "week_close": 159.99,
+   "typical_price_end": 414.99,
+   "prev_week_close": 159.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Samsung Store",
+   "url": "https://ssd.live/ssds/samsung-990-pro-w-heatsink-2tb-m2-2280-nvme",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 159.99,
+     "low_store": "Samsung Store",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-27",
+     "low": 159.99,
+     "low_store": "Samsung Store",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-28",
+     "low": 159.99,
+     "low_store": "Samsung Store",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-29",
+     "low": 159.99,
+     "low_store": "Samsung Store",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-30",
+     "low": 159.99,
+     "low_store": "Samsung Store",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-31",
+     "low": 159.99,
+     "low_store": "Samsung Store",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-11-01",
+     "low": 159.99,
+     "low_store": "Samsung Store",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 46,
+   "product_id": 2918,
+   "name": "SanDisk Optimus GX PRO 8100 1TB M.2 2280 NVMe PCIe 5.0",
+   "maker": "SanDisk",
+   "model": "Optimus GX PRO 8100",
+   "category": "ssd",
+   "part_number": "SDSP82100TAN-000E0",
+   "upc": "619659230999",
+   "launch_price": null,
+   "week_low": 249.99,
+   "week_high": 299.99,
+   "week_open": 299.99,
+   "week_close": 249.99,
+   "typical_price_end": 249.99,
+   "prev_week_close": 299.99,
+   "change_vs_prev_week_pct": -16.7,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://ssd.live/ssds/sandisk-optimus-gx-pro-1tb-m2-2280-nvme-pcie-50",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-27",
+     "low": 299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 299.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 249.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 47,
+   "product_id": 3320,
+   "name": "Samsung T7 Shield 1TB Portable SSD Blue",
+   "maker": "Samsung",
+   "model": "T7 Shield",
+   "category": "ssd",
+   "part_number": "MU-PE1T0R/AM",
+   "upc": "887276545639",
+   "launch_price": null,
+   "week_low": 249.99,
+   "week_high": 249.99,
+   "week_open": 249.99,
+   "week_close": 249.99,
+   "typical_price_end": 287.99,
+   "prev_week_close": 249.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 10,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://ssd.live/ssds/samsung-t7-shield-1tb-portable-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 10
+    },
+    {
+     "date": "2026-10-27",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-28",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-29",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 10
+    },
+    {
+     "date": "2026-10-30",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 10
+    },
+    {
+     "date": "2026-10-31",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 10
+    },
+    {
+     "date": "2026-11-01",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 10
+    }
+   ]
+  },
+  {
+   "rank": 48,
+   "product_id": 4133,
+   "name": "Samsung T7 Shield 4TB Portable SSD",
+   "maker": "Samsung",
+   "model": "T7 Shield",
+   "category": "ssd",
+   "part_number": "MU-PE4T0S/AM",
+   "upc": "887276543918",
+   "launch_price": null,
+   "week_low": 1067.61,
+   "week_high": 1100.0,
+   "week_open": 1100.0,
+   "week_close": 1100.0,
+   "typical_price_end": 1100.0,
+   "prev_week_close": 1100.0,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 28,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://ssd.live/ssds/samsung-t7-shield-4tb-portable-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 1100.0,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-27",
+     "low": 1099.8,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-28",
+     "low": 1100.0,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-29",
+     "low": 1067.61,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-30",
+     "low": 1100.0,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-31",
+     "low": 1100.0,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-11-01",
+     "low": 1100.0,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 28
+    }
+   ]
+  },
+  {
+   "rank": 49,
+   "product_id": 6925,
+   "name": "Western Digital WD_BLACK SN850X 1TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "Western Digital",
+   "model": "WD_BLACK SN850X",
+   "category": "ssd",
+   "part_number": "WDS100T2X0E",
+   "upc": "718037891392",
+   "launch_price": null,
+   "week_low": 149.99,
+   "week_high": 239.99,
+   "week_open": 149.99,
+   "week_close": 239.99,
+   "typical_price_end": 243.49,
+   "prev_week_close": 239.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 5,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://ssd.live/ssds/western-digital-wd_black-sn850x-1tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 149.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 6
+    },
+    {
+     "date": "2026-10-27",
+     "low": 239.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-28",
+     "low": 239.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-29",
+     "low": 239.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-30",
+     "low": 239.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-31",
+     "low": 239.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-11-01",
+     "low": 239.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 5
+    }
+   ]
+  },
+  {
+   "rank": 50,
+   "product_id": 1765,
+   "name": "Apricorn Aegis Fortress L3 16TB Portable SSD",
+   "maker": "Apricorn",
+   "model": "Aegis Fortress L3",
+   "category": "ssd",
+   "part_number": "AFL3-S16TB",
+   "upc": "708326914826",
+   "launch_price": null,
+   "week_low": 9805.43,
+   "week_high": 11389.53,
+   "week_open": 11389.53,
+   "week_close": 9807.95,
+   "typical_price_end": 10598.74,
+   "prev_week_close": 12962.67,
+   "change_vs_prev_week_pct": -24.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/apricorn-aegis-fortress-l3-16tb-portable-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 11389.53,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-27",
+     "low": 11389.53,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-28",
+     "low": 11389.53,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-29",
+     "low": 10834.43,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-30",
+     "low": 9805.43,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-31",
+     "low": 9805.43,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-11-01",
+     "low": 9807.95,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 51,
+   "product_id": 2204,
+   "name": "SanDisk Optimus GX PRO 8100 4TB M.2 2280 NVMe PCIe 5.0 with Heatsink",
+   "maker": "SanDisk",
+   "model": "Optimus GX PRO 8100",
+   "category": "ssd",
+   "part_number": "SDSP82400TAH-000E0",
+   "upc": "619659231019",
+   "launch_price": null,
+   "week_low": 999.99,
+   "week_high": 1129.99,
+   "week_open": 1129.99,
+   "week_close": 999.99,
+   "typical_price_end": 999.99,
+   "prev_week_close": 1129.99,
+   "change_vs_prev_week_pct": -11.5,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Newegg",
+   "url": "https://ssd.live/ssds/sandisk-optimus-gx-pro-4tb-m2-2280-nvme-pcie-50-with-heatsink",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 1129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-27",
+     "low": 1129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-28",
+     "low": 1129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-29",
+     "low": 1129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-30",
+     "low": 1129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-31",
+     "low": 1129.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-11-01",
+     "low": 999.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 52,
+   "product_id": 7153,
+   "name": "SanDisk GX PRO 8TB M.2 2280 NVMe PCIe 5.0",
+   "maker": "SanDisk",
+   "model": "Optimus GX PRO",
+   "category": "ssd",
+   "part_number": "SDSP82800TAN-000E0",
+   "upc": "619659230968",
+   "launch_price": null,
+   "week_low": 1999.99,
+   "week_high": 2149.99,
+   "week_open": 2149.99,
+   "week_close": 1999.99,
+   "typical_price_end": 1999.99,
+   "prev_week_close": 2149.99,
+   "change_vs_prev_week_pct": -7.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 1,
+   "lowest_store_end": "SanDisk Store",
+   "url": "https://ssd.live/ssds/sandisk-gx-pro-8tb-m2-2280-nvme-pcie-50",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 2149.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-27",
+     "low": 2149.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-28",
+     "low": 2149.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-29",
+     "low": 2149.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-30",
+     "low": 2149.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-10-31",
+     "low": 2149.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 1
+    },
+    {
+     "date": "2026-11-01",
+     "low": 1999.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 1
+    }
+   ]
+  },
+  {
+   "rank": 53,
+   "product_id": 2082,
+   "name": "SanDisk Optimus GX PRO 8100 2TB M.2 2280 NVMe PCIe 5.0 with Heatsink",
+   "maker": "SanDisk",
+   "model": "Optimus GX PRO 8100",
+   "category": "ssd",
+   "part_number": "SDSP82200TAH-000E0",
+   "upc": "619659231927",
+   "launch_price": null,
+   "week_low": 499.99,
+   "week_high": 589.99,
+   "week_open": 589.99,
+   "week_close": 499.99,
+   "typical_price_end": 499.99,
+   "prev_week_close": 589.99,
+   "change_vs_prev_week_pct": -15.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://ssd.live/ssds/sandisk-optimus-gx-pro-2tb-m2-2280-nvme-pcie-50-with-heatsink",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 589.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 589.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 589.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 589.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 589.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 589.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 499.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 54,
+   "product_id": 2376,
+   "name": "SanDisk Optimus GX 7100 2TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "SanDisk",
+   "model": "Optimus GX 7100",
+   "category": "ssd",
+   "part_number": "SDSP71200TAN-000E0",
+   "upc": "619659232115",
+   "launch_price": null,
+   "week_low": 369.99,
+   "week_high": 429.99,
+   "week_open": 429.99,
+   "week_close": 369.99,
+   "typical_price_end": 369.99,
+   "prev_week_close": 429.99,
+   "change_vs_prev_week_pct": -14.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://ssd.live/ssds/sandisk-optimus-gx-2tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 429.99,
+     "low_store": "Adorama",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 429.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 429.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 429.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 429.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 429.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 369.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 55,
+   "product_id": 4075,
+   "name": "SanDisk Desk Drive 4TB Portable SSD",
+   "maker": "SanDisk",
+   "model": "Desk Drive",
+   "category": "ssd",
+   "part_number": "SDSSDT40-4T00-NA25",
+   "upc": "619659205812",
+   "launch_price": null,
+   "week_low": 741.25,
+   "week_high": 799.99,
+   "week_open": 799.99,
+   "week_close": 750.08,
+   "typical_price_end": 799.99,
+   "prev_week_close": 799.99,
+   "change_vs_prev_week_pct": -6.2,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 28,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/sandisk-desk-drive-4tb-portable-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 799.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-27",
+     "low": 741.25,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-28",
+     "low": 799.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-29",
+     "low": 799.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-30",
+     "low": 799.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-31",
+     "low": 799.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-11-01",
+     "low": 750.08,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    }
+   ]
+  },
+  {
+   "rank": 56,
+   "product_id": 4182,
+   "name": "SanDisk Professional PRO-G40 2TB Portable SSD",
+   "maker": "SanDisk",
+   "model": "Professional PRO-G40",
+   "category": "ssd",
+   "part_number": "SDPS31H002TGBC",
+   "upc": "619659209568",
+   "launch_price": null,
+   "week_low": 499.99,
+   "week_high": 519.99,
+   "week_open": 499.99,
+   "week_close": 519.99,
+   "typical_price_end": 519.99,
+   "prev_week_close": 499.99,
+   "change_vs_prev_week_pct": 4.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 13,
+   "lowest_store_end": "SanDisk Store",
+   "url": "https://ssd.live/ssds/sandisk-professional-pro-g40-2tb-portable-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 12
+    },
+    {
+     "date": "2026-10-27",
+     "low": 499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 13
+    },
+    {
+     "date": "2026-10-28",
+     "low": 499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 13
+    },
+    {
+     "date": "2026-10-29",
+     "low": 499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 13
+    },
+    {
+     "date": "2026-10-30",
+     "low": 499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 13
+    },
+    {
+     "date": "2026-10-31",
+     "low": 499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 13
+    },
+    {
+     "date": "2026-11-01",
+     "low": 519.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 13
+    }
+   ]
+  },
+  {
+   "rank": 57,
+   "product_id": 6937,
+   "name": "SanDisk Extreme PRO 2TB Portable SSD Black",
+   "maker": "SanDisk",
+   "model": null,
+   "category": "ssd",
+   "part_number": "SDSSDE81-2T00-G25",
+   "upc": "619659181314",
+   "launch_price": null,
+   "week_low": 359.99,
+   "week_high": 359.99,
+   "week_open": 359.99,
+   "week_close": 359.99,
+   "typical_price_end": 389.0,
+   "prev_week_close": 359.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 9,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://ssd.live/ssds/sandisk-extreme-pro-2tb-portable-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 359.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 8
+    },
+    {
+     "date": "2026-10-27",
+     "low": 359.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-28",
+     "low": 359.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-29",
+     "low": 359.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-30",
+     "low": 359.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-10-31",
+     "low": 359.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 9
+    },
+    {
+     "date": "2026-11-01",
+     "low": 359.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 9
+    }
+   ]
+  },
+  {
+   "rank": 58,
+   "product_id": 7613,
+   "name": "Sabrent Rocket 4TB M.2 2242 NVMe",
+   "maker": "Sabrent",
+   "model": "Rocket",
+   "category": "ssd",
+   "part_number": "SB-2742-4TB",
+   "upc": "840025267909",
+   "launch_price": null,
+   "week_low": 764.49,
+   "week_high": 771.17,
+   "week_open": 764.73,
+   "week_close": 770.56,
+   "typical_price_end": 770.56,
+   "prev_week_close": 764.73,
+   "change_vs_prev_week_pct": 0.8,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/sabrent-rocket-4tb-m2-2242-nvme",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 764.73,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-27",
+     "low": 764.49,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-28",
+     "low": 771.17,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-29",
+     "low": 771.17,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-30",
+     "low": 771.17,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-31",
+     "low": 770.69,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-11-01",
+     "low": 770.56,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 59,
+   "product_id": 1950,
+   "name": "KLEVV CRAS C910G 2TB M.2 2280 NVMe PCIe 4.0 with Heatsink",
+   "maker": "KLEVV",
+   "model": "CRAS C910G",
+   "category": "ssd",
+   "part_number": "K02TBM2SP0-10G",
+   "upc": "4895194901877",
+   "launch_price": null,
+   "week_low": 289.99,
+   "week_high": 289.99,
+   "week_open": 289.99,
+   "week_close": 289.99,
+   "typical_price_end": 289.99,
+   "prev_week_close": 289.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Newegg",
+   "url": "https://ssd.live/ssds/klevv-cras-c910g-2tb-m2-2280-nvme-pcie-40-with-heatsink",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 289.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 289.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 289.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 289.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 289.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 289.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 289.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 60,
+   "product_id": 1959,
+   "name": "KLEVV CRAS C910G 1TB M.2 2280 NVMe PCIe 4.0 with Heatsink",
+   "maker": "KLEVV",
+   "model": "CRAS C910G",
+   "category": "ssd",
+   "part_number": "K01TBM2SP0-10G",
+   "upc": "4895194901860",
+   "launch_price": null,
+   "week_low": 169.99,
+   "week_high": 169.99,
+   "week_open": 169.99,
+   "week_close": 169.99,
+   "typical_price_end": 174.99,
+   "prev_week_close": 169.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://ssd.live/ssds/klevv-cras-c910g-1tb-m2-2280-nvme-pcie-40-with-heatsink",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 169.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 61,
+   "product_id": 2060,
+   "name": "Seagate FireCuda X1070 4TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "Seagate",
+   "model": "FireCuda X1070",
+   "category": "ssd",
+   "part_number": "ZP4000GS3A001",
+   "upc": "763649187494",
+   "launch_price": null,
+   "week_low": 699.99,
+   "week_high": 799.99,
+   "week_open": 699.99,
+   "week_close": 799.99,
+   "typical_price_end": 899.99,
+   "prev_week_close": 699.99,
+   "change_vs_prev_week_pct": 14.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Seagate Store",
+   "url": "https://ssd.live/ssds/seagate-firecuda-x1070-4tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 699.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 699.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 699.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 699.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 699.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 699.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 799.99,
+     "low_store": "Seagate Store",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 62,
+   "product_id": 2071,
+   "name": "SanDisk Optimus GX PRO 850X 2TB M.2 2280 NVMe PCIe 4.0 with Heatsink",
+   "maker": "SanDisk",
+   "model": "Optimus GX PRO 850X",
+   "category": "ssd",
+   "part_number": "SDSP81200TAH-000E0",
+   "upc": "619659232009",
+   "launch_price": null,
+   "week_low": 509.99,
+   "week_high": 549.99,
+   "week_open": 549.99,
+   "week_close": 509.99,
+   "typical_price_end": 509.99,
+   "prev_week_close": 549.99,
+   "change_vs_prev_week_pct": -7.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 21,
+   "lowest_store_end": "Newegg",
+   "url": "https://ssd.live/ssds/sandisk-optimus-gx-pro-850x-2tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 549.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-27",
+     "low": 549.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-28",
+     "low": 549.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-29",
+     "low": 549.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-30",
+     "low": 549.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 16
+    },
+    {
+     "date": "2026-10-31",
+     "low": 549.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 18
+    },
+    {
+     "date": "2026-11-01",
+     "low": 509.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 21
+    }
+   ]
+  },
+  {
+   "rank": 63,
+   "product_id": 2295,
+   "name": "KLEVV CRAS C715 256GB M.2 2280 NVMe PCIe 3.0",
+   "maker": "KLEVV",
+   "model": "CRAS C715",
+   "category": "ssd",
+   "part_number": "K256GM2SP0-C7T",
+   "upc": "4895194901792",
+   "launch_price": null,
+   "week_low": 59.99,
+   "week_high": 64.99,
+   "week_open": 64.99,
+   "week_close": 59.99,
+   "typical_price_end": 59.99,
+   "prev_week_close": 64.99,
+   "change_vs_prev_week_pct": -7.7,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 28,
+   "lowest_store_end": "Newegg",
+   "url": "https://ssd.live/ssds/klevv-cras-c715-256gb-m2-2280-nvme-pcie-30",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 64.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-27",
+     "low": 64.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-28",
+     "low": 64.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-29",
+     "low": 64.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-30",
+     "low": 59.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-31",
+     "low": 59.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-11-01",
+     "low": 59.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    }
+   ]
+  },
+  {
+   "rank": 64,
+   "product_id": 2407,
+   "name": "KLEVV CRAS C925G 2TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "KLEVV",
+   "model": "CRAS C925G",
+   "category": "ssd",
+   "part_number": "K02TBM2SP0-25G",
+   "upc": "4895194901846",
+   "launch_price": null,
+   "week_low": 319.99,
+   "week_high": 319.99,
+   "week_open": 319.99,
+   "week_close": 319.99,
+   "typical_price_end": 319.99,
+   "prev_week_close": 309.99,
+   "change_vs_prev_week_pct": 3.2,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Newegg",
+   "url": "https://ssd.live/ssds/klevv-cras-c925g-2tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 319.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 319.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 319.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 319.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 319.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 319.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 319.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 65,
+   "product_id": 2912,
+   "name": "Western Digital WD_BLACK SN770M 2TB M.2 2230 NVMe PCIe 4.0",
+   "maker": "Western Digital",
+   "model": "WD_BLACK SN770M",
+   "category": "ssd",
+   "part_number": "WDBDNH0020BBK-WRSN",
+   "upc": "619659207236",
+   "launch_price": null,
+   "week_low": 399.99,
+   "week_high": 399.99,
+   "week_open": 399.99,
+   "week_close": 399.99,
+   "typical_price_end": 414.99,
+   "prev_week_close": 399.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 12,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://ssd.live/ssds/sandisk-wd_black-sn770m-2tb-m2-2230-nvme",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 399.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 14
+    },
+    {
+     "date": "2026-10-27",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 14
+    },
+    {
+     "date": "2026-10-28",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 14
+    },
+    {
+     "date": "2026-10-29",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 14
+    },
+    {
+     "date": "2026-10-30",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 14
+    },
+    {
+     "date": "2026-10-31",
+     "low": 399.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 14
+    },
+    {
+     "date": "2026-11-01",
+     "low": 399.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 12
+    }
+   ]
+  },
+  {
+   "rank": 66,
+   "product_id": 4478,
+   "name": "Crucial P310 1TB M.2 2280 NVMe PCIe 4.0 with Heatsink",
+   "maker": "Crucial",
+   "model": "P310",
+   "category": "ssd",
+   "part_number": "CT1000P310SSD5",
+   "upc": "649528947284",
+   "launch_price": null,
+   "week_low": 174.99,
+   "week_high": 189.99,
+   "week_open": 189.99,
+   "week_close": 174.99,
+   "typical_price_end": 189.99,
+   "prev_week_close": 189.99,
+   "change_vs_prev_week_pct": -7.9,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 25,
+   "lowest_store_end": "Newegg",
+   "url": "https://ssd.live/ssds/crucial-p310-1tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 189.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-27",
+     "low": 189.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-28",
+     "low": 189.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-29",
+     "low": 179.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-30",
+     "low": 179.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-31",
+     "low": 179.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-11-01",
+     "low": 174.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 25
+    }
+   ]
+  },
+  {
+   "rank": 67,
+   "product_id": 6917,
+   "name": "Western Digital WD_BLACK SN8100 2TB M.2 2280 NVMe PCIe 5.0",
+   "maker": "Western Digital",
+   "model": "WD_BLACK SN8100",
+   "category": "ssd",
+   "part_number": "WDS200T1X0M-00CMT0",
+   "upc": "619659221096",
+   "launch_price": null,
+   "week_low": 399.99,
+   "week_high": 429.99,
+   "week_open": 399.99,
+   "week_close": 429.99,
+   "typical_price_end": 529.99,
+   "prev_week_close": 399.99,
+   "change_vs_prev_week_pct": 7.5,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 26,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://ssd.live/ssds/western-digital-wd_black-sn8100-bare-drive-2tb-m2-2280",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 399.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-27",
+     "low": 399.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-28",
+     "low": 399.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-29",
+     "low": 399.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-30",
+     "low": 429.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-31",
+     "low": 429.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-11-01",
+     "low": 429.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 26
+    }
+   ]
+  },
+  {
+   "rank": 68,
+   "product_id": 6926,
+   "name": "Western Digital WD_BLACK SN850X 2TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "Western Digital",
+   "model": "WD_BLACK SN850X",
+   "category": "ssd",
+   "part_number": "WDS200T2X0E",
+   "upc": "718037891408",
+   "launch_price": null,
+   "week_low": 389.99,
+   "week_high": 399.99,
+   "week_open": 389.99,
+   "week_close": 399.99,
+   "typical_price_end": 479.99,
+   "prev_week_close": 389.99,
+   "change_vs_prev_week_pct": 2.6,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 28,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://ssd.live/ssds/western-digital-wd_black-sn850x-2tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 389.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 389.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 389.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-29",
+     "low": 389.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-30",
+     "low": 389.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-31",
+     "low": 389.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-11-01",
+     "low": 399.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 28
+    }
+   ]
+  },
+  {
+   "rank": 69,
+   "product_id": 10398,
+   "name": "PNY CS900 1TB 2.5\" SATA (SSD7CS900-1TB-RB)",
+   "maker": "PNY",
+   "model": "CS900",
+   "category": "ssd",
+   "part_number": "SSD7CS900-1TB-RB",
+   "upc": "606592603348",
+   "launch_price": null,
+   "week_low": 129.57,
+   "week_high": 129.99,
+   "week_open": 129.99,
+   "week_close": 129.57,
+   "typical_price_end": 134.99,
+   "prev_week_close": 129.99,
+   "change_vs_prev_week_pct": -0.3,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/pny-cs900-1tb-25-sata-2",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 129.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-27",
+     "low": 129.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-28",
+     "low": 129.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-29",
+     "low": 129.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-30",
+     "low": 129.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-31",
+     "low": 129.99,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-11-01",
+     "low": 129.57,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 70,
+   "product_id": 2070,
+   "name": "SanDisk Portable Drive 500GB SSD",
+   "maker": "SanDisk",
+   "model": null,
+   "category": "ssd",
+   "part_number": "SDSSDE10-500G-G25",
+   "upc": "619659224417",
+   "launch_price": null,
+   "week_low": 89.99,
+   "week_high": 89.99,
+   "week_open": 89.99,
+   "week_close": 89.99,
+   "typical_price_end": 89.99,
+   "prev_week_close": 89.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://ssd.live/ssds/sandisk-drive-500gb-portable-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 89.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 89.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 89.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 89.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 89.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 89.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 89.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 71,
+   "product_id": 2090,
+   "name": "SanDisk Extreme 4TB Portable SSD Black (SDSSDE70-4T00-G25)",
+   "maker": "SanDisk",
+   "model": "Extreme",
+   "category": "ssd",
+   "part_number": "SDSSDE70-4T00-G25",
+   "upc": "619659223236",
+   "launch_price": null,
+   "week_low": 785.17,
+   "week_high": 791.0,
+   "week_open": 791.0,
+   "week_close": 785.17,
+   "typical_price_end": 829.99,
+   "prev_week_close": 801.48,
+   "change_vs_prev_week_pct": -2.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 28,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/sandisk-extreme-4tb-portable-ssd-2",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 791.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-27",
+     "low": 786.17,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-28",
+     "low": 786.17,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 26
+    },
+    {
+     "date": "2026-10-29",
+     "low": 786.15,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-30",
+     "low": 786.15,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-31",
+     "low": 786.15,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-11-01",
+     "low": 785.17,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 28
+    }
+   ]
+  },
+  {
+   "rank": 72,
+   "product_id": 2133,
+   "name": "Samsung T7 1TB Portable SSD Gray",
+   "maker": "Samsung",
+   "model": "T7",
+   "category": "ssd",
+   "part_number": "MU-PC1T0T/AM",
+   "upc": "887276410791",
+   "launch_price": null,
+   "week_low": 229.99,
+   "week_high": 229.99,
+   "week_open": 229.99,
+   "week_close": 229.99,
+   "typical_price_end": 259.99,
+   "prev_week_close": 229.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://ssd.live/ssds/samsung-t7-1tb-portable-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 229.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-27",
+     "low": 229.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 34
+    },
+    {
+     "date": "2026-10-28",
+     "low": 229.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-29",
+     "low": 229.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-30",
+     "low": 229.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-31",
+     "low": 229.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-11-01",
+     "low": 229.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    }
+   ]
+  },
+  {
+   "rank": 73,
+   "product_id": 2753,
+   "name": "Western Digital WD_BLACK SN850X 8TB M.2 2280 NVMe PCIe 4.0 with Heatsink",
+   "maker": "Western Digital",
+   "model": "WD_BLACK SN850X",
+   "category": "ssd",
+   "part_number": "WDS800T2XHE",
+   "upc": "718037904924",
+   "launch_price": null,
+   "week_low": 1499.99,
+   "week_high": 1499.99,
+   "week_open": 1499.99,
+   "week_close": 1499.99,
+   "typical_price_end": 1629.99,
+   "prev_week_close": 1499.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 24,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://ssd.live/ssds/sandisk-wd_black-sn850x-8tb-m2-2280-nvme-pcie-40-with-heatsink",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 1499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-27",
+     "low": 1499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 25
+    },
+    {
+     "date": "2026-10-28",
+     "low": 1499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-29",
+     "low": 1499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-30",
+     "low": 1499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 24
+    },
+    {
+     "date": "2026-10-31",
+     "low": 1499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-11-01",
+     "low": 1499.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 24
+    }
+   ]
+  },
+  {
+   "rank": 74,
+   "product_id": 2794,
+   "name": "Samsung 990 1TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "Samsung",
+   "model": null,
+   "category": "ssd",
+   "part_number": "MZ-V9V1T0B/AM",
+   "upc": "198957280818",
+   "launch_price": null,
+   "week_low": 189.99,
+   "week_high": 189.99,
+   "week_open": 189.99,
+   "week_close": 189.99,
+   "typical_price_end": 189.99,
+   "prev_week_close": 189.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 11,
+   "lowest_store_end": "Newegg",
+   "url": "https://ssd.live/ssds/samsung-990-1tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 189.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 12
+    },
+    {
+     "date": "2026-10-27",
+     "low": 189.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 7
+    },
+    {
+     "date": "2026-10-28",
+     "low": 189.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 11
+    },
+    {
+     "date": "2026-10-29",
+     "low": 189.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 11
+    },
+    {
+     "date": "2026-10-30",
+     "low": 189.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 10
+    },
+    {
+     "date": "2026-10-31",
+     "low": 189.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 10
+    },
+    {
+     "date": "2026-11-01",
+     "low": 189.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 11
+    }
+   ]
+  },
+  {
+   "rank": 75,
+   "product_id": 4123,
+   "name": "SanDisk 500GB Portable SSD (SDSSDE31-500G-G25)",
+   "maker": "SanDisk",
+   "model": null,
+   "category": "ssd",
+   "part_number": "SDSSDE31-500G-G25",
+   "upc": "619659234171",
+   "launch_price": null,
+   "week_low": 99.99,
+   "week_high": 99.99,
+   "week_open": 99.99,
+   "week_close": 99.99,
+   "typical_price_end": 109.99,
+   "prev_week_close": 99.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 32,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://ssd.live/ssds/sandisk-500gb-portable-ssd-sdssde31-500g-g25",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 99.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-27",
+     "low": 99.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-28",
+     "low": 99.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-29",
+     "low": 99.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-30",
+     "low": 99.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-31",
+     "low": 99.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-11-01",
+     "low": 99.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 32
+    }
+   ]
+  },
+  {
+   "rank": 76,
+   "product_id": 4365,
+   "name": "SanDisk Extreme 2TB Portable SSD (SDSSDE62P-2T00-G25)",
+   "maker": "SanDisk",
+   "model": "Extreme",
+   "category": "ssd",
+   "part_number": "SDSSDE62P-2T00-G25",
+   "upc": "619659213466",
+   "launch_price": null,
+   "week_low": 302.33,
+   "week_high": 319.99,
+   "week_open": 319.99,
+   "week_close": 319.99,
+   "typical_price_end": 319.99,
+   "prev_week_close": 319.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "SanDisk Store",
+   "url": "https://ssd.live/ssds/sandisk-extreme-2tb-portable-ssd-4",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 319.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-27",
+     "low": 315.64,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-28",
+     "low": 315.64,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-29",
+     "low": 314.96,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-30",
+     "low": 302.33,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-31",
+     "low": 302.33,
+     "low_store": "Amazon",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-11-01",
+     "low": 319.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 77,
+   "product_id": 4419,
+   "name": "Samsung T7 Shield 1TB Portable SSD Black",
+   "maker": "Samsung",
+   "model": "T7 Shield",
+   "category": "ssd",
+   "part_number": "MU-PE1T0S/AM",
+   "upc": "887276543901",
+   "launch_price": null,
+   "week_low": 267.57,
+   "week_high": 271.28,
+   "week_open": 271.28,
+   "week_close": 271.28,
+   "typical_price_end": 287.99,
+   "prev_week_close": 271.28,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 8,
+   "shops_in_stock_end": 32,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/samsung-t7-shield-1tb-portable-ssd-2",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 271.28,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-27",
+     "low": 267.94,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-28",
+     "low": 267.57,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 31
+    },
+    {
+     "date": "2026-10-29",
+     "low": 270.44,
+     "low_store": "Amazon",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-30",
+     "low": 271.28,
+     "low_store": "Amazon",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-31",
+     "low": 271.28,
+     "low_store": "Amazon",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-11-01",
+     "low": 271.28,
+     "low_store": "Amazon",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 32
+    }
+   ]
+  },
+  {
+   "rank": 78,
+   "product_id": 4442,
+   "name": "Samsung T9 1TB Portable SSD",
+   "maker": "Samsung",
+   "model": "T9",
+   "category": "ssd",
+   "part_number": "MU-PG1T0B/AM",
+   "upc": "887276664545",
+   "launch_price": null,
+   "week_low": 209.0,
+   "week_high": 239.99,
+   "week_open": 239.99,
+   "week_close": 209.0,
+   "typical_price_end": 241.97,
+   "prev_week_close": 239.99,
+   "change_vs_prev_week_pct": -12.9,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 7,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Adorama",
+   "url": "https://ssd.live/ssds/samsung-t9-1tb-portable-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 239.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-27",
+     "low": 239.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-28",
+     "low": 239.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-29",
+     "low": 239.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-30",
+     "low": 239.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 8,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-31",
+     "low": 209.0,
+     "low_store": "Adorama",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-11-01",
+     "low": 209.0,
+     "low_store": "Adorama",
+     "retailers_in_stock": 7,
+     "shops_in_stock": 35
+    }
+   ]
+  },
+  {
+   "rank": 79,
+   "product_id": 4456,
+   "name": "Samsung T9 4TB Portable SSD",
+   "maker": "Samsung",
+   "model": "T9",
+   "category": "ssd",
+   "part_number": "MU-PG4T0B/AM",
+   "upc": "887276664521",
+   "launch_price": null,
+   "week_low": 934.45,
+   "week_high": 936.98,
+   "week_open": 936.98,
+   "week_close": 936.98,
+   "typical_price_end": 999.99,
+   "prev_week_close": 936.98,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 33,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/samsung-t9-4tb-portable-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 936.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-27",
+     "low": 934.45,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-28",
+     "low": 936.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-29",
+     "low": 936.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-30",
+     "low": 936.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-10-31",
+     "low": 936.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 33
+    },
+    {
+     "date": "2026-11-01",
+     "low": 936.98,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 33
+    }
+   ]
+  },
+  {
+   "rank": 80,
+   "product_id": 5360,
+   "name": "Samsung 9100 PRO 1TB M.2 2280 NVMe PCIe 5.0 with Heatsink",
+   "maker": "Samsung",
+   "model": "9100 PRO",
+   "category": "ssd",
+   "part_number": "MZ-VAP1T0CW",
+   "upc": "887276904955",
+   "launch_price": null,
+   "week_low": 359.63,
+   "week_high": 359.97,
+   "week_open": 359.63,
+   "week_close": 359.97,
+   "typical_price_end": 359.99,
+   "prev_week_close": 359.97,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/samsung-9100-pro-1tb-m2-2280-nvme-pcie-50-with-heatsink",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 359.63,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-27",
+     "low": 359.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-28",
+     "low": 359.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-29",
+     "low": 359.63,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-30",
+     "low": 359.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-31",
+     "low": 359.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-11-01",
+     "low": 359.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 81,
+   "product_id": 5379,
+   "name": "Samsung 990 EVO Plus 4TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "Samsung",
+   "model": "990 EVO Plus",
+   "category": "ssd",
+   "part_number": "MZ-V9S4T0B/AM",
+   "upc": "887276843667",
+   "launch_price": null,
+   "week_low": 689.99,
+   "week_high": 689.99,
+   "week_open": 689.99,
+   "week_close": 689.99,
+   "typical_price_end": 1049.99,
+   "prev_week_close": 689.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://ssd.live/ssds/samsung-990-evo-plus-4tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 689.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-27",
+     "low": 689.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-28",
+     "low": 689.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-29",
+     "low": 689.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-30",
+     "low": 689.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-31",
+     "low": 689.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-11-01",
+     "low": 689.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    }
+   ]
+  },
+  {
+   "rank": 82,
+   "product_id": 5382,
+   "name": "Samsung 990 PRO 4TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "Samsung",
+   "model": "990 PRO",
+   "category": "ssd",
+   "part_number": "MZ-V9P4T0B/AM",
+   "upc": "887276795195",
+   "launch_price": null,
+   "week_low": 799.9,
+   "week_high": 799.9,
+   "week_open": 799.9,
+   "week_close": 799.9,
+   "typical_price_end": 799.99,
+   "prev_week_close": 799.9,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/samsung-990-pro-4tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 799.9,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-27",
+     "low": 799.9,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-28",
+     "low": 799.9,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-29",
+     "low": 799.9,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-30",
+     "low": 799.9,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-31",
+     "low": 799.9,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-11-01",
+     "low": 799.9,
+     "low_store": "Amazon",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    }
+   ]
+  },
+  {
+   "rank": 83,
+   "product_id": 7293,
+   "name": "Samsung 9100 PRO 4TB M.2 2280 NVMe PCIe 5.0 (MZ-VAP4T0B/AM)",
+   "maker": "Samsung",
+   "model": "9100 PRO",
+   "category": "ssd",
+   "part_number": "MZ-VAP4T0B/AM",
+   "upc": "887276904894",
+   "launch_price": null,
+   "week_low": 999.99,
+   "week_high": 999.99,
+   "week_open": 999.99,
+   "week_close": 999.99,
+   "typical_price_end": 1359.99,
+   "prev_week_close": 999.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 34,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://ssd.live/ssds/samsung-9100-pro-4tb-m2-2280-nvme",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 999.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-27",
+     "low": 999.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-28",
+     "low": 999.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-29",
+     "low": 999.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-30",
+     "low": 999.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-10-31",
+     "low": 999.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 35
+    },
+    {
+     "date": "2026-11-01",
+     "low": 999.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 34
+    }
+   ]
+  },
+  {
+   "rank": 84,
+   "product_id": 7317,
+   "name": "Samsung 990 EVO Plus 1TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "Samsung",
+   "model": "990 EVO Plus",
+   "category": "ssd",
+   "part_number": "MZ-V9S1T0B/AM",
+   "upc": "887276843711",
+   "launch_price": null,
+   "week_low": 199.99,
+   "week_high": 199.99,
+   "week_open": 199.99,
+   "week_close": 199.99,
+   "typical_price_end": 289.99,
+   "prev_week_close": 199.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 32,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://ssd.live/ssds/samsung-990-evo-plus-1tb-m2-2280-nvme",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-27",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-28",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-29",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-30",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-10-31",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 32
+    },
+    {
+     "date": "2026-11-01",
+     "low": 199.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 32
+    }
+   ]
+  },
+  {
+   "rank": 85,
+   "product_id": 7325,
+   "name": "Samsung 990 PRO w/ Heatsink 1TB M.2 2280 NVMe (MZ-V9P1T0CW)",
+   "maker": "Samsung",
+   "model": "990 PRO",
+   "category": "ssd",
+   "part_number": "MZ-V9P1T0CW",
+   "upc": "887276656984",
+   "launch_price": null,
+   "week_low": 249.99,
+   "week_high": 249.99,
+   "week_open": 249.99,
+   "week_close": 249.99,
+   "typical_price_end": 303.97,
+   "prev_week_close": 249.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 4,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://ssd.live/ssds/samsung-990-pro-w-heatsink-1tb-m2-2280-nvme",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-27",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-28",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-29",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-30",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-31",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-11-01",
+     "low": 249.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 4
+    }
+   ]
+  },
+  {
+   "rank": 86,
+   "product_id": 7415,
+   "name": "SanDisk Extreme PRO 4TB Portable SSD Black (SDSSDE83-4T00-G25)",
+   "maker": "SanDisk",
+   "model": null,
+   "category": "ssd",
+   "part_number": "SDSSDE83-4T00-G25",
+   "upc": "619659223090",
+   "launch_price": null,
+   "week_low": 1099.77,
+   "week_high": 1099.99,
+   "week_open": 1099.77,
+   "week_close": 1099.99,
+   "typical_price_end": 1099.99,
+   "prev_week_close": 1099.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "SanDisk Store",
+   "url": "https://ssd.live/ssds/sandisk-extreme-pro-4tb-portable-ssd-2",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 1099.77,
+     "low_store": "Amazon",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 1099.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 1099.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-29",
+     "low": 1099.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-30",
+     "low": 1099.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-31",
+     "low": 1099.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-11-01",
+     "low": 1099.99,
+     "low_store": "SanDisk Store",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 87,
+   "product_id": 5374,
+   "name": "Lexar NM790 1TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "Lexar",
+   "model": "NM790",
+   "category": "ssd",
+   "part_number": "LNM790X001TRNNN",
+   "upc": "843367131365",
+   "launch_price": null,
+   "week_low": 199.99,
+   "week_high": 199.99,
+   "week_open": 199.99,
+   "week_close": 199.99,
+   "typical_price_end": 199.99,
+   "prev_week_close": 199.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://ssd.live/ssds/lexar-nm790-1tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 88,
+   "product_id": 5394,
+   "name": "Samsung 9100 PRO 4TB M.2 2280 NVMe PCIe 5.0 with Heatsink",
+   "maker": "Samsung",
+   "model": "9100 PRO",
+   "category": "ssd",
+   "part_number": "MZ-VAP4T0CW",
+   "upc": "887276904931",
+   "launch_price": null,
+   "week_low": 1326.75,
+   "week_high": 1326.75,
+   "week_open": 1326.75,
+   "week_close": 1326.75,
+   "typical_price_end": 1399.99,
+   "prev_week_close": 1326.75,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 5,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "B&H Photo",
+   "url": "https://ssd.live/ssds/samsung-9100-pro-4tb-m2-2280-nvme-pcie-50-with-heatsink",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 1326.75,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 27
+    },
+    {
+     "date": "2026-10-27",
+     "low": 1326.75,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-28",
+     "low": 1326.75,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-29",
+     "low": 1326.75,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-30",
+     "low": 1326.75,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-31",
+     "low": 1326.75,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-11-01",
+     "low": 1326.75,
+     "low_store": "B&H Photo",
+     "retailers_in_stock": 5,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 89,
+   "product_id": 6929,
+   "name": "Western Digital WD_BLACK SN850X 8TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "Western Digital",
+   "model": "WD_BLACK SN850X",
+   "category": "ssd",
+   "part_number": "WDS800T2X0E",
+   "upc": "619659208417",
+   "launch_price": null,
+   "week_low": 1789.99,
+   "week_high": 1789.99,
+   "week_open": 1789.99,
+   "week_close": 1789.99,
+   "typical_price_end": 1999.99,
+   "prev_week_close": 1789.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 21,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://ssd.live/ssds/western-digital-wd_black-sn850x-8tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 1789.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-27",
+     "low": 1789.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 23
+    },
+    {
+     "date": "2026-10-28",
+     "low": 1789.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 22
+    },
+    {
+     "date": "2026-10-29",
+     "low": 1789.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-30",
+     "low": 1789.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-10-31",
+     "low": 1789.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 21
+    },
+    {
+     "date": "2026-11-01",
+     "low": 1789.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 21
+    }
+   ]
+  },
+  {
+   "rank": 90,
+   "product_id": 3269,
+   "name": "KLEVV CRAS C715 512GB M.2 2280 NVMe PCIe 3.0",
+   "maker": "KLEVV",
+   "model": "CRAS C715",
+   "category": "ssd",
+   "part_number": "K512GM2SP0-C7T",
+   "upc": "4895194901808",
+   "launch_price": null,
+   "week_low": 99.99,
+   "week_high": 109.99,
+   "week_open": 109.99,
+   "week_close": 99.99,
+   "typical_price_end": 99.99,
+   "prev_week_close": 109.99,
+   "change_vs_prev_week_pct": -9.1,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://ssd.live/ssds/klevv-cras-c715-512gb-m2-2280-nvme-pcie-30",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 109.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 109.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 109.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 109.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 99.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 91,
+   "product_id": 3292,
+   "name": "KLEVV CRAS C715 1TB M.2 2280 NVMe PCIe 3.0",
+   "maker": "KLEVV",
+   "model": "CRAS C715",
+   "category": "ssd",
+   "part_number": "K01TBM2SP0-C7T",
+   "upc": "4895194901815",
+   "launch_price": null,
+   "week_low": 169.99,
+   "week_high": 179.99,
+   "week_open": 179.99,
+   "week_close": 169.99,
+   "typical_price_end": 169.99,
+   "prev_week_close": 179.99,
+   "change_vs_prev_week_pct": -5.6,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 29,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://ssd.live/ssds/klevv-cras-c715-1tb-m2-2280-nvme-pcie-30",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 179.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 179.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 179.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 179.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 169.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 169.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 169.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    }
+   ]
+  },
+  {
+   "rank": 92,
+   "product_id": 3303,
+   "name": "MSI SPATIUM M450 1TB M.2 2280 NVMe PCIe 4.0 (M4501TBGEN4)",
+   "maker": "MSI",
+   "model": "SPATIUM M450",
+   "category": "ssd",
+   "part_number": "M4501TBGEN4",
+   "upc": "824142396803",
+   "launch_price": null,
+   "week_low": 159.99,
+   "week_high": 189.99,
+   "week_open": 189.99,
+   "week_close": 159.99,
+   "typical_price_end": 159.99,
+   "prev_week_close": 189.99,
+   "change_vs_prev_week_pct": -15.8,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 26,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://ssd.live/ssds/msi-spatium-m450-1tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 189.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-27",
+     "low": 189.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-28",
+     "low": 189.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-29",
+     "low": 189.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-30",
+     "low": 189.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-31",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-11-01",
+     "low": 159.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 26
+    }
+   ]
+  },
+  {
+   "rank": 93,
+   "product_id": 4113,
+   "name": "Lexar SL300 1TB Portable SSD",
+   "maker": "Lexar",
+   "model": "SL300",
+   "category": "ssd",
+   "part_number": "LSL300001T-RNBNG",
+   "upc": "843367137978",
+   "launch_price": null,
+   "week_low": 199.99,
+   "week_high": 199.99,
+   "week_open": 199.99,
+   "week_close": 199.99,
+   "typical_price_end": 199.99,
+   "prev_week_close": 199.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://ssd.live/ssds/lexar-sl300-1tb-portable-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 94,
+   "product_id": 7354,
+   "name": "Samsung T7 Shield 1TB Portable SSD",
+   "maker": "Samsung",
+   "model": "T7 Shield",
+   "category": "ssd",
+   "part_number": "MU-PE1T0K/AM",
+   "upc": "887276543932",
+   "launch_price": null,
+   "week_low": 287.99,
+   "week_high": 287.99,
+   "week_open": 287.99,
+   "week_close": 287.99,
+   "typical_price_end": 287.99,
+   "prev_week_close": 287.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 5,
+   "lowest_store_end": "Central Computers (in store)",
+   "url": "https://ssd.live/ssds/samsung-t7-shield-1tb-portable-ssd-3",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 287.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-27",
+     "low": 287.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-28",
+     "low": 287.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-29",
+     "low": 287.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 4
+    },
+    {
+     "date": "2026-10-30",
+     "low": 287.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-10-31",
+     "low": 287.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 5
+    },
+    {
+     "date": "2026-11-01",
+     "low": 287.99,
+     "low_store": "Central Computers (in store)",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 5
+    }
+   ]
+  },
+  {
+   "rank": 95,
+   "product_id": 2633,
+   "name": "TEAMGROUP T-FORCE G50 4TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "TEAMGROUP",
+   "model": "T-FORCE G50",
+   "category": "ssd",
+   "part_number": "TM8FFE004T0C129",
+   "upc": "4711430805924",
+   "launch_price": null,
+   "week_low": 495.99,
+   "week_high": 495.99,
+   "week_open": 495.99,
+   "week_close": 495.99,
+   "typical_price_end": 547.99,
+   "prev_week_close": 495.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 2,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://ssd.live/ssds/teamgroup-t-force-g50-4tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 495.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 495.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 495.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 495.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 495.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 495.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 495.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 2,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 96,
+   "product_id": 2693,
+   "name": "Samsung 990 2TB M.2 2280 NVMe PCIe 4.0",
+   "maker": "Samsung",
+   "model": null,
+   "category": "ssd",
+   "part_number": "MZ-V9V2T0B/AM",
+   "upc": "198957280801",
+   "launch_price": null,
+   "week_low": 369.99,
+   "week_high": 369.99,
+   "week_open": 369.99,
+   "week_close": 369.99,
+   "typical_price_end": 369.99,
+   "prev_week_close": 329.99,
+   "change_vs_prev_week_pct": 12.1,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Newegg",
+   "url": "https://ssd.live/ssds/samsung-990-2tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 369.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-27",
+     "low": 369.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 369.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 369.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 369.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 369.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 369.99,
+     "low_store": "Newegg",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 97,
+   "product_id": 5359,
+   "name": "Corsair MP600 ELITE 1TB M.2 2280 NVMe PCIe 4.0 (F1000GBMP600ECS)",
+   "maker": "Corsair",
+   "model": "MP600 ELITE",
+   "category": "ssd",
+   "part_number": "F1000GBMP600ECS",
+   "upc": "840006677598",
+   "launch_price": null,
+   "week_low": 249.99,
+   "week_high": 304.0,
+   "week_open": 249.99,
+   "week_close": 304.0,
+   "typical_price_end": 304.99,
+   "prev_week_close": 249.99,
+   "change_vs_prev_week_pct": 21.6,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 3,
+   "shops_in_stock_end": 30,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/corsair-mp600-elite-1tb-m2-2280-nvme-pcie-40-3",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-27",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-28",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-30",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 249.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-11-01",
+     "low": 304.0,
+     "low_store": "Amazon",
+     "retailers_in_stock": 3,
+     "shops_in_stock": 30
+    }
+   ]
+  },
+  {
+   "rank": 98,
+   "product_id": 5375,
+   "name": "Lexar NQ780 2TB M.2 2280 NVMe PCIe 4.0 (LNQ780X002TRNNN)",
+   "maker": "Lexar",
+   "model": "NQ780",
+   "category": "ssd",
+   "part_number": "LNQ780X002TRNNN",
+   "upc": "843367137046",
+   "launch_price": null,
+   "week_low": 309.97,
+   "week_high": 309.97,
+   "week_open": 309.97,
+   "week_close": 309.97,
+   "typical_price_end": 309.99,
+   "prev_week_close": 309.97,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 4,
+   "shops_in_stock_end": 28,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/lexar-nq780-2tb-m2-2280-nvme-pcie-40",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 309.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-27",
+     "low": 309.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    },
+    {
+     "date": "2026-10-28",
+     "low": 309.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-29",
+     "low": 309.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-10-30",
+     "low": 309.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 30
+    },
+    {
+     "date": "2026-10-31",
+     "low": 309.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 29
+    },
+    {
+     "date": "2026-11-01",
+     "low": 309.97,
+     "low_store": "Amazon",
+     "retailers_in_stock": 4,
+     "shops_in_stock": 28
+    }
+   ]
+  },
+  {
+   "rank": 99,
+   "product_id": 6972,
+   "name": "Western Digital WD Blue SA510 2TB M.2 2280 SATA",
+   "maker": "Western Digital",
+   "model": "WD Blue SA510",
+   "category": "ssd",
+   "part_number": "WDS200T3B0B",
+   "upc": "718037884684",
+   "launch_price": null,
+   "week_low": 279.41,
+   "week_high": 279.99,
+   "week_open": 279.85,
+   "week_close": 279.75,
+   "typical_price_end": 279.75,
+   "prev_week_close": 274.41,
+   "change_vs_prev_week_pct": 1.9,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 1,
+   "shops_in_stock_end": 0,
+   "lowest_store_end": "Amazon",
+   "url": "https://ssd.live/ssds/western-digital-wd-blue-sa510-2tb-m2-2280-sata",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 279.85,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-27",
+     "low": 279.45,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-28",
+     "low": 279.75,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-29",
+     "low": 279.41,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-30",
+     "low": 279.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-10-31",
+     "low": 279.99,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    },
+    {
+     "date": "2026-11-01",
+     "low": 279.75,
+     "low_store": "Amazon",
+     "retailers_in_stock": 1,
+     "shops_in_stock": 0
+    }
+   ]
+  },
+  {
+   "rank": 100,
+   "product_id": 7124,
+   "name": "SanDisk Creator Phone 1TB Portable SSD",
+   "maker": "SanDisk",
+   "model": "Creator Phone",
+   "category": "ssd",
+   "part_number": "SDSSDE62C-1T00-G25",
+   "upc": "619659216177",
+   "launch_price": null,
+   "week_low": 199.99,
+   "week_high": 199.99,
+   "week_open": 199.99,
+   "week_close": 199.99,
+   "typical_price_end": 224.99,
+   "prev_week_close": 199.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 6,
+   "shops_in_stock_end": 14,
+   "lowest_store_end": "Micro Center (in store)",
+   "url": "https://ssd.live/ssds/sandisk-creator-phone-1tb-portable-ssd",
+   "daily": [
+    {
+     "date": "2026-10-26",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-27",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-28",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-29",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 15
+    },
+    {
+     "date": "2026-10-30",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 14
+    },
+    {
+     "date": "2026-10-31",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 14
+    },
+    {
+     "date": "2026-11-01",
+     "low": 199.99,
+     "low_store": "Micro Center (in store)",
+     "retailers_in_stock": 6,
+     "shops_in_stock": 14
+    }
+   ]
+  }
+ ],
+ "sizes": [
+  {
+   "name": "PCIe 5.0",
+   "launch_price": null,
+   "products_tracked": 284,
+   "products_in_stock_end": 111,
+   "week_low": 179.99,
+   "week_high": 179.99,
+   "week_open": 179.99,
+   "week_close": 179.99,
+   "typical_price_end": 229.99,
+   "prev_week_close": 179.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 10,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Central Computers (in store)"
+  },
+  {
+   "name": "1TB Portable",
+   "launch_price": null,
+   "products_tracked": 200,
+   "products_in_stock_end": 90,
+   "week_low": 89.99,
+   "week_high": 89.99,
+   "week_open": 89.99,
+   "week_close": 89.99,
+   "typical_price_end": 129.99,
+   "prev_week_close": 89.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 10,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Newegg"
+  },
+  {
+   "name": "1TB NVMe",
+   "launch_price": null,
+   "products_tracked": 240,
+   "products_in_stock_end": 89,
+   "week_low": 139.99,
+   "week_high": 149.99,
+   "week_open": 144.99,
+   "week_close": 149.99,
+   "typical_price_end": 179.99,
+   "prev_week_close": 139.99,
+   "change_vs_prev_week_pct": 7.1,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 11,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Newegg"
+  },
+  {
+   "name": "2TB NVMe",
+   "launch_price": null,
+   "products_tracked": 244,
+   "products_in_stock_end": 88,
+   "week_low": 159.99,
+   "week_high": 159.99,
+   "week_open": 159.99,
+   "week_close": 159.99,
+   "typical_price_end": 299.99,
+   "prev_week_close": 159.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 11,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Samsung Store"
+  },
+  {
+   "name": "2TB Portable",
+   "launch_price": null,
+   "products_tracked": 180,
+   "products_in_stock_end": 75,
+   "week_low": 259.99,
+   "week_high": 259.99,
+   "week_open": 259.99,
+   "week_close": 259.99,
+   "typical_price_end": 299.99,
+   "prev_week_close": 259.99,
+   "change_vs_prev_week_pct": 0.0,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 11,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "SanDisk Store"
+  },
+  {
+   "name": "4TB NVMe",
+   "launch_price": null,
+   "products_tracked": 122,
+   "products_in_stock_end": 62,
+   "week_low": 449.99,
+   "week_high": 479.99,
+   "week_open": 449.99,
+   "week_close": 479.99,
+   "typical_price_end": 599.99,
+   "prev_week_close": 449.99,
+   "change_vs_prev_week_pct": 6.7,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 11,
+   "shops_in_stock_end": 36,
+   "lowest_store_end": "Newegg"
+  },
+  {
+   "name": "2TB SATA",
+   "launch_price": null,
+   "products_tracked": 38,
+   "products_in_stock_end": 15,
+   "week_low": 229.99,
+   "week_high": 234.99,
+   "week_open": 234.99,
+   "week_close": 229.99,
+   "typical_price_end": 259.99,
+   "prev_week_close": 234.99,
+   "change_vs_prev_week_pct": -2.1,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 9,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Amazon"
+  },
+  {
+   "name": "8TB NVMe",
+   "launch_price": null,
+   "products_tracked": 24,
+   "products_in_stock_end": 13,
+   "week_low": 1399.99,
+   "week_high": 1499.99,
+   "week_open": 1399.99,
+   "week_close": 1499.99,
+   "typical_price_end": 1724.99,
+   "prev_week_close": 1399.99,
+   "change_vs_prev_week_pct": 7.1,
+   "days_in_stock": 7,
+   "retailers_in_stock_end": 8,
+   "shops_in_stock_end": 35,
+   "lowest_store_end": "Micro Center (in store)"
+  }
+ ]
+}

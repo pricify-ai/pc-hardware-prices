@@ -1,13 +1,13 @@
 {
  "dataset": "Pricify weekly PC hardware prices",
- "week": "2026-W43",
- "from": "2026-10-19",
- "to": "2026-10-25",
- "generated": "2026-10-26T06:12:04Z",
+ "week": "2026-W44",
+ "from": "2026-10-26",
+ "to": "2026-11-01",
+ "generated": "2026-11-03T04:32:43Z",
  "license": "CC BY 4.0",
  "attribution": "Pricify (pricify.ai)",
  "files": {
-  "excel": "pricify-2026-W43.xlsx",
+  "excel": "pricify-2026-W44.xlsx",
   "json": {
    "rtx.live": "json/rtx.live.json",
    "vga.live": "json/vga.live.json",
@@ -21,19 +21,19 @@
  "sites": {
   "rtx.live": {
    "products": 100,
-   "groups": 27
+   "groups": 26
   },
   "vga.live": {
    "products": 100,
-   "groups": 63
+   "groups": 59
   },
   "cpu.live": {
    "products": 100,
-   "groups": 170
+   "groups": 174
   },
   "ssd.live": {
    "products": 100,
-   "groups": 7
+   "groups": 8
   },
   "hdd.live": {
    "products": 100,
