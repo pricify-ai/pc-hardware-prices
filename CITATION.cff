@@ -8,9 +8,9 @@ authors:
 url: "https://github.com/pricify-ai/pc-hardware-prices"
 repository: "https://github.com/pricify-ai/pc-hardware-prices"
 license: CC-BY-4.0
-version: "2026-W44"
-date-released: "2026-11-03"
+version: "2026-W45"
+date-released: "2026-11-09"
 abstract: >-
-  Weekly prices and stock of the most popular PC components (graphics cards, processors, SSDs, hard drives,
-  memory and power supplies) at US retailers, from the Pricify price trackers. Stores' own prices only.
+  Weekly prices and stock of the most popular PC components (graphics cards, processors, SSDs, hard drives, memory and power supplies) at US retailers,
+  from the Pricify price trackers. Stores' own prices only.
 keywords: [prices, pc hardware, graphics cards, gpu prices, cpu prices, ssd, retail, dataset]

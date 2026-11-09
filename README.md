@@ -2,19 +2,19 @@
 
 Weekly prices and stock of the most popular PC components at US retailers, from the [Pricify](https://pricify.ai) price trackers: graphics cards, processors, SSDs, hard drives, memory and power supplies. One release every week, in Excel and JSON, free to use with credit.
 
-**Latest: 2026-W44** (2026-10-26 to 2026-11-01, US Eastern) · [Excel](latest/pricify-latest.xlsx) · [JSON](latest/json/) · [all weeks](data/)
+**Latest: 2026-W45** (2026-11-02 to 2026-11-08, US Eastern) · [Excel](latest/pricify-latest.xlsx) · [JSON](latest/json/) · [all weeks](data/)
 
 ## This week
 
 | Site | Tracks | Products | Biggest drop vs last week | Biggest rise | In stock at the most stores |
 |---|---|---:|---|---|---|
-| [rtx.live](https://rtx.live) | NVIDIA RTX cards | 100 | PNY RTX Pro 6000 Blackwell Max-Q Work...: $13,999.99 (-12.5%) | MSI GeForce RTX 5070 Ti 16GB GAMING T...: $1,549.99 (+24.0%) | ASUS GeForce RTX 5060 Ti Prime Triple...: 6 retailers, 35 shops |
-| [vga.live](https://vga.live) | Graphics cards | 100 | Gigabyte AMD Radeon RX 9070 Gaming Ov...: $809.99 (-14.7%) | MSI GeForce RTX 5070 Ti 16GB GAMING T...: $1,549.99 (+24.0%) | ASUS GeForce RTX 5060 Ti Prime Triple...: 6 retailers, 35 shops |
-| [cpu.live](https://cpu.live) | Processors | 100 | AMD Ryzen 5 5600XT: $149.99 (-20.6%) | AMD Ryzen 7 9700X: $319.99 (+10.3%) | AMD Ryzen 7 9850X3D: 6 retailers, 35 shops |
-| [ssd.live](https://ssd.live) | SSDs | 100 | Apricorn Aegis Fortress L3 16TB Porta...: $9,807.95 (-24.3%) | Corsair MP600 ELITE 1TB M.2 2280 NVMe...: $304.00 (+21.6%) | SanDisk Portable Drive 1TB SSD: 8 retailers, 35 shops |
-| [hdd.live](https://hdd.live) | Hard drives | 100 | Western Digital My Passport 4TB Exter...: $189.77 (-24.1%) | Western Digital My Book 16TB External...: $659.99 (+20.0%) | Western Digital WD Red Plus 8TB 3.5"...: 8 retailers, 32 shops |
-| [rams.live](https://rams.live) | Memory kits | 100 | Corsair Vengeance 16GB DDR4-3200 CL22...: $119.99 (-24.1%) | Patriot 32GB DDR5-5600 CL46 SO-DIMM (...: $619.99 (+24.0%) | Corsair Vengeance LPX 32GB (2x16GB) D...: 5 retailers, 30 shops |
-| [psu.live](https://psu.live) | Power supplies | 100 | Thermaltake Toughpower GF A3 ATX 1200...: $119.99 (-20.0%) | ASUS TUF 1000W 80+ Gold Fully Modular: $226.99 (+15.7%) | Corsair HX1000i 1000W 80+ Platinum Fu...: 6 retailers, 35 shops |
+| [rtx.live](https://rtx.live) | NVIDIA cards | 100 | Gigabyte GeForce RTX 5070 Ti EAGLE SF...: $1,179.99 (-21.3%) | MSI GeForce RTX 5080 SHADOW 3X Overcl...: $2,349.99 (+23.7%) | ASUS GeForce RTX 5060 Ti Prime Triple...: 7 retailers, 36 shops |
+| [vga.live](https://vga.live) | AMD & Intel cards | 98 | Sapphire PULSE Radeon RX 9060 XT 16GB...: $749.99 (-16.7%) | ASRock AMD Radeon RX 9070 Challenger...: $899.99 (+20.0%) | ASUS PRIME Radeon RX 9070 XT OC Editi...: 6 retailers, 34 shops |
+| [cpu.live](https://cpu.live) | Processors | 100 | AMD Ryzen 5 5500F (100-100001905BO): $79.99 (-20.0%) | AMD Ryzen 5 5500: $79.99 (+14.3%) | AMD Ryzen 7 9800X3D: 7 retailers, 35 shops |
+| [ssd.live](https://ssd.live) | SSDs | 100 | Corsair MP600 ELITE 1TB M.2 2280 NVMe...: $249.99 (-17.8%) | Lexar NM790 4TB M.2 2280 NVMe PCIe 4.0: $689.99 (+19.0%) | Samsung 990 PRO 2TB M.2 2280 NVMe PCI...: 7 retailers, 35 shops |
+| [hdd.live](https://hdd.live) | Hard drives | 100 | Buffalo DriveStation Duo 8TB External...: $435.99 (-17.6%) | Western Digital My Passport 4TB Exter...: $236.99 (+24.9%) | Western Digital WD Red Plus 4TB 3.5"...: 7 retailers, 34 shops |
+| [rams.live](https://rams.live) | Memory kits | 100 | Kingston FURY Beast RGB 32GB (2x16GB)...: $529.99 (-24.0%) | Patriot Signature 4GB DDR3-1600 CL11...: $20.99 (+23.5%) | Corsair Vengeance LPX 32GB (2x16GB) D...: 4 retailers, 30 shops |
+| [psu.live](https://psu.live) | Power supplies | 100 | SilverStone Triton 750Rx 750W ATX 3.1: $78.85 (-21.6%) | Thermaltake Toughpower GF3 1000W 80+...: $159.99 (+20.1%) | Corsair HX1000i 1000W 80+ Platinum Fu...: 6 retailers, 35 shops |
 
 Prices are the ones stores ask themselves for new products; marketplace sellers are never counted. Each site also has a table of every model (graphics cards, processors) or size class (drives, memory, power supplies).
 
@@ -22,7 +22,7 @@ Prices are the ones stores ask themselves for new products; marketplace sellers 
 
 | Path | What |
 |---|---|
-| `latest/pricify-latest.xlsx` | The newest week: a tab per site, a tab of its models or sizes, a Daily tab |
+| `latest/pricify-latest.xlsx` | The newest week: a tab per site, a tab of its models, chipsets, types or sizes, a Daily tab |
 | `latest/json/<site>.json` | The newest week, one JSON document per site |
 | `data/<year>/<week>/` | Every week, kept as released |
 | [`indices/`](indices/) | The Pricify price indices, every day since 2026-10-01 |

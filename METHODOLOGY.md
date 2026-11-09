@@ -15,19 +15,25 @@ sells at the stores. Refurbished and open-box units are not included.
 
 | Site | Products |
 |---|---|
-| rtx.live | NVIDIA GeForce RTX graphics cards |
-| vga.live | Graphics cards of every maker |
+| rtx.live | NVIDIA graphics cards |
+| vga.live | AMD Radeon and Intel Arc graphics cards |
 | cpu.live | Processors |
 | ssd.live | SSDs |
 | hdd.live | Hard drives |
-| rams.live | Memory |
+| rams.live | Desktop and laptop memory |
+| ecc.live | Server and ECC memory (from 2026-W46) |
 | psu.live | Power supplies |
+| motherboards.live | Motherboards (from 2026-W46) |
+| pccase.live | PC cases (from 2026-W46) |
 
-A product can be on two sites (a GeForce card is on rtx.live and vga.live); it keeps the same `product_id` on both.
+Each product is on one site. Until 2026-W44, vga.live carried every maker's cards, so a GeForce card was on both
+rtx.live and vga.live, with the same `product_id`; from 2026-W45 NVIDIA's cards are on rtx.live and AMD's and
+Intel's on vga.live. Server and ECC memory is ecc.live's from 2026-W46 (from 2026-W45 rams.live carries desktop and
+laptop memory only).
 
-Each site also has a table of every model (graphics cards, processors: the RTX 5090 across all its cards) or size class
-(drives, memory, power supplies: every 2TB NVMe SSD, every 850W Gold power supply), computed the same way across all
-of its products.
+Each site also has a table of every model (graphics cards, processors: the RTX 5090 across all its cards), chipset
+(motherboards: every B650 board), case type (PC cases: every mid tower) or size class (drives, memory, power supplies:
+every 2TB NVMe SSD, every 850W Gold power supply), computed the same way across all of its products.
 
 ## Which prices
 

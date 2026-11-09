@@ -25,8 +25,8 @@ dates are US Eastern.
 | `product_id` | integer | Stable across weeks and sites |
 | `name` | string | Product name |
 | `maker` | string | `ASUS`, `AMD`, `Samsung` ... |
-| `model` | string or null | The GPU or processor model (`GeForce RTX 5080`, `Ryzen 7 9850X3D`), else the product line |
-| `category` | string | `gpu`, `cpu`, `ssd`, `hdd`, `ram`, `psu` |
+| `model` | string or null | The GPU or processor model (`GeForce RTX 5080`, `Ryzen 7 9850X3D`), else the maker's series (`ROG STRIX`, `LANCOOL`) |
+| `category` | string | `gpu`, `cpu`, `ssd`, `hdd`, `ram`, `psu`, `mobo` (motherboards), `case` (PC cases) |
 | `part_number` | string or null | The maker's part number |
 | `upc` | string or null | 12-digit UPC (or 13-digit EAN) |
 | `launch_price` | number or null | The model's launch price (MSRP); graphics cards and processors |
@@ -42,24 +42,29 @@ dates are US Eastern.
 | `url` | string | The product's page on the site, with every store's current price |
 | `daily` | array of 7 days | `date`, `low`, `low_store`, `retailers_in_stock`, `shops_in_stock` |
 
-## Models and sizes
+## Models, chipsets, types and sizes
 
-Each JSON document also has `models` (rtx.live, vga.live, cpu.live: every GPU or processor model) or `sizes` (ssd.live,
-hdd.live, rams.live, psu.live: size classes such as `2TB NVMe`, `8TB`, `32GB DDR5`, `850W Gold`). A row covers every
-product of that model or size the site tracks, whichever store sells it.
+Each JSON document also has one table of groups: `models` (rtx.live, vga.live, cpu.live: every GPU or processor
+model), `chipsets` (motherboards.live: every chipset, with the socket it is for, such as `B650 (AM5)`), `types`
+(pccase.live: every case type, such as `Mid tower`) or `sizes` (ssd.live, hdd.live, rams.live, ecc.live, psu.live:
+size classes such as `2TB NVMe`, `8TB`, `32GB DDR5`, `32GB DDR5 RDIMM`, `850W Gold`). A row covers every product of
+that group the site tracks, whichever store sells it.
 
 | Field | Type | Meaning |
 |---|---|---|
-| `name` | string | `GeForce RTX 5090`, `Ryzen 7 9800X3D`, `2TB NVMe` ... |
+| `name` | string | `GeForce RTX 5090`, `Ryzen 7 9800X3D`, `B650 (AM5)`, `Mid tower`, `2TB NVMe` ... |
 | `launch_price` | number or null | The model's launch price (models only) |
-| `products_tracked` | integer | Products of that model or size the site tracks |
+| `products_tracked` | integer | Products of that group the site tracks |
 | `products_in_stock_end` | integer | Of those, in stock at a store selling it itself at the week's end |
 | `week_low` ... `lowest_store_end` | | As for a product, across all of them |
 
 ## Excel workbook (`pricify-<week>.xlsx`)
 
 - `README`: the week, the rules, the license.
-- One tab per site (`rtx.live`, `vga.live`, `cpu.live`, `ssd.live`, `hdd.live`, `rams.live`, `psu.live`): one row per
-  product, the fields above except `daily`.
-- One tab per site of its models or sizes (`rtx.live models`, `ssd.live sizes` ...).
+- One tab per site (`rtx.live`, `vga.live`, `cpu.live`, `ssd.live`, `hdd.live`, `rams.live`, `ecc.live`, `psu.live`,
+  `motherboards.live`, `pccase.live`): one row per product, the fields above except `daily`.
+- One tab per site of its groups (`rtx.live models`, `motherboards.live chipsets`, `pccase.live types`,
+  `ssd.live sizes` ...).
 - `Daily`: one row per product and day, across all sites.
+
+motherboards.live, pccase.live and ecc.live are in the releases from 2026-W46, their first whole week.
